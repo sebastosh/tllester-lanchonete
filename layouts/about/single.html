@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+
+<div class="content">
+        <div>
+        {{ range sort .Pages "Date" "desc" }}
+        {{ if not .Params.private }}
+        <h3><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h3>
+        {{ end }}
+        {{ end }}
+    </div>
+    <div class="about">
+    <h1>{{ .Page.Title }}</h1>
+    {{ .PublishDate.Format "Jan. 2, 2006" }}
+    {{ if and (isset .Params "image") .Params.image.src }}
+    {{ $image := .Page.Resources.GetMatch .Params.image.src }}
+    {{ with $image }}
+    {{ printf `<img src="%s" alt="%s">` $image.RelPermalink .Title | safeHTML }}
+    {{end}}
+    {{ end }}
+
+
+    {{ .Content }}
+
+</div>
+<div class="page-list">
+        {{ range sort .Pages "Date" "desc" }}
+        {{ if not .Params.private }}
+        <div class="post">
+            <h2><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h2>
+        </div>
+        {{ end }}
+    {{ end }}
+</div>
+
+</div>
+
+
+{{ end }}

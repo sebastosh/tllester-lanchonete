@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/
+node_modules/
+public/
+resources/
+static/pagefind/
+
+.hugo_build.lock
