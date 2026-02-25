@@ -10,8 +10,7 @@ title: "[:pb]Paim, toque final (pt. 2)[:en]Paim, final touch (pt. 2)[:]"
 type: "post"
 ---
 
-\[:pb\]
-
+[:pb]
 _\*Mural designs by [Thiago Gonçalves](http://lanchonete.org/en/2020/09/thiago-goncalves/) depicting the Demoiselle and 14 Bis airplanes invented by Alberto Santos Dumont._ 
 
 _\*__See [Paim, final touch (pt. 1)](https://lanchonete.org/en/2020/09/paim-final-touch/)._
@@ -22,14 +21,12 @@ We were just gearing up to [propose the permanent LED installation](https://lan
 
 At some point [Thiago Correia Gonçalves](https://lanchonete.org/en/2020/09/thiago-goncalves/) proposed the LED installation depicting two of Santos Dumont's airplanes--14 Bis and Demoizelle--and using the process of Calel's mural we learned that the original naming of the buildings as airplanes isn't widely considered by residents. As we came to learn with [the side of the wall painted by Edgar Calel et al](https://lanchonete.org/en/2020/09/paim-final-touch/), we would receive input on the design, aesthetic, color and font from the public. This meant that we could perhaps use a mural process for the second section of L-shaped wall to explore the history of the airplanes. The only problem was that Thiago is in NYC. Another member of Lanchonete.org, [Abdoulaye Guibila](https://lanchonete.org/en/2020/10/abdoulaye-guibila/) suggested a [Congolese artist, Lavi Kasongo](https://lanchonete.org/en/2021/01/lavi-kasongo/) who he'd met when he first arrived in São Paulo from Burkina Faso. Thiago and Lavi met online and a joint-design for the second wall was produced, something Lavi painted (alone, due to COVID) between December 2020 and January 2021. The completion of the mural was cross-subsidized by Tarcisio's bar (lanchonete in 14 Bis) and sorta like a Xmas gift to the Conjunto from Lanchonete.org. COVID has been particularly hard on CSD. Many of the northeasterners living there work in restaurant and service jobs, many of which closed due to the pandemic. This affected Tarcisio's bar as well. It is not clear yet how many residents moved back to the Northeast under pandemia conditions.
 
-\[gallery columns="2" link="file" size="medium" ids="1357,1358,1359,1360"\]
-
+[gallery columns="2" link="file" size="medium" ids="1357,1358,1359,1360"]
 The intervention by Lavi and Thiago sets up the next phase, which is a technology-focused project with local youth. AR imagery of the airplanes (with additional historical information on the modernist period in which the buildings were constructed) will be created and accessible via smart phones and tablets. Working with local youth, we'll solicit input on the LED installation design from their parents, whilst maintaining the discussion on a garden at Paim refreshed by Calel's previous intervention. At the same time the team coming together to implement the LED installation grew to include lighting architect, Orlando Marques. Orlando suggested that we consider the Paulista-facing lateral facade of 14 Bis for a variety of reasons. This opened up the Centro-facing facade for another long-standing idea, which is the design of a Conjunto logo. See the latest designs under [Leaving Open](https://lanchonete.org/en/2018/09/open-call/).
 
  
 
-\[:en\]
-
+[:en]
 _\*Mural designs by [Thiago Gonçalves](http://lanchonete.org/en/2020/09/thiago-goncalves/) depicting the Demoiselle and 14 Bis airplanes invented by Alberto Santos Dumont._ 
 
 _\*See [Paim, final touch (pt. 1)](https://lanchonete.org/en/2020/09/paim-final-touch/)._
@@ -40,10 +37,9 @@ At some point [Thiago Correia Gonçalves](https://lanchonete.org/en/2020/09/thi
 
  
 
-\[gallery columns="2" link="file" size="medium" ids="1357,1358,1359,1360"\]
-
+[gallery columns="2" link="file" size="medium" ids="1357,1358,1359,1360"]
 The intervention by Lavi and Thiago sets up the next phase, which is a technology-focused project with local youth. AR imagery of the airplanes (with additional historical information on the modernist period in which the buildings were constructed) will be created and accessible via smart phones and tablets. Working with local youth, we'll solicit input on the LED installation design from their parents, whilst maintaining the discussion on a garden at Paim refreshed by Calel's previous intervention. At the same time the team coming together to implement the LED installation grew to include lighting architect, Orlando Marques. Orlando suggested that we consider the Paulista-facing lateral facade of 14 Bis for a variety of reasons. This opened up the Centro-facing facade for another long-standing idea, which is the design of a Conjunto logo. See the latest designs under [Leaving Open](https://lanchonete.org/en/2018/09/open-call/).
 
  
 
-\[:\]
+[:]

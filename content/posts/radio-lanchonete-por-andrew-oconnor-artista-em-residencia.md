@@ -10,7 +10,7 @@ title: "[:pb]'Rádio Lanchonete' - por Andrew O'Connor, artista em residência[:
 type: "post"
 ---
 
-\[:pb\]Evento final de residência colaborativa com Lanchonete.org e [Residência São João](https://www.residenciasaojoao.com/), de Andrew O'Connor, integrando o [Festival SOMSOCOSMOS](https://www.residenciasaojoao.com/somsocosmos).
+[:pb\]Evento final de residência colaborativa com Lanchonete.org e [Residência São João](https://www.residenciasaojoao.com/), de Andrew O'Connor, integrando o [Festival SOMSOCOSMOS](https://www.residenciasaojoao.com/somsocosmos).
 
  
 
@@ -28,13 +28,10 @@ type: "post"
 
 fotos de Verónica Daniela Cerotta
 
-\[audio mp3="http://lanchonete.org/wp-content/uploads/2019/11/Lancho-Gabbriel-Bruno-imrov.mp3"\]\[/audio\]
-
-\[audio mp3="http://lanchonete.org/wp-content/uploads/2019/11/Lancho-TarsisioJam.mp3"\]\[/audio\]
-
-\[audio mp3="http://lanchonete.org/wp-content/uploads/2019/11/Lancho-Tawilliam.mp3"\]\[/audio\]
-
-áudio de Andrew O'Connor\[:en\]Final event of Andrew O'Connor's collaborative residency between Lanchonete.org and [Residência São João](https://www.residenciasaojoao.com/), as part of [Festival SOMSOCOSMOS](https://www.residenciasaojoao.com/somsocosmos).
+[audio mp3="http://lanchonete.org/wp-content/uploads/2019/11/Lancho-Gabbriel-Bruno-imrov.mp3"\][/audio]
+[audio mp3="http://lanchonete.org/wp-content/uploads/2019/11/Lancho-TarsisioJam.mp3"\][/audio]
+[audio mp3="http://lanchonete.org/wp-content/uploads/2019/11/Lancho-Tawilliam.mp3"\][/audio]
+áudio de Andrew O'Connor[:en\]Final event of Andrew O'Connor's collaborative residency between Lanchonete.org and [Residência São João](https://www.residenciasaojoao.com/), as part of [Festival SOMSOCOSMOS](https://www.residenciasaojoao.com/somsocosmos).
 
  
 
@@ -52,10 +49,7 @@ fotos de Verónica Daniela Cerotta
 
 photos by Verónica Daniela Cerotta
 
-\[audio mp3="http://lanchonete.org/wp-content/uploads/2019/11/Lancho-Gabbriel-Bruno-imrov.mp3"\]\[/audio\]
-
-\[audio mp3="http://lanchonete.org/wp-content/uploads/2019/11/Lancho-TarsisioJam.mp3"\]\[/audio\]
-
-\[audio mp3="http://lanchonete.org/wp-content/uploads/2019/11/Lancho-Tawilliam.mp3"\]\[/audio\]
-
-audio by Andrew O'Connor\[:\]
+[audio mp3="http://lanchonete.org/wp-content/uploads/2019/11/Lancho-Gabbriel-Bruno-imrov.mp3"\][/audio]
+[audio mp3="http://lanchonete.org/wp-content/uploads/2019/11/Lancho-TarsisioJam.mp3"\][/audio]
+[audio mp3="http://lanchonete.org/wp-content/uploads/2019/11/Lancho-Tawilliam.mp3"\][/audio]
+audio by Andrew O'Connor[:]

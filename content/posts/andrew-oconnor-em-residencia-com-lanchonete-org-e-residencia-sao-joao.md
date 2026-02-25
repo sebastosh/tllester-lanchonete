@@ -10,8 +10,7 @@ title: "[:pb]Andrew O'Connor em residência com Lanchonete.org e Residência Sã
 type: "post"
 ---
 
-\[:pb\]
-
+[:pb]
   
 
 Andrew é produtor independente de rádio e artista sonoro, baseado em Toronto, Canadá. Seu trabalho reflete um interesse em som, narração e transmissão, e explora essas ideias através da emissão de rádio, assim como em instalações artísticas, o design sonoro, e rádios pirata. O trabalho de Andrew com rádio já foi incluído na rede CBC Radio, e reproduzido internacionalmente na rádio pública australiana ABC, Rádio Zero em Lisboa, e a emissora pública austríaca ORF. Mais recentemente, seu trabalho foi incluído no Radiophrenia Festival organizado pelo Glasgow Centre for Contemporary Art, e no Deep Wireless Festival of Radio Art. Atualmente, Andrew apresenta e produz semanalmente um programa de rádio pirata chamado DISCO 3000, na sua própria estação low-watt FM, Parkdale Pirate Radio.
@@ -28,8 +27,7 @@ __Trabalhando junto à__ _[Residência São João](https://www.residenciasaojoa
 
 _Todd Lanier Lester_
 
-\[:en\]
-
+[:en]
   
 
 Andrew is an independent radio producer and sound artist based in Toronto Canada. His work reflects an interest in sound, storytelling, and transmission, and explores these ideas through formal broadcast radio as well as installation art, sound design, and pirate radio. Andrew’s work for the radio has been featured across the CBC Radio network, syndicated internationally on Australian public radio ABC, Radio Zero in Lisbon, and by Austrian public broadcaster ORF. Most recently his work has been featured in the Radiophrenia Festival put on by the Glasgow Centre for Contemporary Art, and at the Deep Wireless festival of Radio Art. Andrew currently hosts and produces a weekly pirate radio show called DISCO 3000 on his very own low watt FM station Parkdale Pirate Radio.
@@ -46,4 +44,4 @@ _Working together with [São João Residency](https://www.residenciasaojoao.com/
 
 _Todd Lanier Lester_
 
-\[:\]
+[:]

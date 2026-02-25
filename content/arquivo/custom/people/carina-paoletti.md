@@ -8,4 +8,4 @@ title: "[:pb]Carina Paoletti[:]"
 type: "arquivo"
 ---
 
-\[:pb\]Produtora de Conteúdo e comunicadora da Plataforma. Formada em Relações Internacionais pela Pontifícia Universidade Católica de São Paulo, Carina passou pela editoria da Editora Abril e Folha de São Paulo. Também desenvolve trabalhos como artista visual, mesclando sua bagagem como editora e pesquisadora de tendências elaborando e construindo imagens.\[:\]
+[:pb\]Produtora de Conteúdo e comunicadora da Plataforma. Formada em Relações Internacionais pela Pontifícia Universidade Católica de São Paulo, Carina passou pela editoria da Editora Abril e Folha de São Paulo. Também desenvolve trabalhos como artista visual, mesclando sua bagagem como editora e pesquisadora de tendências elaborando e construindo imagens.[:]

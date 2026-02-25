@@ -9,8 +9,7 @@ title: "Adler Murada em residência na Paim"
 type: "post"
 ---
 
-\[:pb\]
-
+[:pb]
 ## **Cultura e comida - uma experiência sobre o entendimento da migração, habitação e trabalho**
 
 Por Carina Paoletti
@@ -69,8 +68,7 @@ _Estudou Comunicação Social, dando continuidade em programas de formação e o
 
  
 
- \[:en\]
-
+ [:en]
 ## **Cultura e comida - uma experiência sobre o entendimento da migração, habitação e trabalho**
 
 Por Carina Paoletti
@@ -129,4 +127,4 @@ _Estudou Comunicação Social, dando continuidade em programas de formação e o
 
  
 
- \[:\]
+ [:]

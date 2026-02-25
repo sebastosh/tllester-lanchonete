@@ -16,7 +16,7 @@ _[Lanchonete.org](http://www.lanchonete.org/) is an artist-led progressive cult
 
 by Todd Lanier Lester
 
-The [10th Bamako Encounters](http://www.rencontres-bamako.com/?lang=en), African Biennale of Photography, _Telling Time_, invites a participatory art project by Lanchonete.org (including Todd Lanier Lester, Thiago Correia Gonçalves, and Jaime Lauriano) that uses food and photography/film to question the intertwined cultural histories of Brazil and West Africa \[from [e-flux](http://www.e-flux.com/announcements/exhibitions-and-programme-announced/)\].
+The [10th Bamako Encounters](http://www.rencontres-bamako.com/?lang=en), African Biennale of Photography, _Telling Time_, invites a participatory art project by Lanchonete.org (including Todd Lanier Lester, Thiago Correia Gonçalves, and Jaime Lauriano) that uses food and photography/film to question the intertwined cultural histories of Brazil and West Africa [from [e-flux](http://www.e-flux.com/announcements/exhibitions-and-programme-announced/)\].
 
 Lanchonete.org is an artist-led, urban platform focused on how people live, work and share in the contemporary city with the Center of São Paulo as its outlook. It takes its name from the ubiquitous lunch counters that populate every street corner. It is important to note that the Center of São Paulo is host to a variety of West African enclaves.
 

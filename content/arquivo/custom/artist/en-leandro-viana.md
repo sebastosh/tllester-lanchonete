@@ -8,8 +8,8 @@ title: "[:en]Leandro Viana (2013)[:]"
 type: "arquivo"
 ---
 
-\[:en\]Originally from São Paulo, Brazil, [Leandro Viana](http://www.leandroviana.com/) is a freelance photographer based in New York City. After breaking into the field through fashion, editorial, and advertising photography, most notably at DPZ, one of Brazil’s leading advertising agencies, Leandro began documenting social issues such as immigration, refugees, and human rights.
+[:en\]Originally from São Paulo, Brazil, [Leandro Viana](http://www.leandroviana.com/) is a freelance photographer based in New York City. After breaking into the field through fashion, editorial, and advertising photography, most notably at DPZ, one of Brazil’s leading advertising agencies, Leandro began documenting social issues such as immigration, refugees, and human rights.
 
 [Site](http://www.leandroviana.com)
 
- \[:\]
+ [:]

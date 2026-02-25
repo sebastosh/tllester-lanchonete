@@ -10,7 +10,7 @@ title: "[:pb]Paim, o toque final (pt. 1)[:en]Paim, final touch (pt. 1)[:]"
 type: "post"
 ---
 
-\[:pb\]_\*Aquarela por [Thiago Gonçalves](http://lanchonete.org/2020/09/thiago-goncalves/) mostrando vistas laterais do Demoiselle e o 14 Bis, assim como aviões 'imaginados' na faixa lateral do 14 Bis._
+[:pb\]_\*Aquarela por [Thiago Gonçalves](http://lanchonete.org/2020/09/thiago-goncalves/) mostrando vistas laterais do Demoiselle e o 14 Bis, assim como aviões 'imaginados' na faixa lateral do 14 Bis._
 
 De 2013-2017, Lanchonete.org foi uma plataforma cultural conduzida por artistas, focada em como pessoas vivem e trabalham, navegam e compartilham a cidade contemporânea, tendo São Paulo como panorama. O nome vem dos onipresentes balcões das lanchonetes — pontos de comércio amigáveis, sem barreiras, laboriosos e com suas luzes brancas — que ocupam todas as esquinas da cidade. Em 2016 o coletivo comprou uma pequena lanchonete (Bar do Tarcísio, Loja 3) na base do 14 Bis, um dos três edifícios—incluindo Demoiselle e Caravelle— que compõem o Conjunto Santos Dumont. Foi assim que começamos a primeira fase do projeto, é de desenvolver um relacionamento especial com os mais de 4000 moradores do Conjunto Santos Dumont, e de entender melhor o Bixiga, bairro histórico onde o conjunto está localizado ... ao virar um dono de uma lanchonete.
 
@@ -110,10 +110,8 @@ Uma equipe triunfante.
 
  
 
-\*\[Crédito de imagem: [https://vejasp.abril.com.br/cidades/rua-paim- centro-revitalizado/](https://vejasp.abril.com.br/cidades/rua-paim-%0Dcentro-revitalizado/)\]
-
-\[:en\]
-
+\*[Crédito de imagem: [https://vejasp.abril.com.br/cidades/rua-paim- centro-revitalizado/](https://vejasp.abril.com.br/cidades/rua-paim-%0Dcentro-revitalizado/)]
+[:en]
 _\*Watercolor by [Thiago Gonçalves](http://lanchonete.org/en/2020/09/thiago-goncalves/) depicting side views of Demoiselle and 14 Bis as well as ‘imagined’ airplanes on the 14 Bis lateral façade._
 
 _\*See [Paim, final touch (pt. 2)](https://lanchonete.org/en/2021/04/paim-toque-final-pt-2/)._
@@ -218,6 +216,5 @@ A triumphant mural team.
 
  
 
-\*\[Image credit: [https://vejasp.abril.com.br/cidades/rua-paim- centro-revitalizado/](https://vejasp.abril.com.br/cidades/rua-paim-%0Dcentro-revitalizado/)\]
-
-\[:\]
+\*[Image credit: [https://vejasp.abril.com.br/cidades/rua-paim- centro-revitalizado/](https://vejasp.abril.com.br/cidades/rua-paim-%0Dcentro-revitalizado/)]
+[:]

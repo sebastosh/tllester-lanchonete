@@ -10,7 +10,7 @@ title: "Residency Unlimited blog: Food Audit @ Poly/Graphic Triennial (San Juan)
 type: "post"
 ---
 
-\[:pb\]_[Lanchonete.org](http://www.lanchonete.org/) is an artist-led progressive cultural platform focused on how people live and work in, share and survive the contemporary city with the Center of São Paulo as our outlook. It gets its name from the ubiquitous lunch counters—convivial, fluorescent-lit, open-walled, laborious, points of commerce—that populate almost every street corner. One of its members, Todd Lanier Lester blogged regularly for [Residency Unlimited](http://www.residencyunlimited.org/) DIALOGUES over the course of the five-year project._ _In 2015 founding member, Isabel Gandia led a project for the San Juan (Puerto Rico) Poly/Graphic Triennial working with Tara Rodriguez of [El Departamento de la Comida](https://www.facebook.com/El-Departamento-De-La-Comida-233198116790571/). It was called ‘Food Audit’._
+[:pb\]_[Lanchonete.org](http://www.lanchonete.org/) is an artist-led progressive cultural platform focused on how people live and work in, share and survive the contemporary city with the Center of São Paulo as our outlook. It gets its name from the ubiquitous lunch counters—convivial, fluorescent-lit, open-walled, laborious, points of commerce—that populate almost every street corner. One of its members, Todd Lanier Lester blogged regularly for [Residency Unlimited](http://www.residencyunlimited.org/) DIALOGUES over the course of the five-year project._ _In 2015 founding member, Isabel Gandia led a project for the San Juan (Puerto Rico) Poly/Graphic Triennial working with Tara Rodriguez of [El Departamento de la Comida](https://www.facebook.com/El-Departamento-De-La-Comida-233198116790571/). It was called ‘Food Audit’._
 
 [View video interviews here.](http://www.residencyunlimited.org/dialogue/lanchonete/)
 
@@ -28,7 +28,7 @@ El Departamento de la Comida, founded in 2010, is a hybrid space focused on the 
 
 **_\*You can download the [poster here](http://residencyunlimited.org/wp-content/uploads/2016/04/bamako-sanjuan-zine-poster-webversion.pdf) … which was also used for [Bamako Encounters](http://www.e-flux.com/announcements/exhibitions-and-programme-announced/). And, if you read Spanish, here’s [an article](http://www.80grados.net/antropologia-alimentaria-del-huerto-a-la-mesa-brasil-y-puerto-rico-en-la-4ta-trienal-poligrafica/) on the intervention.  Lastly, check out the [1917 Jones Act](http://www.pbs.org/newshour/making-sense/jones-act-holding-puerto-rico-back-debt-crisis/) if you wonder why the work of El Departamento de la Comida is so urgent!_**
 
-Source: Residency Unlimited\[:en\] 
+Source: Residency Unlimited[:en\] 
 
 _[Lanchonete.org](http://www.lanchonete.org/) is an artist-led progressive cultural platform focused on how people live and work in, share and survive the contemporary city with the Center of São Paulo as our outlook. It gets its name from the ubiquitous lunch counters—convivial, fluorescent-lit, open-walled, laborious, points of commerce—that populate almost every street corner. One of its members, Todd Lanier Lester blogged regularly for [Residency Unlimited](http://www.residencyunlimited.org/) DIALOGUES over the course of the five-year project._ _In 2015 founding member, Isabel Gandia led a project for the San Juan (Puerto Rico) Poly/Graphic Triennial working with Tara Rodriguez of [El Departamento de la Comida](https://www.facebook.com/El-Departamento-De-La-Comida-233198116790571/). It was called ‘Food Audit’._
 
@@ -46,4 +46,4 @@ El Departamento de la Comida, founded in 2010, is a hybrid space focused on the 
 
 **_\*You can download the [poster here](http://residencyunlimited.org/wp-content/uploads/2016/04/bamako-sanjuan-zine-poster-webversion.pdf) … which was also used for [Bamako Encounters](http://www.e-flux.com/announcements/exhibitions-and-programme-announced/). And, if you read Spanish, here’s [an article](http://www.80grados.net/antropologia-alimentaria-del-huerto-a-la-mesa-brasil-y-puerto-rico-en-la-4ta-trienal-poligrafica/) on the intervention.  Lastly, check out the [1917 Jones Act](http://www.pbs.org/newshour/making-sense/jones-act-holding-puerto-rico-back-debt-crisis/) if you wonder why the work of El Departamento de la Comida is so urgent!_**
 
-Source: Residency Unlimited\[:\]
+Source: Residency Unlimited[:]

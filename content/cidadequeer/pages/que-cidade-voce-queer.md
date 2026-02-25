@@ -13,7 +13,7 @@ type: "page"
 **fotos** Laura Daviña  
   
 
-\[gallery columns="6" link="file" size="thumbnail" ids="580,581,582,583,584,585,586,587,588,589,590,591,592,593,594,595,596"\]  
+[gallery columns="6" link="file" size="thumbnail" ids="580,581,582,583,584,585,586,587,588,589,590,591,592,593,594,595,596"\]  
 
 O projeto Cidade Queer tentou, em seu programa, descentralizar na cidade a discussão sobre os modos de vida não normativos, entendendo que esse conceito − muito discutido em âmbitos acadêmicos e de maior poderio econômico − é vivido cotidianamente em outros locais.
 
@@ -26,4 +26,4 @@ Que Cidade Você Queer foi um projeto das artistas Bruna Amaro e Juliana Santos
 
 _Among its activities, the Queer City project attempted to decentralize through- out the city the discussion regarding non-normative ways of living, understand- ing that such a concept—widely talked about in academia and higher-income contexts—is also experimented on a daily basis elsewhere._
 
-_Que Cidade Você Queer \[literally What City Do You Queer, making a wordplay with quer, Portuguese for “want”\] was a project conducted by artists Bruna Amaro and Juliana Santos, along with curator Thiago de Paula Souza, held at Casa de Cultura da Brasilândia, in the North zone of São Paulo, on May 11, 2016. In this context, frequenters of the cultural center, mostly kids and teenagers, were provoked by the title question to discuss matters of normalization and sexuality, and produce stencils with related content that were placed on the inner and outer walls of the Casa de Cultura._
+_Que Cidade Você Queer [literally What City Do You Queer, making a wordplay with quer, Portuguese for “want”\] was a project conducted by artists Bruna Amaro and Juliana Santos, along with curator Thiago de Paula Souza, held at Casa de Cultura da Brasilândia, in the North zone of São Paulo, on May 11, 2016. In this context, frequenters of the cultural center, mostly kids and teenagers, were provoked by the title question to discuss matters of normalization and sexuality, and produce stencils with related content that were placed on the inner and outer walls of the Casa de Cultura._

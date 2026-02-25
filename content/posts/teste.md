@@ -10,4 +10,4 @@ title: "Teste"
 type: "post"
 ---
 
-\[:pb\]xxxxxxxx\[:\]
+[:pb\]xxxxxxxx[:]

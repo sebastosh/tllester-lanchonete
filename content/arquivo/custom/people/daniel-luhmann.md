@@ -8,4 +8,4 @@ title: "[:en]Daniel Lühmann[:]"
 type: "arquivo"
 ---
 
-\[:en\]Daniel Lühmann is getting closer to his thirties and works mainly with translation, editing, and all that is written; among the authors translated into Portuguese by him are Emmanuel Carrère, Philip K. Dick and Georges Perec. He is also entering the field of contemporary dance with videos and other materials related to such domain.\[:\]
+[:en\]Daniel Lühmann is getting closer to his thirties and works mainly with translation, editing, and all that is written; among the authors translated into Portuguese by him are Emmanuel Carrère, Philip K. Dick and Georges Perec. He is also entering the field of contemporary dance with videos and other materials related to such domain.[:]

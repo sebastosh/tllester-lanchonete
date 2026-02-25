@@ -65,9 +65,9 @@ Artist, researcher, independent curator and culture producer. He's graduated in 
 
  
 
-_**Cadu Oliveira**_ – Envolvido com ações de voluntariado desde 1996, hoje é militante nos coletivos Revolta Da Lâmpada e Cume. Também fez parte da produção da Conferência \[SSEX BBOX\]. Mediou e compôs mesas de debate na UNIP Jundiaí, FESP, Casper Líbero e USP. Possui MBA em Gestão de Pessoas pela Anhanguera, é formado em Marketing e Vendas pela Universidade Anhembi Morumbi.
+_**Cadu Oliveira**_ – Envolvido com ações de voluntariado desde 1996, hoje é militante nos coletivos Revolta Da Lâmpada e Cume. Também fez parte da produção da Conferência [SSEX BBOX\]. Mediou e compôs mesas de debate na UNIP Jundiaí, FESP, Casper Líbero e USP. Possui MBA em Gestão de Pessoas pela Anhanguera, é formado em Marketing e Vendas pela Universidade Anhembi Morumbi.
 
-**_Cadu Oliveira_** – Involved with voluntary actions since 1996, today he is a militant in Revolta da Lâmpada collective and Cume Collective. Cadu also had been part of \[SSEX BBOX\] Conference. He was invited to be part of and mediate roundtable discussions in UNIP Jundiaí, FESP, Cásper Líbero-SP and USP. He has an MBA in HR in Anhanguera-SP and studied Marketing & Sales at the Universidade Anhembi Morumbi.
+**_Cadu Oliveira_** – Involved with voluntary actions since 1996, today he is a militant in Revolta da Lâmpada collective and Cume Collective. Cadu also had been part of [SSEX BBOX\] Conference. He was invited to be part of and mediate roundtable discussions in UNIP Jundiaí, FESP, Cásper Líbero-SP and USP. He has an MBA in HR in Anhanguera-SP and studied Marketing & Sales at the Universidade Anhembi Morumbi.
 
  
 

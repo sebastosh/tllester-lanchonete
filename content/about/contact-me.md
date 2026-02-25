@@ -7,8 +7,8 @@ title: "[:pb]contato[:en]contact[:]"
 type: "page"
 ---
 
-\[:pb\]Rua Paim, 235 - Condomínio Edifício 14 Bis, São Paulo - SP contact@lanchonete.org
+[:pb\]Rua Paim, 235 - Condomínio Edifício 14 Bis, São Paulo - SP contact@lanchonete.org
 
-\[contact-form-7 id="791" title="Formulário de contato 1"\]\[:en\]Rua Paim, 235 - Condomínio Edifício 14 Bis, São Paulo - SP, Brazil contact@lanchonete.org
+[contact-form-7 id="791" title="Formulário de contato 1"\][:en\]Rua Paim, 235 - Condomínio Edifício 14 Bis, São Paulo - SP, Brazil contact@lanchonete.org
 
-\[contact-form-7 id="791" title="Formulário de contato 1"\]\[:\]
+[contact-form-7 id="791" title="Formulário de contato 1"\][:]

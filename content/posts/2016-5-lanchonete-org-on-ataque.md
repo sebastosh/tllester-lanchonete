@@ -10,7 +10,7 @@ title: "Residency Unlimited blog: Cidade Queer culmination"
 type: "post"
 ---
 
-\[:pb\] 
+[:pb\] 
 
 _[Lanchonete.org](http://www.lanchonete.org/) is an artist-led progressive cultural platform focused on how people live and work in, share and survive the contemporary city with the Center of São Paulo as our outlook. It gets its name from the ubiquitous lunch counters—convivial, fluorescent-lit, open-walled, laborious, points of commerce—that populate almost every street corner. One of its members, Todd Lanier Lester blogged regularly for [Residency Unlimited](http://www.residencyunlimited.org/) DIALOGUES over the course of the five-year project._ _See more [about the ATAQUE! Ball](https://www.cidadequeer.lanchonete.org/projetos-projects/ataque/) on the Cidade Queer site._
 
@@ -28,7 +28,7 @@ We named our closing event [ATAQUE!](https://www.facebook.com/events/12299707570
 
 [ATAQUE!](https://www.facebook.com/events/1229970757034420/) is September 10th.  #contraogolpe
 
-Source: Residency Unlimited\[:en\] 
+Source: Residency Unlimited[:en\] 
 
 _[Lanchonete.org](http://www.lanchonete.org/) is an artist-led progressive cultural platform focused on how people live and work in, share and survive the contemporary city with the Center of São Paulo as our outlook. It gets its name from the ubiquitous lunch counters—convivial, fluorescent-lit, open-walled, laborious, points of commerce—that populate almost every street corner. One of its members, Todd Lanier Lester blogged regularly for [Residency Unlimited](http://www.residencyunlimited.org/) DIALOGUES over the course of the five-year project._ _See more [about the ATAQUE! Ball](https://www.cidadequeer.lanchonete.org/projetos-projects/ataque/) on the Cidade Queer site._ 
 
@@ -46,4 +46,4 @@ We named our closing event [ATAQUE!](https://www.facebook.com/events/12299707570
 
 [ATAQUE!](https://www.facebook.com/events/1229970757034420/) is September 10th.  #contraogolpe
 
-Source: Residency Unlimited\[:\]
+Source: Residency Unlimited[:]

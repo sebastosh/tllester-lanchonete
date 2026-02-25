@@ -9,8 +9,7 @@ title: "[:pb]Deixando em aberto[:en]Leaving Open[:]"
 type: "post"
 ---
 
-\[:pb\]\[gallery columns="2" ids="1336,1337,1338,1339"\]
-
+[:pb\][gallery columns="2" ids="1336,1337,1338,1339"]
 Para os propósitos deste site, termos como "Deixando em Aberto" e "Toque Final" são figurativos.
 
 Através de um [Ciclo de Pós-Planejamento](https://lanchonete.org/en/2018/09/programacao-de-encerramento/), Lanchonete.org conduziu uma programação pública de uma no (2018) para permitir que processos contínuos tenham finais naturais, e para receber comentários e avaliações sobre o trabalho em geral. 'Paim, toque final"([parte 1](https://lanchonete.org/en/2020/09/paim-final-touch/) e [parte 2](https://lanchonete.org/en/2021/04/paim-toque-final-pt-2/)) descreve como alguns participantes do Lanchonete.org continuaram a trabalhar à partir do Bar do Tarcísio (lanchonete) e com os moradores do Conjunto Santos Dumont, e de fato desta maneira nós estamos 'Deixando em Aberto' a nova rede que foi criada durante o projeto Lanchonete.org, de cinco anos (2013-2017).
@@ -21,8 +20,7 @@ Ao se aproximar da data “oficial” do fim do Lanchonete.org, nós solicitamos
 
 [![](/lanchonete/images/CSD-departure-gif-3-500x304.gif)](http://lanchonete.org/wp-content/uploads/2018/09/CSD-departure-gif-3.gif)
 
-\[:en\]\[gallery columns="2" ids="1336,1337,1338,1339"\]
-
+[:en\][gallery columns="2" ids="1336,1337,1338,1339"]
  
 
 For the purposes of this site, terms like 'Leaving Open' and 'Final Touch' are figurative.
@@ -37,4 +35,4 @@ Near the ‘official’ end date of Lanchonete.org, we solicited ideas from past
 
 [![](/lanchonete/images/CSD-departure-gif-3-500x304.gif)](http://lanchonete.org/wp-content/uploads/2018/09/CSD-departure-gif-3.gif)
 
-\[:\]
+[:]

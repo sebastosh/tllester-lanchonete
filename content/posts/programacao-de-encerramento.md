@@ -9,8 +9,7 @@ title: "[:pb]Ciclo de Pós-Planejamento[:en]Post-Planning Cycle[:]"
 type: "post"
 ---
 
-\[:pb\]\[video width="1280" height="720" mp4="http://www.teste.lanchonete.org/wp-content/uploads/2018/09/redes-sociais.mp4"\]\[/video\]
-
+[:pb\][video width="1280" height="720" mp4="http://www.teste.lanchonete.org/wp-content/uploads/2018/09/redes-sociais.mp4"\][/video]
 Vídeo: Coletivo Coletores
 
 Quando o Lanchonete.org alcançou seu marco de cinco anos, nós tínhamos um ímpeto que não poderia parar facilmente no dia 31 de dezembro de 2017. De fato, a essa altura nós tínhamos algumas atividades--o Museu da Vizinhança, os Almoços de Segunda, uma [aula aberta sobre poder local com a Escola da Cidade](https://lanchonete.org/wp-content/uploads/2018/09/aulas-Poder-Local-1.pdf) e o espaço comunitário, para redesenhar com parceiros de ambos dentro e de fora da comunidade--que mereciam conclusão. Também haviam artistas e “makers” adicionais que queríamos receber durante a desmontagem da plataforma. Basicamente, nós ainda tínhamos algumas coisas a mais para realizar como um grupo. Poderia até ser argumentado que o “ciclo de pós-planejamento” foi um momento importante para nós, para termos uma série de residentes, assim como convidados –internacionais e locais– que nos ajudaram a compor ideias e evitar “groupthink” consistentemente ao longo da duração do projeto.
@@ -23,16 +22,13 @@ No início de 2018, hospedamos o fotógrafo Akinbode Akinbiyi, baseado em Berlim
 
  
 
-**Charrete com o KTH Royal Institute of Technology de Estocolmo** \[portfolio\_slideshow size=full include="959,941,942,960,968,969,943,944,945,946,947,948"\]
-
+**Charrete com o KTH Royal Institute of Technology de Estocolmo** [portfolio\_slideshow size=full include="959,941,942,960,968,969,943,944,945,946,947,948"]
 * * *
 
-**Visita à Ocupação 9 de Julho com o KTH Royal Institute of Technology e Akinbode Akinbiyi** \[portfolio\_slideshow size=full include="965,966,967"\]
-
+**Visita à Ocupação 9 de Julho com o KTH Royal Institute of Technology e Akinbode Akinbiyi** [portfolio\_slideshow size=full include="965,966,967"]
 * * *
 
-**Examinando a Migração Africana no Centro de São Paulo, Caminhando com Akinbode Akinbiyi (e KTH)** \[portfolio\_slideshow size=full include="961,962,949,963,951,953"\]
-
+**Examinando a Migração Africana no Centro de São Paulo, Caminhando com Akinbode Akinbiyi (e KTH)** [portfolio\_slideshow size=full include="961,962,949,963,951,953"]
 * * *
 
 **Conferência Open Engagement no Queens Museum (Para fora: NYC)**
@@ -47,8 +43,7 @@ Apresentação de Raphael Daibert e Paula Van Erven (Lanchonete.org), com o parc
 
 ![](/lanchonete/images/image6-350x500.png)
 
-\[portfolio\_slideshow size=full include="955,956,957,958"\]
-
+[portfolio\_slideshow size=full include="955,956,957,958"]
 Em parceria com a Escola da Cidade e os arquitetos do Habita-Cidade, o Lanchonete.org desenvolveu o curso livre: “Poder local – estratégias em prol da comunidade: Desenvolvimento de projetos coletivos com e para comunidades”. O curso apresentou e debateu estratégias no sentido de como trabalhar em parceria com uma comunidade e como facilitar e garantir dinâmicas comunitárias. O local de atuação e diálogo encontra-se no [Museu da Vizinhança](https://www.paim.lanchonete.org/2017/10/05/abertura-museu-da-vizinhanca/), no Conjunto Santos Dumont. Um parceiro diferente do Lanchonete.org ministrou cada sessão de aula, que sempre terminavam com o tradicional Almoço de Segunda.
 
 \*Veja o programa de estudo [aqui](https://lanchonete.org/wp-content/uploads/2018/09/aulas-Poder-Local-1.pdf)
@@ -81,7 +76,7 @@ Lanchonete.org e o Coletivo Coletores começaram a trabalhar juntos em 2016, dur
 
 Somando forças depois de anos de diversas parcerias, Coletivo Coletores e Lanchonete.org fizeram a co-curadoria e produziram 'Corpos Cartográficos', uma programação pública oferecida durante a semana de abertura da Bienal de São Paulo de 2018, considerando histórias de comunidades, lembranças, a cidade e todas suas contradições, assim, reconhecendo a relação entre o Centro de São Paulo e São Matheus na Zona Leste, muitas vezes considerada estar localizada na 'periferia' da cidade.
 
-\[portfolio\_slideshow size=full include="902,901,900,899,898,897,890,889"\] fotos: Daniela Cordeiro e Coletivo Via
+[portfolio\_slideshow size=full include="902,901,900,899,898,897,890,889"\] fotos: Daniela Cordeiro e Coletivo Via
 
 É possível representar histórias ainda não contadas? Como fomentar momentos de encontro que não carecem de presença física? Como criar lugares de aprendizagem em trânsito apenas no correr do tempo?
 
@@ -133,8 +128,7 @@ No final de novembro de 2018, Thiago concebeu o “Terroir da Paim,” uma inter
 
 * * *
 
-\[:en\]\[video width="1280" height="720" mp4="http://www.teste.lanchonete.org/wp-content/uploads/2018/09/redes-sociais.mp4"\]\[/video\]
-
+[:en\][video width="1280" height="720" mp4="http://www.teste.lanchonete.org/wp-content/uploads/2018/09/redes-sociais.mp4"\][/video]
 Vídeo: Coletivo Coletores
 
 By the time Lanchonete.org reached its five-year mark, we had a momentum that could not easily stop on December 31, 2017. Indeed at this point we had some activities--the Neighborhood Museum, Monday Lunches, an [open course on Local Power with Escola da Cidade](http://lanchonete.org/wp-content/uploads/2018/09/aulas-Poder-Local-1.pdf) and a community space to redesign with partners inside and outside the community–that deserved completion. There were also some additional artists and makers who we wanted to host while also 'disassembling' the platform. Basically we had a few more things we wanted to do as a group. One might even argue that the 'post-planning cycle' was an important time to have a final cohort of residents in as much our guests--international and local--helped us to compound ideas and avoid groupthink on consistent basis over the duration of the project.
@@ -147,16 +141,13 @@ Early in 2018 we hosted Berlin-based photographer, Akinbode Akinbiyi. His work b
 
  
 
-**Charrette With KTH Royal Institute of Technology of Stockholm** \[portfolio\_slideshow size=full include="959,941,942,960,968,969,943,944,945,946,947,948"\]
-
+**Charrette With KTH Royal Institute of Technology of Stockholm** [portfolio\_slideshow size=full include="959,941,942,960,968,969,943,944,945,946,947,948"]
 * * *
 
-**Visit to the 9 de Julho Occupation with KTH Royal Institute of Technology and Akinbode Akinbiyi** \[portfolio\_slideshow size=full include="965,966,967"\]
-
+**Visit to the 9 de Julho Occupation with KTH Royal Institute of Technology and Akinbode Akinbiyi** [portfolio\_slideshow size=full include="965,966,967"]
 * * *
 
-**Examining African Migration in São Paulo's Centro, Walking with Akinbode Akinbiyi (and KTH)** \[portfolio\_slideshow size=full include="961,962,949,963,951,953"\]
-
+**Examining African Migration in São Paulo's Centro, Walking with Akinbode Akinbiyi (and KTH)** [portfolio\_slideshow size=full include="961,962,949,963,951,953"]
 * * *
 
 **Open Engagement conference at the Queens Museum (Outbound: NYC)**
@@ -171,8 +162,7 @@ Presentation by Raphael Daibert and Paula Van Erven (Lanchonete.org), and Keir J
 
 ![](/lanchonete/images/image6-350x500.png)
 
-\[portfolio\_slideshow size=full include="955,956,957,958"\]
-
+[portfolio\_slideshow size=full include="955,956,957,958"]
 In partnership with the Escola da Cidade and architects from Habita-Cidade, Lanchonete.org developed the open course: “Local power -- strategies for the community: developing collective projects with and for communities.” The course presented and debated strategies on how to work in partnership with a community e how to facilitate community dynamics. It took place in the [Neighborhood Museum](https://www.paim.lanchonete.org/2017/10/05/abertura-museu-da-vizinhanca/), in the Santos Dumont Complex. The classes had a different partner of Lanchonete.org come to speak at each session, and ended with the traditional Monday Lunches.
 
 \*See course syllabus [here](https://lanchonete.org/wp-content/uploads/2018/09/aulas-Poder-Local-1.pdf)
@@ -205,7 +195,7 @@ Lanchonete.org and Coletivos Coletores began working together in 2016 during [Zo
 
 Joining forces after years and several partnerships, Coletivo Coletores and Lanchonete.org co-curated and produced 'Corporal Cartographies', a public programme offered during the opening week of the 2018 São Paulo Biennial considering community histories, memory, the city and all of its contradictions, thereby acknowledging the relationship between São Paulo's Centro and São Mateus in its East Zone, often called the 'periphery'.
 
-\[portfolio\_slideshow size=full include="902,901,900,899,898,897,890,889"\] photos: Daniela Cordeiro e Coletivo Via
+[portfolio\_slideshow size=full include="902,901,900,899,898,897,890,889"\] photos: Daniela Cordeiro e Coletivo Via
 
 Is it possible to represent stories that have not yet been told? How are moments of encounter, that contain a physical presence, instigated? How are places of learning in transit created only throughout the passage of time?
 
@@ -257,4 +247,4 @@ In late November 2018 he conceived ‘Terroir da Paim’, a meat-drying (and eat
 
 * * *
 
-\[:\]
+[:]

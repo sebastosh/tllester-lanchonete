@@ -21,16 +21,14 @@ O evento **“Arte e feminismos no combate ao autoritarismo”** foi um encontro
 
 Além das três mesas de debate houve lançamentos do _[Jornal de Borda 3](http://www.tendadelivros.com.br/pd-31f201-jornal-de-borda-03.html "Jornal de Borda 3")_ e [Ensaio 6 – “Por que não](http://www.edicoesaurora.com/6-por-que-nao-houve-grandes-mulheres-artistas-linda-nochlin/) houve grandes mulheres artistas?” de Linda Nochlin, no .Aurora.
 
-\[gallery link="file" size="large" voltata\_gallery\_type="bootstrap" ids="616,617,618,619,620,621,622,623,624,625,626,627,628"\]
-
+[gallery link="file" size="large" voltata\_gallery\_type="bootstrap" ids="616,617,618,619,620,621,622,623,624,625,626,627,628"]
 **CONTEXTO**
 
 Neste exato momento, muitos artistas ocupam prédios da Funarte em cidades brasileiras. A reitoria da Unicamp está ocupada, e os secundaristas lutam pelo direito à educação. Entre as reivindicações dos que resistem está a volta da presidenta democraticamente eleita.
 
 A primeira mulher presidente do país foi destituída do cargo em plena Conferência Nacional de Mulheres, momento em que se apontava a necessidade de criação do Sistema Nacional de Políticas para as Mulheres.
 
-\[gallery link="file" size="large" voltata\_gallery\_type="bootstrap" ids="629,630,631,632,633,635,636,637,638,639,640"\]
-
+[gallery link="file" size="large" voltata\_gallery\_type="bootstrap" ids="629,630,631,632,633,635,636,637,638,639,640"]
 **PROGRAMAÇÃO**
 
 **11-13h / Combate 1: Ativismo, direitos sexuais e feminismos** **Debatedorxs** **Rita Quadros /** ativista lésbica feminista **Jackeline Romio /** ativista do feminismo negro **Mediação: Fernanda Grigolin /** Jornal de Borda | Tenda de Livros
@@ -55,7 +53,7 @@ A primeira mulher presidente do país foi destituída do cargo em plena Conferê
 
 ****Jackeline Romio**** é doutoranda e mestre em demografia pela Unicamp. Tem se dedicado ao estudo da violência contra mulher, feminicídios e desigualdades sociais de gênero e raça. Em 2013 fez parte do “Dossiê Mulheres Negras” da ONU Mulheres e IPEA, onde tratou da questão da vitimização de mulheres negras por agressão física no Brasil. Tem trabalho ativista com arte feminista negra junto ao coletivo Louva Deusas, foi idealizadora e editora de _além dos quartos_, o primeiro livro de arte erótica feminista negra do Brasil.
 
-****Cadu Oliveira**** é ativista LGBT e militante dos coletivos Revolta da Lâmpada e Cume, envolvido com ações de voluntariado desde 1996. Também fez parte da produção da Conferência \[SSEX BBOX\]. Tem MBA em Gestão de Pessoas pela Anhanguera, formado em Marketing e Vendas pela Universidade Anhembi Morumbi.
+****Cadu Oliveira**** é ativista LGBT e militante dos coletivos Revolta da Lâmpada e Cume, envolvido com ações de voluntariado desde 1996. Também fez parte da produção da Conferência [SSEX BBOX\]. Tem MBA em Gestão de Pessoas pela Anhanguera, formado em Marketing e Vendas pela Universidade Anhembi Morumbi.
 
 ****Fernanda Grigolin**** é artista visual, editora, pesquisadora, doutoranda em Artes Visuais na Unicamp. Por dez anos foi ativista de movimentos sociais no Brasil e na América Latina. Possui especialização em Direitos Humanos (USP) e é mestra em artes visuais pela Unicamp. É idealizadora do Jornal de Borda e da Tenda de Livros. Vive e trabalha entre Campinas e São Paulo.
 

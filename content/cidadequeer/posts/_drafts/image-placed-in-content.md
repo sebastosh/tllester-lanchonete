@@ -10,8 +10,7 @@ title: "Image Placed in Content"
 type: "post"
 ---
 
-\[caption id="attachment\_20" align="alignright" width="300" caption="Image inserted but not set as featured image."\][![](images/2820214199_0c0d5d650c_b-300x199.jpg "Running")](https://cidadequeer.local//wp-content/uploads/2011/07/2820214199_0c0d5d650c_b.jpeg)\[/caption\]
-
+[caption id="attachment\_20" align="alignright" width="300" caption="Image inserted but not set as featured image."\][![](images/2820214199_0c0d5d650c_b-300x199.jpg "Running")](https://cidadequeer.local//wp-content/uploads/2011/07/2820214199_0c0d5d650c_b.jpeg)[/caption]
 Lorem ipsum sit amet, consectetur adipiscing elit. Integer in turpis libero, nec dapibus velit. Suspendisse at molestie magna. Nulla facilisi. Praesent non nibh et dui tincidunt molestie. Fusce nec ante at odio tincidunt euismod. Praesent suscipit ipsum nisl. Pellentesque id massa erat, ut euismod mauris. Nam consectetur scelerisque turpis a dictum. Etiam tincidunt libero vitae metus fringilla lobortis.
 
 Quisque dictum purus vitae ipsum interdum ut rutrum tellus faucibus. Aenean sed nunc ligula. Quisque faucibus, felis quis fermentum rutrum, magna felis tempor mauris, non malesuada metus lacus a nibh. Sed sed elit nec lectus euismod sollicitudin. Curabitur accumsan pellentesque lectus vitae vestibulum.

@@ -6,8 +6,7 @@ title: "about"
 type: "about"
 ---
 
-\[:pb\]
-
+[:pb]
 De 2013-2017, Lanchonete.org foi uma plataforma cultural conduzida por artistas, focada em como pessoas vivem e trabalham, navegam e compartilham a cidade contemporânea, tendo São Paulo como panorama. O nome vem dos onipresentes balcões das lanchonetes — pontos de comércio amigáveis, sem barreiras, laboriosos e com suas luzes brancas — que ocupam todas as esquinas da cidade. Lanchonete.org foi sobre problemas que cidades grandes encaram, as diferentes formas de "poder urbano", e o Direito à Cidade, não como uma maneira de definir esses conceitos… mas de esticar a plataforma o máximo possível para considerar diversos pontos de vista. Agora, Lanchonete.org faz a sua transição para a Associação Espaço Cultural Lanchonete.
 
 * * *
@@ -236,8 +235,7 @@ vem de São Paulo, trabalha como editora e gestora cultural, e atualmente é est
 
 ASSOCIAÇÃO ESPAÇO CULTURAL LANCHONETE (conselho)
 
-Joel Borges, President (atual) Nazaré Brasil (atual) Francisca Caporali (passado) Ângela Destro (atual) Todd Lanier Lester (atual) Leandro Viana (passado) Lorena Vicini (atual) Camila Camargo Corazza & Erika Spalding (Barbosa e Spalding Advogados) PREPARAÇÃO DE COMIDA: Pipa, Abdoulaye Guibila, Kadija de Paula, Jonas Van Holanda, Adler Murada, Ingrid Cuestas, GastroMotiva, Cidades sem Fome, Café Imaginário, Fechado para Jantar. FOTOGRAFIA: Além de Leandro Viana, Leandro Moraes, e Danila Bustamente, que se juntaram ao processo do Lanchonete.org, também trabalhamos com vários fotógrafos/as independentes, incluindo o Paulo Bueno, Mayra Azzi, e Marina Rago.)\[:en\]
-
+Joel Borges, President (atual) Nazaré Brasil (atual) Francisca Caporali (passado) Ângela Destro (atual) Todd Lanier Lester (atual) Leandro Viana (passado) Lorena Vicini (atual) Camila Camargo Corazza & Erika Spalding (Barbosa e Spalding Advogados) PREPARAÇÃO DE COMIDA: Pipa, Abdoulaye Guibila, Kadija de Paula, Jonas Van Holanda, Adler Murada, Ingrid Cuestas, GastroMotiva, Cidades sem Fome, Café Imaginário, Fechado para Jantar. FOTOGRAFIA: Além de Leandro Viana, Leandro Moraes, e Danila Bustamente, que se juntaram ao processo do Lanchonete.org, também trabalhamos com vários fotógrafos/as independentes, incluindo o Paulo Bueno, Mayra Azzi, e Marina Rago.)[:en]
 From 2013-2017, [Lanchonete.org](http://lanchonete.org/) was an artist-led, cultural platform focused on how people live and work in, navigate and share the contemporary city with the Center of São Paulo as its outlook. The name comes from the ubiquitous lunch counters—convivial, fluorescent-lit, open-walled, laborious, points of commerce—that populate almost every street corner.  [Lanchonete.org](http://lanchonete.org/) was about the issues that big cities face, the different forms of ‘urban power’, and the Right to the City, but not insomuch as to define these constructs…rather to stretch the platform as far as is necessary to consider diverse viewpoints. Now, Lanchonete.org makes its transition into the Associação Espaço Cultural Lanchonete.
 
 * * *
@@ -464,4 +462,4 @@ Comes from São Paulo, works as publisher and cultural management and at the mom
 
 ASSOCIAÇÃO ESPAÇO CULTURAL LANCHONETE (council)
 
-Joel Borges, President (present) Nazaré Brasil (present) Francisca Caporali (past) Ângela Destro (present) Todd Lanier Lester (present) Leandro Viana (past) Lorena Vicini (present) Camila Camargo Corazza & Erika Spalding (Barbosa e Spalding Advogados) FOOD PREP: Pipa, Abdoulaye Guibila, Kadija de Paula, Jonas Van Holanda, Adler Murada, Ingrid Cuestas, GastroMotiva, Cidades sem Fome, Café Imaginário, Fechado para Jantar. PHOTOGRAPHY: In addition to Leandro Viana, Leandro Moraes, and Danila Bustamente, who joined the process of Lanchonete.org, we worked with a range of independent photographers, including Paulo Bueno, Mayra Azzi, and Marina Rago.)\[:\]
+Joel Borges, President (present) Nazaré Brasil (present) Francisca Caporali (past) Ângela Destro (present) Todd Lanier Lester (present) Leandro Viana (past) Lorena Vicini (present) Camila Camargo Corazza & Erika Spalding (Barbosa e Spalding Advogados) FOOD PREP: Pipa, Abdoulaye Guibila, Kadija de Paula, Jonas Van Holanda, Adler Murada, Ingrid Cuestas, GastroMotiva, Cidades sem Fome, Café Imaginário, Fechado para Jantar. PHOTOGRAPHY: In addition to Leandro Viana, Leandro Moraes, and Danila Bustamente, who joined the process of Lanchonete.org, we worked with a range of independent photographers, including Paulo Bueno, Mayra Azzi, and Marina Rago.)[:]

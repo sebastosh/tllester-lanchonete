@@ -21,8 +21,7 @@ _Por_ Pierre Michel Jean _Tradução_ Raphael Daibert
 
  
 
-\[gallery link="file" size="medium" columns="2" ids="51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,79,80"\]
-
+[gallery link="file" size="medium" columns="2" ids="51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,79,80"]
  
 
 * * *
