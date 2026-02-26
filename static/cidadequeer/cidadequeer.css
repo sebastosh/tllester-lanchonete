@@ -20,6 +20,8 @@ body.cidadequeer {
   background-color: #ffffff;
   -ms-word-wrap: break-word;
   word-wrap: break-word;
+    background-image: url(/cidadequeer/cidadequeer-banner.png);
+    background-repeat: no-repeat;
 }
 
 body.cidadequeer img,
@@ -85,20 +87,34 @@ body.cidadequeer .cq-page-body a:hover {
    ------------------------------------------------------------ */
 
 #cq-masthead {
-  text-align: center;
-  padding: 50px 15px 100px;
+    text-align: center;
+    margin-bottom: 4em;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
 }
 
 .cq-branding {
-  margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+}
+
+.back-to-lanchonete {
+  margin-right: 260px;
 }
 
 .cq-site-description {
-  font-family: 'Helvetica', 'Arial', sans-serif;
-  font-size: 16px;
+  font-family: 'Helvetica', 'Arial', sans-serif !important;
+  font-size: 36px !important;
   color: #0a0a0a;
-  margin: 0 0 5px;
-  display: inline;
+    height: 375px;
+    padding: 0 0 0 6em;
+
+
 }
 
 .cq-site-description a,
@@ -107,11 +123,10 @@ body.cidadequeer .cq-page-body a:hover {
 }
 
 .cq-site-title {
-  font-family: 'Helvetica', 'Arial', sans-serif;
-  font-size: 36px;
-  font-weight: normal;
-  color: #0a0a0a;
-  margin: 5px 0 0;
+    font-size: 36px;
+    font-weight: normal;
+    color: #0a0a0a;
+    margin: 5px 125px 3em 0;
 }
 
 .cq-site-title a,
