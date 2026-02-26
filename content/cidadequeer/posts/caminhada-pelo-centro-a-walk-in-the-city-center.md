@@ -30,7 +30,7 @@ Idealizada pelo curador Thiago Carrapatoso, a caminhada pelo Centro de São Pau
 > 
 > \*
 > 
-> \[...\] é tributária dessa forma de sensibilidade a ideia da antiga retórica, segundo a qual é o corpo da pessoa amada que representa o local de memória mais ativo possível. É Camp a tendência em preferir o local da memória à sua referência.
+> [...\] é tributária dessa forma de sensibilidade a ideia da antiga retórica, segundo a qual é o corpo da pessoa amada que representa o local de memória mais ativo possível. É Camp a tendência em preferir o local da memória à sua referência.
 
 > Segundo Manifesto Camp – Patrick Mauriès, 1978
 > 
@@ -42,7 +42,7 @@ Sinto hoje uma necessidade imperiosa de compartilhar paisagens, pois estou certo
 
 de construirmos cidades neste século XXI. Construí-las através de falas e imagens com movimentos e nos servindo de performances mais do que de grandes projetos de ditas políticas que não contemplam a Política, necessidade de fazermos o diálogo. É pelo toque, pelo gesto amoroso, pelo afago e pelo cafuné. Contar para e caminhar com aqueles com os quais hoje, neste novembro de 2015, convivo nesta São Paulo só pode fazer dela a cidade onde todos os conflitos poderão se manifestar com todas as suas liberdades, formas de expressão e sensibilidades. Eu também sempre vou preferir o local da memória à sua referência. Se ser queer é ser estranho, então sou estranho. No ninho, pra começar. E só e tão somente lá, quando for enterrado, é que poderei afirmar ter finalmente entendido tudo. Alguém sempre terá que ficar para contar a história, e meu sonho é expirar nos braços do meu Horácio amado. De preferência ambos nus, claro!
 
-> Hamlet Se você é um homem; Me dá essa taça. Larga-a, pelos céus, deixa comigo! Ó Deus, Horácio, que nome execrado Viverá depois de mim, se as coisas ficarem assim ignoradas! Se jamais me tiveste em teu coração Renuncia ainda um tempo à bem-aventurança, E mantém teu sopro de vida neste mundo de dor Pra contar minha istória. \[...\] Não vou viver pra ouvir notícias da Inglaterra; Mas profetizo que a eleição recairá em Fortinbrás. Ele tem o meu voto agonizante; Diz-lhe isso e fala de todas as ocorrências, Maiores e menores, que me impulsionaram a... O resto é silêncio. Morre.
+> Hamlet Se você é um homem; Me dá essa taça. Larga-a, pelos céus, deixa comigo! Ó Deus, Horácio, que nome execrado Viverá depois de mim, se as coisas ficarem assim ignoradas! Se jamais me tiveste em teu coração Renuncia ainda um tempo à bem-aventurança, E mantém teu sopro de vida neste mundo de dor Pra contar minha istória. [...\] Não vou viver pra ouvir notícias da Inglaterra; Mas profetizo que a eleição recairá em Fortinbrás. Ele tem o meu voto agonizante; Diz-lhe isso e fala de todas as ocorrências, Maiores e menores, que me impulsionaram a... O resto é silêncio. Morre.
 > 
 > Hamlet – William Shakespeare, 1603, tradução de Millôr Fernandes Paulo Antonio Guedes (Paulo Goya)
 
@@ -60,7 +60,7 @@ Conceptualized by the curator Thiago Carrapatoso, the walk in the Center of Sã
 > 
 > \*
 > 
-> \[...\] such form of sensibility is tributary to the ancient rhetoric, according to which the body of the loved one represents the most active spot of memory. Camp is the trend to prefer the place of a memory rather than its reference.
+> [...\] such form of sensibility is tributary to the ancient rhetoric, according to which the body of the loved one represents the most active spot of memory. Camp is the trend to prefer the place of a memory rather than its reference.
 > 
 > Second Manifesto of Camp – Patrick Mauriès, 1978
 > 
@@ -72,7 +72,7 @@ Today I feel a pressing need of sharing landscapes, for I am sure that, firstly,
 
 > Hamlet As thou’rt a man, Give me the cup: let go; by heaven, I’ll have’t. O good Horatio, what a wounded name, Things standing thus unknown, shall live behind me! If thou didst ever hold me in thy heart Absent thee from felicity awhile, And in this harsh world draw thy breath in pain,
 
-> To tell my story. \[...\] I cannot live to hear the news from England; But I do prophesy the election lights On Fortinbras: he has my dying voice; So tell him, with the occurrents, more and less, Which have solicited. The rest is silence. Dies.
+> To tell my story. [...\] I cannot live to hear the news from England; But I do prophesy the election lights On Fortinbras: he has my dying voice; So tell him, with the occurrents, more and less, Which have solicited. The rest is silence. Dies.
 > 
 > Hamlet – William Shakespeare, 1603 Paulo Antonio Guedes (Paulo Goya)
 

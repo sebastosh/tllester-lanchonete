@@ -5,7 +5,7 @@
         {{ if .NextInSection }}
         <a href="{{ .NextInSection.Permalink }}">
 
-            ← Previous<br />
+            {{ i18n "previousPost" }}<br />
                 {{ .NextInSection.Title }}
             
                          
@@ -20,7 +20,7 @@
 <div class="next">
         {{ if .PrevInSection }}
         <a href="{{ .PrevInSection.Permalink }}">
-            Next →<br />
+            {{ i18n "nextPost" }}<br />
             {{ .PrevInSection.Title }}
              
         </a>

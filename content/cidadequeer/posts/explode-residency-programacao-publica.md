@@ -228,8 +228,7 @@ http://www.danielcflima.com/ https://issuu.com/invisiveisproducoes
 
  
 
-\[caption id="attachment\_1222" align="alignleft" width="200"\]![Diane Lima](images/dianelima-fotode_alile_dara_onawale-200x300.jpg) Foto de Alile Dara Onawale\[/caption\]
-
+[caption id="attachment\_1222" align="alignleft" width="200"\]![Diane Lima](images/dianelima-fotode_alile_dara_onawale-200x300.jpg) Foto de Alile Dara Onawale[/caption]
 AFROTRANSCENDENCE
 
 Dirigida por Yasmin Thayná e escrita por Diane Lima, a série de 12 capítulos discute racismo, memória, práticas artísticas e as necessidade de produzirmos conhecimento como ato político.
@@ -260,7 +259,7 @@ com: [Cadu Oliveira/Revolta da Lâmpada](https://www.facebook.com/arevoltadalam
 
  
 
-**Cadu Oliveira** é envolvido com ações de voluntariado desde 1996. Hoje é militante nos coletivos [A Revolta Da Lâmpada](https://www.facebook.com/arevoltadalampada) e Cume. Também fez parte da produção da Conferência \[SSEX BBOX\]. Mediou e compões mesas de debate na UNIP Jundiaí, FESP, Casper Líbero e USP. [A Revolta Da Lâmpada](https://www.facebook.com/arevoltadalampada) começou como uma manifestação pelo corpo livre, em novembro de 2014: descentralizada, desinstitucionalizada, coletiva, criativa, independente e com equilíbrio de protagonismo entre corpos. O ponto de partida: paulista 777, o local dos ataques de lâmpada que agrediram violentamente pessoas LGBT e também heterossexuais cis, após qualificarem o comportamento de seus corpos como inadequados.
+**Cadu Oliveira** é envolvido com ações de voluntariado desde 1996. Hoje é militante nos coletivos [A Revolta Da Lâmpada](https://www.facebook.com/arevoltadalampada) e Cume. Também fez parte da produção da Conferência [SSEX BBOX\]. Mediou e compões mesas de debate na UNIP Jundiaí, FESP, Casper Líbero e USP. [A Revolta Da Lâmpada](https://www.facebook.com/arevoltadalampada) começou como uma manifestação pelo corpo livre, em novembro de 2014: descentralizada, desinstitucionalizada, coletiva, criativa, independente e com equilíbrio de protagonismo entre corpos. O ponto de partida: paulista 777, o local dos ataques de lâmpada que agrediram violentamente pessoas LGBT e também heterossexuais cis, após qualificarem o comportamento de seus corpos como inadequados.
 
 ![logo-revlota](images/logo-revlota-300x300.jpg)A Revolta da Lâmpada luta pelo corpo livre e acredita que fervo também é luta.
 

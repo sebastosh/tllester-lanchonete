@@ -66,6 +66,5 @@ If São Paulo could only learn from the Ficus that grows in Ibirapuera Park in o
 
 _Thiago Gonçalves is an artist based in São Paulo. The above image is from an installation by Thiago Gonçalves and Alejandra Bruschi entitled “[Hydrotropismo](http://kunsthallesaopaulo.hospedagemdesites.ws/wordpress2/?page_id=4276)” that was on view at Kunsthalle São Paulo for the month of April 2015.  Thiago and Alejandra are a part of Lanchonete.org._
 
-\[Images courtesy of Thiago Gonçalves\]
-
+[Images courtesy of Thiago Gonçalves]
 Source: Residency Unlimited
