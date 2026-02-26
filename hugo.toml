@@ -31,6 +31,11 @@ defaultContentLanguageInSubdir = false
       name = 'Arquivo'
       url = '/arquivo/'
       weight = 30
+    [[languages.pt.menus.main]]
+      identifier = 'cidadequeer'
+      name = 'Cidade Queer'
+      url = '/cidadequeer/'
+      weight = 40
 
   [languages.en]
     languageCode = 'en-US'
@@ -55,6 +60,11 @@ defaultContentLanguageInSubdir = false
       name = 'Archive'
       url = '/arquivo/'
       weight = 30
+    [[languages.en.menus.main]]
+      identifier = 'cidadequeer'
+      name = 'Queer City'
+      url = '/cidadequeer/'
+      weight = 40
 
 [sitemap]
   changefreq = "weekly"
