@@ -1,0 +1,20 @@
+[previousPost]
+other = "← Anterior"
+
+[nextPost]
+other = "Próximo →"
+
+[copyright]
+other = "Direitos Autorais"
+
+[searchLabel]
+other = "Buscar"
+
+[about]
+other = "Sobre"
+
+[post]
+other = "Artigos"
+
+[arquivo]
+other = "Arquivo"

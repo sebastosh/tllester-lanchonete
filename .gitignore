@@ -8,3 +8,7 @@ static/pagefind/
 .hugo_build.lock
 
 CLAUDE.md
+
+scripts/
+
+.backup/

@@ -2,32 +2,43 @@
 <div class="prefs">
   <a href="https://tllester.info/">&larr; back to tllester.info</a>
 
-<div>
+<div class="pref-settings">
 
-  {{ if not (in .Title "Search") }}
-                        {{ with .GetPage "search" }}
-            <a href="{{ .Permalink }}" title="{{ .Title }}">
-<svg
-   width="20"
-   height="20"
-   fill="currentColor"
-   class="bi bi-search"
-   viewBox="0 0 20 20"
-   version="1.1"
-   id="svg1"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1" />
-  <path
-     d="m 13.960497,12.974789 a 7.7277111,8.1542663 0 1 0 -1.66443,1.756303 v 0 q 0.523107,0.125451 1.165101,0.125451 l 4.636627,4.892559 a 1.1888787,1.2545025 0 0 0 1.66443,-1.756303 l -4.636627,-4.89256 A 1.1888787,1.2545025 0 0 0 15.00671,12.974789 Z M 14.31716,8.2076799 a 6.5388325,6.8997636 0 1 1 -13.0776638,0 6.5388325,6.8997636 0 0 1 13.0776638,0"
-     id="path1"
-     style="stroke-width:1.22126" />
-</svg>
-</a>
-            {{ end }}
-{{ end}}
-     
+
+  {{ with .GetPage "search" }}
+    <a href="{{ .Permalink }}" title="{{ .Title }}" class="search-button">
+      <svg
+      width="20"
+      height="20"
+      fill="currentColor"
+      class="bi bi-search"
+      viewBox="0 0 20 20"
+      version="1.1"
+      id="svg1"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:svg="http://www.w3.org/2000/svg">
+      <defs
+      id="defs1" />
+      <path
+      d="m 13.960497,12.974789 a 7.7277111,8.1542663 0 1 0 -1.66443,1.756303 v 0 q 0.523107,0.125451 1.165101,0.125451 l 4.636627,4.892559 a 1.1888787,1.2545025 0 0 0 1.66443,-1.756303 l -4.636627,-4.89256 A 1.1888787,1.2545025 0 0 0 15.00671,12.974789 Z M 14.31716,8.2076799 a 6.5388325,6.8997636 0 1 1 -13.0776638,0 6.5388325,6.8997636 0 0 1 13.0776638,0"
+      id="path1"
+      style="stroke-width:1.22126" />
+      </svg>
+    </a>
+  {{ end }}
+
+
+{{ if .Translations }}
+<div class="lang-switcher">
+  <span class="lang-current">{{ .Lang | upper }}</span>
+  <div class="lang-dropdown">
+    {{ range .Translations }}
+    <a href="{{ .Permalink }}" hreflang="{{ .Lang }}">{{ .Language.LanguageName }}</a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+
 <button
     type="button"
     data-theme-toggle
@@ -50,35 +61,7 @@
   {{ $currentPage := . }}
 
   {{ range .Site.Menus.main }}
-  {{ if eq .Identifier "language" }}
-  <!-- Dynamic Language Switcher -->
-
-  <!-- <div class="dropdown">
-    <svg width="0.8em" height="0.8em" viewBox="0 0 22 22" focusable="false" class="icon-fill"><path d="M12.87 15.07l-2.54-2.51.03-.03A17.52 17.52 0 0 0 14.07 6H17V4h-7V2H8v2H1v1.99h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12zm-2.62 7l1.62-4.33L19.12 17h-3.24z"></path></svg>
-    <a href="#" aria-expanded="false" aria-label="Language Switcher">
-      {{ .Pre | markdownify }}{{ i18n .Identifier | default .Name }}
-    </a>
-
-
-    <div class="dropdown-content">
-      {{ with $.Page.Translations }}
-      {{ range . }}
-
-      <a href="{{ .RelPermalink }}" hreflang="{{ .Language.Lang }}">
-        {{ .Language.LanguageName }}
-      </a>
-
-      {{ end }}
-      {{ end }}
-    </div>
-
-  </div> -->
-  {{ else }}
-  <!-- Regular Menu Items -->
-
   <a href="{{ .URL | relLangURL }}" aria-current="page" aria-label="{{ i18n .Identifier | default .Name }}">{{ .Pre | markdownify }}{{ i18n .Identifier | default .Name }}</a>
-
-  {{ end }}
   {{ end }}
  
 

@@ -1,0 +1,20 @@
+[previousPost]
+other = "← Previous"
+
+[nextPost]
+other = "Next →"
+
+[copyright]
+other = "Copyright"
+
+[searchLabel]
+other = "Search"
+
+[about]
+other = "About"
+
+[post]
+other = "Posts"
+
+[arquivo]
+other = "Archive"

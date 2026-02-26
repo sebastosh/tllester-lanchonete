@@ -6,11 +6,10 @@ coverImage: "11182114_705543246240963_4633949187665506357_n.jpg"
 date: 2017-06-22
 id: 347
 slug: "adler-murada-em-residencia-na-paim-cultura-e-comida-uma-experiencia-sobre-o-entendimento-da-migracao-habitacao-e-trabalho"
-title: "[:pb]Adler Murada em residência na Paim[:]"
+title: "Adler Murada em residência na Paim"
 type: "arquivo"
 ---
 
-[:pb]
 ## **Cultura e comida - uma experiência sobre o entendimento da migração, habitação e trabalho**
 
 Por Carina Paoletti
@@ -66,7 +65,3 @@ _Pipa e Abdoulaye cozinhando e montando os " baguncinhas", 2017_
 _Adler Murada é artista e pesquisador de Teresina, Piauí, vive e trabalha em São Paulo há mais de 5 anos e seus projetos partem de questões relativas à cultura contemporânea, articulando reflexões políticas encontradas nas narrativas históricas “invisibilizadas” e hegemônicas. Sua pesquisa se volta para histórias não concluídas e, a partir daí, elabora novas construções e relatos com trabalhos que circulam no híbrido entre produção de objetos, performances, publicações e curadoria, bem como de ações culturais e sociais. O processo do artista está ligado à criação de lugares e situações para entender e problematizar a função do artista, questionando noções do conhecimento e os instrumentos que o legitimam._
 
 _Estudou Comunicação Social, dando continuidade em programas de formação e oficinas, entre eles, Escola de Artes Visuais do Parque Lage (EAV/Parque Lage), e o programa independente Pimasp, do Museu de Arte de São Paulo/MASP. Participou de exposições no Itaú Cultural (São Paulo -SP), Centro Cultural Banco do Nordeste (Fortaleza-CE), Museu Murillo La Greca (Recife-PE), Museu do Piauí (Teresina -PI), além de espaços independentes, como Ateliê397 (São Paulo-SP) e Miami Práticas Contemporâneas (Bogotá – CO). Integrou a equipe curatorial da primeira edição do Festival Kuir Bogotá (CO) e participa da edição de 2017 do programa School of Curating – Komplot (Brussels-BE)._
-
- 
-
- [:]
