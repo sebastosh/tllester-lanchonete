@@ -1,0 +1,53 @@
+{{ partial "cidadequeer/header.html" . }}
+
+<article id="cq-post-{{ .Params.id }}" class="cq-single-post">
+
+  <header class="cq-entry-header">
+    {{ if .Params.coverImage }}
+    <img src="/cidadequeer/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}" class="cq-featured-image">
+    {{ end }}
+
+    <div class="cq-entry-meta">
+      <time class="cq-entry-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "January 2, 2006" }}</time>
+      {{ if .Params.categories }}
+      <span class="cq-cat-links">
+        {{ range .Params.categories }}
+        <a href="{{ "/cidadequeer/posts/" | relURL }}">{{ . }}</a>
+        {{ end }}
+      </span>
+      {{ end }}
+    </div>
+
+    <h1 class="cq-entry-title">{{ .Title }}</h1>
+  </header>
+
+  <div class="cq-entry-content">
+    {{ .Content }}
+  </div>
+
+  <footer class="cq-entry-footer">
+    {{ if .Params.tags }}
+    <div class="cq-tags">
+      {{ range .Params.tags }}
+      <span class="cq-tag">{{ . }}</span>
+      {{ end }}
+    </div>
+    {{ end }}
+  </footer>
+
+  <nav class="cq-post-nav" aria-label="Post navigation">
+    {{ with .PrevInSection }}
+    <div class="cq-nav-prev">
+      <a href="{{ .Permalink }}">&larr; {{ .Title }}</a>
+    </div>
+    {{ end }}
+    {{ with .NextInSection }}
+    <div class="cq-nav-next">
+      <a href="{{ .Permalink }}">{{ .Title }} &rarr;</a>
+    </div>
+    {{ end }}
+  </nav>
+
+</article>
+
+{{ partial "cidadequeer/footer.html" . }}

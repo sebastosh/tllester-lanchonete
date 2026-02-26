@@ -1,0 +1,683 @@
+/* ============================================================
+   Cidade Queer — Voltata Theme Recreation for Hugo
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+/* ------------------------------------------------------------
+   Reset / Base
+   ------------------------------------------------------------ */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body.cidadequeer {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  color: #333333;
+  background-color: #ffffff;
+  -ms-word-wrap: break-word;
+  word-wrap: break-word;
+}
+
+body.cidadequeer img,
+body.cidadequeer figure {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+body.cidadequeer iframe {
+  display: inline-block;
+  max-width: 100%;
+}
+
+body.cidadequeer p {
+  font-size: 18px;
+  line-height: 30px;
+  font-family: 'Libre Baskerville', Georgia, serif;
+}
+
+body.cidadequeer a,
+body.cidadequeer a:visited {
+  color: #333333;
+  text-decoration: none;
+}
+
+body.cidadequeer a:hover,
+body.cidadequeer a:active {
+  color: #337ab7;
+  transition: all 0.3s;
+  text-decoration: none;
+}
+
+body.cidadequeer ::selection {
+  background: #bbbbbb;
+}
+
+/* Content-area links are red (matching WP theme) */
+body.cidadequeer .cq-entry-content a,
+body.cidadequeer .cq-entry-content a:visited,
+body.cidadequeer .cq-page-body a,
+body.cidadequeer .cq-page-body a:visited {
+  color: #dd3333;
+}
+
+body.cidadequeer .cq-entry-content a:hover,
+body.cidadequeer .cq-page-body a:hover {
+  color: #dd0000;
+}
+
+/* ------------------------------------------------------------
+   Container
+   ------------------------------------------------------------ */
+
+.cq-container {
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+/* ------------------------------------------------------------
+   Header
+   ------------------------------------------------------------ */
+
+#cq-masthead {
+  text-align: center;
+  padding: 50px 15px 100px;
+}
+
+.cq-branding {
+  margin-bottom: 30px;
+}
+
+.cq-site-description {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 16px;
+  color: #0a0a0a;
+  margin: 0 0 5px;
+  display: inline;
+}
+
+.cq-site-description a,
+.cq-site-description a:visited {
+  color: #0a0a0a;
+}
+
+.cq-site-title {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 36px;
+  font-weight: normal;
+  color: #0a0a0a;
+  margin: 5px 0 0;
+}
+
+.cq-site-title a,
+.cq-site-title a:visited {
+  color: #0a0a0a;
+}
+
+.cq-site-title a:hover {
+  color: #337ab7;
+}
+
+/* ------------------------------------------------------------
+   Navigation
+   ------------------------------------------------------------ */
+
+#cq-navigation {
+  margin-top: 20px;
+}
+
+.cq-nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.cq-nav > li {
+  position: relative;
+}
+
+.cq-nav > li > a {
+  display: block;
+  padding: 8px 14px;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 14px;
+  color: #0a0a0a;
+  text-transform: lowercase;
+  letter-spacing: 0.01em;
+}
+
+.cq-nav > li > a:hover {
+  color: #337ab7;
+}
+
+/* Dropdown */
+.cq-has-dropdown .cq-dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #ffffff;
+  min-width: 220px;
+  list-style: none;
+  padding: 5px 0;
+  margin: 0;
+  z-index: 200;
+  border: 1px solid #dddddd;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.cq-has-dropdown:hover .cq-dropdown {
+  display: block;
+}
+
+.cq-dropdown li a {
+  display: block;
+  padding: 6px 16px;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 13px;
+  color: #333333;
+  text-transform: lowercase;
+}
+
+.cq-dropdown li a:hover {
+  color: #337ab7;
+  background-color: #f8f8f8;
+}
+
+/* ------------------------------------------------------------
+   Site Content Wrapper
+   ------------------------------------------------------------ */
+
+.cq-site-content {
+  margin-bottom: 50px;
+}
+
+/* ------------------------------------------------------------
+   Homepage — First Part (featured + 2 sidebar)
+   ------------------------------------------------------------ */
+
+.cq-fp-first {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+.cq-fp-featured {
+  flex: 0 0 calc(66.666% - 8px);
+  max-width: calc(66.666% - 8px);
+}
+
+.cq-fp-featured img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.cq-fp-featured h1 {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 22px;
+  font-weight: normal;
+  margin: 4px 0 0;
+}
+
+.cq-fp-featured h1 a,
+.cq-fp-featured h1 a:visited {
+  color: #333333;
+}
+
+.cq-fp-featured h1 a:hover {
+  color: #337ab7;
+}
+
+.cq-fp-sidebar {
+  flex: 0 0 calc(33.333% - 7px);
+  max-width: calc(33.333% - 7px);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.cq-fp-sidebar-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.cq-fp-sidebar-item h3 {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  margin: 4px 0 0;
+}
+
+.cq-fp-sidebar-item h3 a,
+.cq-fp-sidebar-item h3 a:visited {
+  color: #333333;
+}
+
+.cq-fp-sidebar-item h3 a:hover {
+  color: #337ab7;
+}
+
+/* ------------------------------------------------------------
+   Homepage — Second Part (post grid)
+   ------------------------------------------------------------ */
+
+.cq-fp-second {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
+.cq-fp-grid-item {
+  flex: 0 0 calc(33.333% - 10px);
+  max-width: calc(33.333% - 10px);
+}
+
+.cq-fp-grid-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.cq-fp-grid-item h3 {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  margin: 4px 0 0;
+}
+
+.cq-fp-grid-item h3 a,
+.cq-fp-grid-item h3 a:visited {
+  color: #333333;
+}
+
+.cq-fp-grid-item h3 a:hover {
+  color: #337ab7;
+}
+
+/* Post date */
+.cq-post-date {
+  display: block;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 13px;
+  color: #666666;
+  margin: 6px 0 2px;
+}
+
+/* Read more link */
+.cq-fp-readmore {
+  text-align: center;
+  margin: 10px 0 20px;
+}
+
+.cq-read-more-link {
+  display: inline-block;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 14px;
+  color: #337ab7;
+  border: 1px solid #337ab7;
+  padding: 4px 12px;
+}
+
+.cq-read-more-link:hover {
+  background-color: #337ab7;
+  color: #ffffff;
+}
+
+/* Homepage intro paragraph */
+.cq-fp-intro {
+  margin-top: 10px;
+}
+
+.cq-paragrafohome {
+  font-family: 'Helvetica', 'Arial', sans-serif !important;
+  font-weight: bold;
+  font-size: 16px !important;
+  line-height: 1.6 !important;
+  margin-top: 30px;
+  border-top: 2px solid #333333;
+  padding-top: 60px;
+  color: #333333;
+}
+
+/* ------------------------------------------------------------
+   Posts Listing (notícias / news)
+   ------------------------------------------------------------ */
+
+.cq-section-header {
+  margin-bottom: 30px;
+}
+
+.cq-section-header .cq-section-title {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 24px;
+  font-weight: normal;
+  color: #333333;
+  border-bottom: 1px solid #dddddd;
+  padding-bottom: 10px;
+}
+
+.cq-post-list .cq-post-item {
+  margin-bottom: 40px;
+}
+
+.cq-post-list .cq-entry-header img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.cq-post-list .cq-entry-meta {
+  margin: 8px 0 5px;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 13px;
+  color: #666666;
+}
+
+.cq-post-list .cq-posted-on a,
+.cq-post-list .cq-posted-on a:visited {
+  color: #666666;
+}
+
+.cq-post-list .cq-cat-links {
+  margin-left: 8px;
+}
+
+.cq-post-list .cq-cat-links a,
+.cq-post-list .cq-cat-links a:visited {
+  color: #337ab7;
+}
+
+.cq-post-list .cq-entry-title {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 22px;
+  font-weight: normal;
+  margin: 5px 0;
+}
+
+.cq-post-list .cq-entry-title a,
+.cq-post-list .cq-entry-title a:visited {
+  color: #333333;
+}
+
+.cq-post-list .cq-entry-title a:hover {
+  color: #337ab7;
+}
+
+.cq-post-list .cq-entry-content p {
+  font-family: 'Libre Baskerville', Georgia, serif;
+  font-size: 16px;
+  line-height: 26px;
+  margin: 0;
+  color: #333333;
+}
+
+.cq-separator {
+  display: block;
+  text-align: center;
+  color: #cccccc;
+  font-size: 24px;
+  letter-spacing: 6px;
+  margin: 20px 0 10px;
+}
+
+/* ------------------------------------------------------------
+   Single Post
+   ------------------------------------------------------------ */
+
+.cq-single-post .cq-featured-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.cq-single-post .cq-entry-meta {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 13px;
+  color: #666666;
+  margin-bottom: 10px;
+}
+
+.cq-single-post .cq-entry-date {
+  margin-right: 8px;
+}
+
+.cq-single-post .cq-cat-links a,
+.cq-single-post .cq-cat-links a:visited {
+  color: #337ab7;
+}
+
+.cq-single-post .cq-entry-title {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 28px;
+  font-weight: normal;
+  margin-bottom: 20px;
+  color: #333333;
+}
+
+.cq-single-post .cq-entry-content {
+  font-family: 'Libre Baskerville', Georgia, serif;
+  font-size: 18px;
+  line-height: 30px;
+  color: #333333;
+}
+
+.cq-single-post .cq-entry-content img {
+  float: left;
+  margin: 5px 20px 20px 0;
+  max-width: 100%;
+  height: auto;
+}
+
+.cq-single-post .cq-entry-content p {
+  font-family: 'Libre Baskerville', Georgia, serif;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.cq-single-post .cq-entry-content::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+/* Tags */
+.cq-tags {
+  margin-top: 20px;
+  padding-top: 15px;
+  border-top: 1px solid #dddddd;
+}
+
+.cq-tag {
+  display: inline-block;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 12px;
+  color: #666666;
+  border: 1px solid #cccccc;
+  padding: 2px 7px;
+  margin: 3px 2px;
+}
+
+/* Post navigation */
+.cq-post-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  padding-top: 15px;
+  border-top: 1px solid #dddddd;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 14px;
+}
+
+.cq-nav-next {
+  text-align: right;
+}
+
+/* ------------------------------------------------------------
+   Single Page
+   ------------------------------------------------------------ */
+
+.cq-page-content {
+  max-width: 100%;
+}
+
+.cq-page-header {
+  margin-bottom: 25px;
+}
+
+.cq-page-title {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 28px;
+  font-weight: normal;
+  color: #333333;
+  border-bottom: 2px solid #333333;
+  padding-bottom: 12px;
+  margin-bottom: 0;
+}
+
+.cq-page-body {
+  font-family: 'Libre Baskerville', Georgia, serif;
+  font-size: 18px;
+  line-height: 30px;
+  color: #333333;
+}
+
+.cq-page-body p {
+  font-family: 'Libre Baskerville', Georgia, serif;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.cq-page-body img {
+  float: left;
+  margin: 5px 20px 20px 0;
+  max-width: 100%;
+  height: auto;
+}
+
+.cq-page-body::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+/* Image alignment helpers (from WP) */
+body.cidadequeer .alignleft {
+  display: block;
+  float: left;
+  margin: 5px 20px 20px 0;
+}
+
+body.cidadequeer .alignright {
+  display: block;
+  float: right;
+  margin: 5px 0 20px 20px;
+}
+
+body.cidadequeer .aligncenter {
+  display: block;
+  margin: 5px auto;
+}
+
+body.cidadequeer .wp-caption-text {
+  color: #666666;
+  font-size: 13px;
+}
+
+/* ------------------------------------------------------------
+   Footer
+   ------------------------------------------------------------ */
+
+#cq-footer {
+  background-color: #999999;
+  color: #707070;
+  padding: 30px 15px;
+  text-align: center;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 14px;
+}
+
+#cq-footer a,
+#cq-footer a:visited {
+  color: #4f4f4f;
+}
+
+#cq-footer a:hover {
+  color: #dd3333;
+}
+
+.cq-site-info {
+  padding: 10px 0;
+}
+
+/* ------------------------------------------------------------
+   Responsive
+   ------------------------------------------------------------ */
+
+@media (max-width: 900px) {
+  #cq-masthead {
+    padding-bottom: 50px;
+  }
+
+  .cq-fp-first {
+    flex-direction: column;
+  }
+
+  .cq-fp-featured,
+  .cq-fp-sidebar {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .cq-fp-sidebar {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .cq-fp-sidebar-item {
+    flex: 0 0 calc(50% - 8px);
+    max-width: calc(50% - 8px);
+  }
+
+  .cq-fp-grid-item {
+    flex: 0 0 calc(50% - 8px);
+    max-width: calc(50% - 8px);
+  }
+}
+
+@media (max-width: 580px) {
+  .cq-site-title {
+    font-size: 26px;
+  }
+
+  .cq-nav {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .cq-has-dropdown .cq-dropdown {
+    position: static;
+    display: block;
+    border: none;
+    box-shadow: none;
+    padding-left: 20px;
+  }
+
+  .cq-fp-sidebar-item,
+  .cq-fp-grid-item {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}

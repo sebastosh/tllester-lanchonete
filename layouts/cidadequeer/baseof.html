@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ block "title" . }}{{ .Title }} — cidade queer{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}cidade queer — queer city{{ end }}{{ end }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap">
+  <link rel="stylesheet" href="/cidadequeer/cidadequeer.css">
+</head>
+
+<body class="cidadequeer">
+
+<div id="cq-page" class="cq-container">
+
+  <header id="cq-masthead" role="banner">
+    <div class="cq-branding">
+      <a href="/cidadequeer/"><p class="cq-site-description">queer city</p></a>
+      <h1 class="cq-site-title"><a href="/cidadequeer/" rel="home">cidade queer</a></h1>
+    </div>
+
+    <nav id="cq-navigation" role="navigation">
+      <ul class="cq-nav">
+        <li class="cq-has-dropdown">
+          <a href="/cidadequeer/pages/sobre-about/">sobre / about</a>
+          <ul class="cq-dropdown">
+            <li><a href="/cidadequeer/pages/partners-parceiros/">partners / parceiros</a></li>
+            <li><a href="/cidadequeer/pages/participantes-participants/">participantes / participants</a></li>
+          </ul>
+        </li>
+        <li><a href="/cidadequeer/pages/calendario-events/">calendário / events</a></li>
+        <li><a href="/cidadequeer/pages/referencias-archive/">referências / archive</a></li>
+        <li class="cq-has-dropdown">
+          <a href="/cidadequeer/pages/projetos-projects/">projetos / projects</a>
+          <ul class="cq-dropdown">
+            <li><a href="/cidadequeer/pages/ataque/">ATAQUE!</a></li>
+            <li><a href="/cidadequeer/pages/janta/">janta: queer food/queer politics</a></li>
+            <li><a href="/cidadequeer/pages/explode/">EXPLODE! Residency</a></li>
+            <li><a href="/cidadequeer/pages/laboratorio-grafico-desviante/">laboratório gráfico desviante</a></li>
+            <li><a href="/cidadequeer/pages/que-cidade-voce-queer/">que cidade você queer?</a></li>
+          </ul>
+        </li>
+        <li><a href="/cidadequeer/posts/">notícias / news</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div id="cq-content" class="cq-site-content">
+    <div id="cq-primary" class="cq-content-area">
+      <main id="cq-main" class="cq-site-main" role="main">
+        {{ block "main" . }}{{ end }}
+      </main>
+    </div>
+  </div>
+
+</div><!-- #cq-page -->
+
+<footer id="cq-footer" role="contentinfo">
+  <div class="cq-container">
+    <div class="cq-site-info">
+      cidade queer &copy; 2016
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
