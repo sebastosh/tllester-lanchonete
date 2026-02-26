@@ -1,0 +1,56 @@
+{{ define "title" }}notícias / news — cidade queer{{ end }}
+
+{{ define "main" }}
+
+{{ $posts := sort (where (where site.RegularPages "Section" "cidadequeer") "Type" "post") "Date" "desc" }}
+
+<header class="cq-section-header">
+  <h1 class="cq-section-title screen-reader-text">notícias / news</h1>
+</header>
+
+<div class="cq-post-list">
+  {{ range $posts }}
+  <article id="cq-post-{{ .Params.id }}" class="cq-post-item">
+
+    <header class="cq-entry-header">
+      {{ if .Params.coverImage }}
+      <a href="{{ .Permalink }}" rel="bookmark">
+        <img src="/cidadequeer/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}">
+      </a>
+      {{ end }}
+
+      <div class="cq-entry-meta">
+        <span class="cq-posted-on">
+          <a href="{{ .Permalink }}" rel="bookmark">
+            <time class="cq-entry-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "January 2, 2006" }}</time>
+          </a>
+        </span>
+        {{ if .Params.categories }}
+        <span class="cq-cat-links">
+          {{ range .Params.categories }}
+          <a href="{{ "/cidadequeer/posts/" | relURL }}">{{ . }}</a>
+          {{ end }}
+        </span>
+        {{ end }}
+      </div>
+
+      <h2 class="cq-entry-title">
+        <a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a>
+      </h2>
+    </header>
+
+    <div class="cq-entry-content">
+      {{ if .Params.excerpt }}
+      <p>{{ .Params.excerpt }}</p>
+      {{ else }}
+      <p>{{ .Summary }}</p>
+      {{ end }}
+    </div>
+
+    <span class="cq-separator">···</span>
+
+  </article>
+  {{ end }}
+</div>
+
+{{ end }}
