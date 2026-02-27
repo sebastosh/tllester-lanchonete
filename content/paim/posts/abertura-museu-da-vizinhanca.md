@@ -1,0 +1,42 @@
+---
+author: "admin"
+categories: 
+  - "bar-do-tarcisio"
+  - "bela-vista"
+  - "burkina-faso"
+  - "conjunto-santos-dumont"
+  - "dinamarca"
+  - "estados-unidos"
+  - "filadelfia"
+  - "holanda"
+  - "museu"
+  - "nordeste"
+  - "polonia"
+  - "suecia"
+coverImage: "thumb.jpg"
+date: 2017-10-05
+id: 110
+slug: "abertura-museu-da-vizinhanca"
+tags: 
+  - "amber-collective"
+  - "haleny-de-oliveira"
+  - "keir-johnson"
+  - "livia-alexander"
+  - "mauricio-nascimento-silva"
+  - "sidd-joag"
+  - "tarcisio"
+  - "van-allen-institute"
+  - "ze-nilson"
+title: "Abertura Museu da Vizinhança"
+type: "post"
+---
+
+O [Museu da Vizinhança](https://paim.local//) [Conjunto Santos Dumont](https://paim.local//tag/conjunto-santos-dumont/) é um espaço de trabalho, exposição e eventos, que celebra as histórias, movimentos e realidades vividas nestes três prédios icônicos, assim como em seu entorno da rua Paim que está mudando rapidamente. Lanchonete.org engajou membros da comunidade do Bixiga por meio do intercâmbio de histórias orais e visuais, oficinas de arte, projeções de filmes, assim como refeições e encontros comunitários.
+
+Como um coletivo de pensadores urbanos, chamamos artistas do Brasil e de outras partes do mundo como convidados para reformatar continuamente e desenhar esse espaço em transformação.
+
+No dia 5 estivemos no [bar do Tarcísio](https://paim.local//category/evento/bar-do-tarcisio/) e no [ap. 1023 do Edifício Demozelle](https://paim.local//category/evento/ap-1023-edificio-demozelle/) abrindo as portas para quem quisesse ver e conhecer mais sobre este universo.
+
+\[portfolio\_slideshow size=full\]
+
+fotos ©Leandro Moraes

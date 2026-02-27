@@ -1,0 +1,55 @@
+{{ partial "paim/header.html" . }}
+
+<div class="paim-single-wrap">
+  <div class="paim-container">
+    <div class="paim-single-inner">
+
+      <article>
+
+        {{ if .Params.coverImage }}
+        <img src="/paim/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}" class="paim-single-featured">
+        {{ end }}
+
+        <div class="paim-single-meta">
+          <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2 January 2006" }}</time>
+          {{ if .Params.categories }}
+          {{ range .Params.categories }}
+          &nbsp;&middot;&nbsp;<a href="/paim/posts/">{{ . }}</a>
+          {{ end }}
+          {{ end }}
+        </div>
+
+        <h1 class="paim-single-title">{{ .Title }}</h1>
+
+        <div class="paim-single-content">
+          {{ .Content }}
+        </div>
+
+        {{ if .Params.tags }}
+        <div class="paim-tags">
+          {{ range .Params.tags }}
+          <span class="paim-tag">{{ . }}</span>
+          {{ end }}
+        </div>
+        {{ end }}
+
+        <nav class="paim-post-nav" aria-label="Navegação de posts">
+          {{ with .PrevInSection }}
+          <div class="paim-nav-prev">
+            <a href="{{ .Permalink }}">&larr; {{ .Title }}</a>
+          </div>
+          {{ end }}
+          {{ with .NextInSection }}
+          <div class="paim-nav-next">
+            <a href="{{ .Permalink }}">{{ .Title }} &rarr;</a>
+          </div>
+          {{ end }}
+        </nav>
+
+      </article>
+
+    </div>
+  </div>
+</div>
+
+{{ partial "paim/footer.html" . }}

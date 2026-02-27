@@ -1,0 +1,22 @@
+{{ partial "paim/header.html" . }}
+
+<div class="paim-page-wrap">
+  <div class="paim-container">
+    <div class="paim-page-inner">
+
+      <article>
+
+        <h1 class="paim-page-title">{{ .Title }}</h1>
+        <div class="paim-page-divider"></div>
+
+        <div class="paim-page-body">
+          {{ .Content }}
+        </div>
+
+      </article>
+
+    </div>
+  </div>
+</div>
+
+{{ partial "paim/footer.html" . }}

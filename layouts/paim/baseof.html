@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ block "title" . }}{{ .Title }} — A Rua Paim{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}A Rua Paim — como você nunca viu{{ end }}{{ end }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap">
+  <link rel="stylesheet" href="/paim/paim.css">
+</head>
+
+<body class="paim">
+
+<nav id="paim-navbar" role="navigation" aria-label="Navegação principal">
+  <div class="paim-navbar-inner">
+    <div class="paim-navbar-brand">
+      <a href="{{ .Site.Home.RelPermalink }}" class="paim-back-link" aria-label="Voltar para Lanchonete">Lanchonete</a>
+      <a href="/paim/">A Rua Paim</a>
+    </div>
+    <ul class="paim-nav">
+      <li><a href="/paim/pages/apresentacao/">Apresentação</a></li>
+      <li><a href="/paim/pages/museu-da-vizinhanca/">Museu da Vizinhança</a></li>
+      <li><a href="/paim/posts/">Posts</a></li>
+    </ul>
+  </div>
+</nav>
+
+{{ block "main" . }}{{ end }}
+
+<footer id="paim-footer" role="contentinfo">
+  <div class="paim-container">
+    <div class="paim-footer-info">
+      A Rua Paim &copy; Lanchonete.org
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

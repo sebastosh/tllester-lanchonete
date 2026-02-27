@@ -1,0 +1,57 @@
+{{ define "title" }}A Rua Paim — como você nunca viu{{ end }}
+
+{{ define "main" }}
+
+{{ $allPaim := where site.RegularPages "Section" "paim" }}
+{{ $posts := sort (where $allPaim "Type" "post") "Date" "desc" }}
+
+<!-- Hero Section -->
+<section id="paim-hero" role="banner">
+  <div class="paim-hero-content">
+    <h1 class="paim-hero-title">A Rua Paim</h1>
+    <p class="paim-hero-tagline">como você nunca viu</p>
+    {{ if $posts }}
+    <a href="/paim/posts/" class="paim-hero-btn">Ver publicações</a>
+    {{ end }}
+  </div>
+  <span class="paim-hero-scroll" aria-hidden="true">&#8595;</span>
+</section>
+
+{{ if $posts }}
+<!-- Posts Section -->
+<section class="paim-section">
+  <div class="paim-container">
+    <h2 class="paim-section-title">Publicações</h2>
+    <div class="paim-section-divider"></div>
+
+    <div class="paim-post-grid">
+      {{ range first 6 $posts }}
+      <div class="paim-post-card">
+        {{ if .Params.coverImage }}
+        <a href="{{ .Permalink }}">
+          <img src="/paim/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}" class="paim-post-card-img">
+        </a>
+        {{ end }}
+        <div class="paim-post-card-body">
+          <span class="paim-post-card-date">{{ .Date.Format "2 January 2006" }}</span>
+          <h3 class="paim-post-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+          {{ if .Params.excerpt }}
+          <p class="paim-post-card-excerpt">{{ .Params.excerpt }}</p>
+          {{ else }}
+          <p class="paim-post-card-excerpt">{{ .Summary | truncate 120 }}</p>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+
+    {{ if gt (len $posts) 6 }}
+    <div class="paim-readmore">
+      <a href="/paim/posts/" class="paim-readmore-link">Ver todas as publicações</a>
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ end }}
