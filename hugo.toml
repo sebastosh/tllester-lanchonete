@@ -41,6 +41,11 @@ defaultContentLanguageInSubdir = false
       name = 'A Rua Paim'
       url = '/paim/'
       weight = 50
+    [[languages.pt.menus.main]]
+      identifier = 'episodiohaiti'
+      name = 'Episódio Haiti'
+      url = '/episodiohaiti/'
+      weight = 60
 
   [languages.en]
     languageCode = 'en-US'
@@ -75,6 +80,11 @@ defaultContentLanguageInSubdir = false
       name = 'Paim Street'
       url = '/paim/'
       weight = 50
+    [[languages.en.menus.main]]
+      identifier = 'episodiohaiti'
+      name = 'Haiti Episode'
+      url = '/episodiohaiti/'
+      weight = 60
 
 [sitemap]
   changefreq = "weekly"

@@ -1,0 +1,452 @@
+/* ===== Episódio Haiti — Daily theme recreation ===== */
+/* Theme: Daily by Robert Brodziak | Scoped to body.episodiohaiti */
+
+/* ----- Fonts ----- */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Gentium+Basic:ital,wght@0,400;0,700;1,400&display=swap');
+
+/* ----- Base ----- */
+body.episodiohaiti {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  color: #3a3a3a;
+  background: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+body.episodiohaiti *,
+body.episodiohaiti *::before,
+body.episodiohaiti *::after {
+  box-sizing: border-box;
+}
+
+body.episodiohaiti h1,
+body.episodiohaiti h2,
+body.episodiohaiti h3,
+body.episodiohaiti h4 {
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  margin-bottom: 1.5em;
+}
+
+body.episodiohaiti a {
+  color: #3a3a3a;
+}
+
+body.episodiohaiti strong {
+  font-weight: bold;
+}
+
+body.episodiohaiti em {
+  font-style: italic;
+}
+
+body.episodiohaiti blockquote p {
+  font-size: 1.25em;
+  border-top: 1px solid #dcdcdc;
+  border-bottom: 1px solid #dcdcdc;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  opacity: 0.95;
+}
+
+/* ----- Fixed Header ----- */
+#eh-header {
+  width: 100%;
+  background: #fff;
+  border-bottom: 1px solid #dcdcdc;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 70px;
+  z-index: 30;
+  padding: 0 50px;
+  box-sizing: border-box;
+}
+
+.eh-header-inside {
+  display: table;
+  height: 100%;
+  width: 100%;
+}
+
+.eh-logo {
+  display: table-cell;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.eh-logo h1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: 0.875em;
+  margin: 0;
+  clear: none;
+}
+
+.eh-logo a {
+  text-decoration: none;
+  color: #3a3a3a;
+}
+
+.eh-back-link {
+  font-size: 0.688em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #aaa;
+  text-decoration: none;
+  margin-right: 15px;
+  transition: opacity 0.3s;
+}
+
+.eh-back-link:hover {
+  opacity: 0.7;
+}
+
+.eh-nav-cell {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: right;
+}
+
+.eh-nav {
+  display: inline-block;
+}
+
+.eh-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.eh-nav li {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.eh-nav a {
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.688em;
+  color: #3a3a3a;
+  text-decoration: none;
+  transition: opacity 0.3s ease;
+}
+
+.eh-nav a:hover {
+  opacity: 0.7;
+}
+
+/* ----- Hero (section homepage) ----- */
+#eh-hero {
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: center center;
+  background-image: url('/episodiohaiti/posts/images/CaminhoparaosEUA-PB-1.docx7_.jpg');
+  display: table;
+  position: relative;
+}
+
+.eh-hero-inner {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.eh-hero-inner h1 {
+  text-align: center;
+  color: #fff;
+  font-size: 2.4em;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  padding-left: 20%;
+  padding-right: 20%;
+  font-family: 'Gentium Basic', Times, serif;
+  margin-bottom: 50px;
+  font-weight: normal;
+}
+
+.eh-scroll-down {
+  padding: 20px 30px;
+  text-align: center;
+  display: inline-block;
+  background: #ffffff;
+  transition: background 0.2s;
+  color: #000;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: 0.75em;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.eh-scroll-down:hover {
+  background: #cdcdcd;
+  color: #565656;
+}
+
+/* ----- Container ----- */
+.eh-container {
+  max-width: 920px;
+  margin: 0 auto;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+/* ----- Posts listing (section list) ----- */
+#eh-posts-section {
+  padding-top: 70px; /* clear fixed header */
+}
+
+.eh-post {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.eh-post:nth-child(odd) {
+  background: #f5f5f5;
+}
+
+.eh-post:nth-child(even) {
+  background: #fff;
+}
+
+.eh-post-thumbnail {
+  margin: 0 auto 35px;
+  display: block;
+  max-width: 100%;
+  height: auto;
+  transition: opacity 0.7s;
+}
+
+.eh-post-thumbnail:hover {
+  opacity: 0.7;
+}
+
+.eh-entry-title {
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: #000;
+  text-align: center;
+  margin-bottom: 27px;
+  font-size: 1.25em;
+}
+
+.eh-entry-title a {
+  color: #000;
+  text-decoration: none;
+}
+
+.eh-entry-title::after {
+  content: "";
+  height: 2px;
+  width: 50px;
+  background: #000;
+  display: block;
+  margin: 20px auto 0;
+}
+
+.eh-entry-content {
+  font-family: 'Gentium Basic', Times, serif;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-bottom: 20px;
+}
+
+.eh-entry-content p {
+  text-align: center;
+}
+
+.eh-entry-meta {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.eh-posted-on {
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  font-size: 0.688em;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}
+
+.eh-read-more {
+  padding: 20px;
+  border: 1px solid #000;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  width: 200px;
+  transition: all 0.5s ease;
+  color: #000;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: 0.75em;
+  text-decoration: none;
+}
+
+.eh-read-more:hover {
+  background: #cdcdcd;
+  border-color: #cdcdcd;
+  color: #565656;
+}
+
+/* ----- Single Post ----- */
+.eh-single-wrap {
+  padding-top: 120px;
+  padding-bottom: 70px;
+}
+
+.eh-single-meta {
+  text-align: center;
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  font-size: 0.688em;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  margin-bottom: 40px;
+}
+
+.eh-single-title {
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: #000;
+  text-align: center;
+  margin-bottom: 27px;
+  font-size: 1.25em;
+}
+
+.eh-single-title::after {
+  content: "";
+  height: 2px;
+  width: 50px;
+  background: #000;
+  display: block;
+  margin: 20px auto 0;
+}
+
+.eh-single-featured {
+  display: block;
+  margin: 0 auto 35px;
+  max-width: 100%;
+  height: auto;
+}
+
+.eh-single-body {
+  font-family: 'Gentium Basic', Times, serif;
+  margin-bottom: 50px;
+}
+
+.eh-single-body img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.eh-post-nav {
+  border-top: 1px solid #dcdcdc;
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.eh-nav-prev,
+.eh-nav-next {
+  max-width: 45%;
+}
+
+.eh-post-nav a {
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: 0.75em;
+  color: #3a3a3a;
+  text-decoration: none;
+  transition: opacity 0.5s ease;
+}
+
+.eh-post-nav a:hover {
+  opacity: 0.7;
+}
+
+/* ----- Single Page ----- */
+.eh-page-wrap {
+  padding-top: 120px;
+  padding-bottom: 70px;
+}
+
+.eh-page-title {
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: #000;
+  text-align: center;
+  margin-bottom: 27px;
+  font-size: 1.25em;
+}
+
+.eh-page-title::after {
+  content: "";
+  height: 2px;
+  width: 50px;
+  background: #000;
+  display: block;
+  margin: 20px auto 0;
+}
+
+.eh-page-body {
+  font-family: 'Gentium Basic', Times, serif;
+  margin-top: 40px;
+}
+
+.eh-page-body img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* ----- Footer ----- */
+#eh-footer {
+  background: #fff;
+  border-top: 1px solid #dcdcdc;
+  border-bottom: 1px solid #dcdcdc;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.eh-site-info {
+  font-size: 0.75em;
+  opacity: 0.4;
+}
+
+/* ----- Responsive ----- */
+@media screen and (max-width: 767px) {
+  #eh-header {
+    padding: 0 20px;
+  }
+
+  .eh-nav li {
+    margin-left: 10px;
+  }
+
+  .eh-container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .eh-entry-content {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .eh-hero-inner h1 {
+    font-size: 1.8em;
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+}

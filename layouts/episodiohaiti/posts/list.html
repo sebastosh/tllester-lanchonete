@@ -1,0 +1,33 @@
+{{ define "title" }}Publicações — Episódio Haiti{{ end }}
+
+{{ define "main" }}
+
+{{ $posts := sort .Pages "Date" "desc" }}
+
+<div id="eh-posts-section">
+  {{ range $posts }}
+  <article class="eh-post">
+    <div class="eh-container">
+      {{ if .Params.coverImage }}
+      <a href="{{ .Permalink }}">
+        <img src="/episodiohaiti/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}" class="eh-post-thumbnail">
+      </a>
+      {{ end }}
+      <div class="eh-entry-meta">
+        <span class="eh-posted-on"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time></span>
+      </div>
+      <h2 class="eh-entry-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <div class="eh-entry-content">
+        {{ if .Params.excerpt }}
+        <p>{{ .Params.excerpt }}</p>
+        {{ else }}
+        <p>{{ .Summary | truncate 200 }}</p>
+        {{ end }}
+      </div>
+      <a href="{{ .Permalink }}" class="eh-read-more">Ler mais</a>
+    </div>
+  </article>
+  {{ end }}
+</div>
+
+{{ end }}

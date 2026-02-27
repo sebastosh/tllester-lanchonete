@@ -1,0 +1,40 @@
+{{ partial "episodiohaiti/header.html" . }}
+
+<div class="eh-single-wrap">
+  <div class="eh-container">
+
+    <article>
+
+      <div class="eh-single-meta">
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2 January 2006" }}</time>
+      </div>
+
+      <h1 class="eh-single-title">{{ .Title }}</h1>
+
+      {{ if .Params.coverImage }}
+      <img src="/episodiohaiti/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}" class="eh-single-featured">
+      {{ end }}
+
+      <div class="eh-single-body">
+        {{ .Content }}
+      </div>
+
+      <nav class="eh-post-nav" aria-label="Navegação de posts">
+        {{ with .PrevInSection }}
+        <div class="eh-nav-prev">
+          <a href="{{ .Permalink }}">&larr; {{ .Title }}</a>
+        </div>
+        {{ end }}
+        {{ with .NextInSection }}
+        <div class="eh-nav-next">
+          <a href="{{ .Permalink }}">{{ .Title }} &rarr;</a>
+        </div>
+        {{ end }}
+      </nav>
+
+    </article>
+
+  </div>
+</div>
+
+{{ partial "episodiohaiti/footer.html" . }}
