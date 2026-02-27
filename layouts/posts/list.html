@@ -1,46 +1,32 @@
 {{ define "main" }}
-    <h1>{{ .Page.Title }}</h1>
-    {{ .Content }}
 
-<div class="content">
-
-    {{/*  <div class="post">
-        {{ $fdPosts := site.GetPage "posts" }}
-    {{ range $fdPosts.RegularPagesRecursive }}
-    <div class="post">
-    <h3><a href="{{ .Permalink }}" title="{{ .Title }}">
-        {{ .Title }}</a></h3>
-   <p>{{ .Summary }}</p>
+<div class="posts-grid">
+  {{ range sort .Pages "Date" "desc" }}
+  {{ if not .Params.private }}
+  <article class="entry">
+    {{ if .Params.coverImage }}
+    <div class="entry-media">
+      <a href="{{ .Permalink }}">
+        <img src="/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}">
+      </a>
     </div>
     {{ end }}
-
-</div>  */}}
-<div class="page-list">
-    <h2>Pages</h2>
-    {{ $fdPages := site.GetPage "pages" }}
-    {{ range $fdPages.RegularPagesRecursive }}
-        <h3><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h3>
-    {{ end }}
+    <div class="entry-header">
+      <div class="entry-meta">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+      </div>
+      <h2 class="entry-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    </div>
+    <div class="entry-summary">
+      {{ .Summary | plainify | truncate 160 }}
+      <br>
+      <a href="{{ .Permalink }}" class="more-link">{{ i18n "readMore" | default "Ler mais" }} &rarr;</a>
+    </div>
+  </article>
+  {{ end }}
+  {{ end }}
 </div>
 
-<div class="post">
-    {{ range sort .Pages "Date" "desc" }}
-    {{ if not .Params.private }}
-        <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .PublishDate.Format "Jan. 2, 2006" }} - 
-            {{ .Title }}</a></h1>
-        <p>{{ .Summary }}</p>
-    {{ end }}
-{{ end }}
-</div>
-
-
-
-
-
-
-
-</div>
-
-
+{{ partial "post-pagination.html" . }}
 
 {{ end }}

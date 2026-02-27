@@ -1,83 +1,64 @@
 <!DOCTYPE html>
-<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}" data-theme="light">
+<html lang="{{ site.Language.LanguageCode | default "pt-BR" }}">
 <head>
   {{ partial "head.html" . }}
 </head>
-  <body>
+<body>
 
-      <header>
-      {{ partial "header.html" . }}
-    </header>
-    <main>
-      {{ block "main" . }}{{ end }}
-    </main>
+<div id="page">
 
+  <header class="site-header-navigation">
+    <div class="site-header-navigation-inner">
 
-    <footer>
+      <div class="site-branding">
+        <a href="{{ .Site.Home.RelPermalink }}" aria-label="{{ .Site.Title }}">
+          <img class="custom-logo" src="/images/logo_associacao.png" alt="{{ .Site.Title }}">
+        </a>
+        <div class="site-branding-text">
+          <p class="site-title"><a href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a></p>
+          <p class="site-description">{{ .Site.Params.description }}</p>
+        </div>
+      </div>
+
+      <div class="main-navigation-container">
+        {{ if .Translations }}
+        <div class="lang-switcher">
+          {{ range .Translations }}
+          <a href="{{ .Permalink }}" hreflang="{{ .Lang }}">{{ .Language.LanguageName }}</a>
+          {{ end }}
+        </div>
+        {{ end }}
+        <nav class="main-navigation" role="navigation" aria-label="Navegação principal">
+          <ul>
+            {{ range .Site.Menus.main }}
+            <li><a href="{{ .URL | relLangURL }}">{{ i18n .Identifier | default .Name }}</a></li>
+            {{ end }}
+          </ul>
+        </nav>
+      </div>
+
+    </div>
+  </header>
+
+  <div id="content">
+    <div class="content-area">
+      <main>
+        {{ block "main" . }}{{ end }}
+      </main>
+    </div>
+
+    <aside class="sidebar">
+      {{ partial "sidebar.html" . }}
+    </aside>
+  </div>
+
+  <footer class="site-footer">
+    <div class="site-footer-inner">
       {{ partial "footer.html" . }}
-    </footer>
-    <script>
-      /**
-      * Utility function to calculate the current theme setting.
-      * Look for a local storage value.
-      * Fall back to system setting.
-      * Fall back to light mode.
-      */
-      function calculateSettingAsThemeString({ localStorageTheme, systemSettingDark }) {
-        if (localStorageTheme !== null) {
-          return localStorageTheme;
-        }
+    </div>
+  </footer>
 
-        if (systemSettingDark.matches) {
-          return "dark";
-        }
+</div>
 
-        return "light";
-      }
-
-      /**
-      * Utility function to update the button text and aria-label.
-      */
-      function updateButton({ buttonEl, isDark }) {
-        const newCta = isDark ? "Change to light theme" : "Change to dark theme";
-        const newCtaIcon = isDark ? "🌞" : "🌚";
-        // use an aria-label if you are omitting text on the button
-        // and using a sun/moon icon, for example
-        buttonEl.setAttribute("aria-label", newCta);
-        buttonEl.innerText = newCtaIcon;
-      }
-
-      /**
-      * Utility function to update the theme setting on the html tag
-      */
-
-      function updateThemeOnHtmlEl({ theme }) {
-        document.querySelector("html").setAttribute("data-theme", theme);
-      }
-
-      /* 1. DOM and system settings on page load */
-      const button = document.querySelector("[data-theme-toggle]");
-      const localStorageTheme = localStorage.getItem("theme");
-      const systemSettingDark = window.matchMedia("(prefers-color-scheme: dark)");
-
-      /* 2. Post out the current site settings */
-      let currentThemeSetting = calculateSettingAsThemeString({ localStorageTheme, systemSettingDark });
-
-      /* 3. Update the theme setting and button text accoridng to current settings */
-      updateButton({ buttonEl: button, isDark: currentThemeSetting === "dark" });
-      updateThemeOnHtmlEl({ theme: currentThemeSetting });
-
-      /* 4. Add an event listener to toggle the theme */
-      button.addEventListener("click", (event) => {
-        const newTheme = currentThemeSetting === "dark" ? "light" : "dark";
-
-        localStorage.setItem("theme", newTheme);
-        updateButton({ buttonEl: button, isDark: newTheme === "dark" });
-        updateThemeOnHtmlEl({ theme: newTheme });
-
-        currentThemeSetting = newTheme;
-      }); 
-    </script>
-
-  </body>
+</body>
 </html>

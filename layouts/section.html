@@ -1,34 +1,15 @@
 {{ define "main" }}
-<div class="post-header">
-  {{ $currentPage := . }}
-  {{ range .Site.Menus.main }}
-    {{ if eq .Identifier "post" }}
-    <h1>      {{ .Pre | markdownify }}{{ i18n .Identifier | default .Name }}
-</h1>
+
+<div class="section-list">
+  <h1>{{ .Title }}</h1>
+  {{ with .Content }}<div class="page-content">{{ . }}</div>{{ end }}
+  <ul>
+    {{ range sort .Pages "Title" }}
+    {{ if not .Params.private }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
     {{ end }}
-  {{ end }}
+    {{ end }}
+  </ul>
 </div>
 
-{{ .Title }}
-
-  {{ .Content }}
-  
-  <div class="content-grid">
-    {{ range (sort .Site.RegularPages "Date" "desc" (where .Site.RegularPages "Section" "posts")) }}
-{{/*  {{ range (sort .Pages "Date" "desc" (where .Site.Pages ".Params.private" "!=" false))}}  */}}
-            <div class="content-card">
-              <a href="{{ .Permalink }}">
-                 <h2 class="grid-card-title">{{ .LinkTitle }}</h2>
-        {{ if and (isset .Params "image") .Params.image }}
-            {{ $image := .Page.Resources.GetMatch .Params.image }}
-            {{ with $image }}
-                {{ $thumb := .Resize "300x" }}
-            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}">
-            {{end}}
-                    {{ end }}
-            </a>
-            </div>
-
-  {{ end }}
-  </div>
 {{ end }}

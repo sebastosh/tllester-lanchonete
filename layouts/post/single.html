@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+<article class="single-entry">
+
+  <div class="entry-header">
+    <h1 class="entry-title">{{ .Title }}</h1>
+    <div class="entry-meta">
+      {{ if not .Date.IsZero }}
+      <time datetime="{{ .Date.Format "2006-01-02T00:00:00Z" }}">{{ .Date.Format "2 January 2006" }}</time>
+      {{ end }}
+      {{ with .Params.author }} &middot; {{ . }}{{ end }}
+    </div>
+  </div>
+
+  {{ if .Params.coverImage }}
+  <div class="entry-media">
+    <img src="/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}">
+  </div>
+  {{ end }}
+
+  <div class="entry-content">
+    {{ .Content }}
+  </div>
+
+  <nav class="post-navigation" aria-label="Navegação de posts">
+    {{ with .PrevInSection }}<a href="{{ .Permalink }}">&larr; {{ .Title }}</a>{{ end }}
+    {{ with .NextInSection }}<a href="{{ .Permalink }}">{{ .Title }} &rarr;</a>{{ end }}
+  </nav>
+
+</article>
+
+{{ end }}

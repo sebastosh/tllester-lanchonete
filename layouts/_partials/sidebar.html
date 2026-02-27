@@ -1,0 +1,42 @@
+{{/* Recent Posts widget */}}
+{{ $posts := where .Site.Pages "Section" "posts" }}
+{{ $posts = where $posts "Kind" "page" }}
+{{ $recent := first 5 (sort $posts "Date" "desc") }}
+{{ if $recent }}
+<div class="widget">
+  <h3 class="widget-title">{{ i18n "recentPosts" | default "Artigos Recentes" }}</h3>
+  <ul>
+    {{ range $recent }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}
+
+{{/* About pages widget */}}
+{{ $aboutPages := where .Site.Pages "Section" "about" }}
+{{ $aboutPages = where $aboutPages "Kind" "page" }}
+{{ if $aboutPages }}
+<div class="widget">
+  <h3 class="widget-title">{{ i18n "about" | default "Sobre" }}</h3>
+  <ul>
+    {{ range sort $aboutPages "Title" }}
+    {{ if not .Params.private }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+    {{ end }}
+  </ul>
+</div>
+{{ end }}
+
+{{/* Projetos widget */}}
+<div class="widget">
+  <h3 class="widget-title">{{ i18n "projects" | default "Projetos" }}</h3>
+  <ul>
+    <li><a href="/cidadequeer/">Cidade Queer</a></li>
+    <li><a href="/paim/">A Rua Paim</a></li>
+    <li><a href="/episodiohaiti/">Episódio Haiti</a></li>
+    <li><a href="/zonadamata/">Zona da Mata</a></li>
+    <li><a href="/arquivo/">Arquivo</a></li>
+  </ul>
+</div>
