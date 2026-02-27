@@ -1,0 +1,408 @@
+/* ===== Zona da Mata — Cudazi Mono theme recreation ===== */
+/* Theme: Cudazi Mono v1.3 | Scoped to body.zonadamata */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Oswald:wght@400;700&family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,700;1,900&display=swap');
+
+/* ----- Base ----- */
+body.zonadamata {
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
+  color: #333;
+  line-height: 1.7;
+  background-image: url('/zonadamata/bg.jpg');
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: -30px -50px;
+  margin: 0;
+  padding: 0;
+}
+
+body.zonadamata *,
+body.zonadamata *::before,
+body.zonadamata *::after {
+  box-sizing: border-box;
+}
+
+body.zonadamata a {
+  color: #777;
+  text-decoration: none;
+}
+
+body.zonadamata h1 a,
+body.zonadamata h2 a,
+body.zonadamata h3 a,
+body.zonadamata h4 a,
+body.zonadamata h5 a,
+body.zonadamata h6 a,
+body.zonadamata a:hover {
+  color: #333;
+}
+
+body.zonadamata h1,
+body.zonadamata h2,
+body.zonadamata h3,
+body.zonadamata h4,
+body.zonadamata h5,
+body.zonadamata h6 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  padding: 0 0 30px 0;
+  line-height: 1.2;
+}
+
+body.zonadamata h1,
+body.zonadamata h2 {
+  font-size: 32px;
+}
+
+body.zonadamata h3 {
+  font-size: 22px;
+}
+
+body.zonadamata h4 {
+  font-size: 18px;
+}
+
+body.zonadamata h5 {
+  font-size: 16px;
+}
+
+body.zonadamata h6 {
+  font-size: 12px;
+}
+
+body.zonadamata p {
+  padding: 0 0 20px 0;
+}
+
+body.zonadamata strong {
+  font-weight: bold;
+}
+
+body.zonadamata em {
+  font-style: italic;
+}
+
+body.zonadamata ul,
+body.zonadamata ol {
+  margin: 0 20px 20px 0;
+  padding-left: 40px;
+}
+
+body.zonadamata li {
+  margin-bottom: 5px;
+}
+
+body.zonadamata blockquote {
+  margin: 0 0 0 40px;
+  font-style: italic;
+}
+
+/* ----- Container ----- */
+.zdm-container {
+  max-width: 1008px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+
+/* ----- Header ----- */
+#zdm-header {
+  margin: 60px 0;
+  position: relative;
+}
+
+.zdm-header-inner {
+  display: table;
+  width: 100%;
+}
+
+.zdm-logo-cell {
+  display: table-cell;
+  vertical-align: bottom;
+  width: 150px;
+}
+
+#zdm-logo {
+  margin: 0;
+  padding: 0;
+}
+
+#zdm-logo h1 {
+  padding: 0;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+#zdm-logo a {
+  color: #333;
+  text-decoration: none;
+  font-family: 'Playfair Display', serif;
+}
+
+.zdm-back-link {
+  display: block;
+  font-family: 'Oswald', sans-serif;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #aaa;
+  text-decoration: none;
+  margin-bottom: 8px;
+  transition: color 0.2s;
+}
+
+.zdm-back-link:hover {
+  color: #741c1c;
+}
+
+/* ----- Navigation ----- */
+.zdm-nav-cell {
+  display: table-cell;
+  vertical-align: bottom;
+  text-align: right;
+  padding-right: 80px;
+  padding-bottom: 2px;
+}
+
+.zdm-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+
+.zdm-nav li {
+  display: inline-block;
+}
+
+.zdm-nav a {
+  display: inline-block;
+  padding: 0 0 0 50px;
+  text-decoration: none;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #bfdb00;
+  font-family: 'Oswald', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  transition: color 0.2s;
+}
+
+.zdm-nav a:hover {
+  color: #741c1c;
+}
+
+/* ----- Main ----- */
+#zdm-main {
+  padding: 0 0 60px 0;
+}
+
+/* ----- Post listing ----- */
+.zdm-post {
+  padding: 60px 0 0;
+  margin: 50px 0 0;
+  border-top: 1px solid #ddd;
+  background: url('../images/hr.gif') repeat-x top left;
+}
+
+.zdm-post:first-child {
+  border-top: none;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.zdm-post-thumbnail {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 30px;
+  border-radius: 2px;
+  box-shadow: 0 0 3px #ddd;
+  transition: opacity 0.3s;
+}
+
+.zdm-post-thumbnail:hover {
+  opacity: 0.85;
+}
+
+.zdm-entry-title {
+  line-height: 1.2;
+  padding: 0;
+}
+
+.zdm-entry-title a {
+  color: #333;
+  text-decoration: none;
+}
+
+.zdm-entry-meta {
+  font-size: 10px;
+  letter-spacing: 1px;
+  color: #999;
+  text-transform: uppercase;
+  line-height: 1;
+  font-family: 'Oswald', sans-serif;
+  margin-top: 10px;
+  padding: 5px 0 30px;
+}
+
+.zdm-entry-content {
+  margin-top: 10px;
+}
+
+.zdm-entry-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 20px;
+  border-radius: 2px;
+  box-shadow: 0 0 3px #ddd;
+}
+
+.zdm-read-more {
+  font-style: italic;
+  color: #777;
+  text-decoration: none;
+}
+
+.zdm-read-more:hover {
+  color: #333;
+}
+
+/* ----- Single Post ----- */
+.zdm-single-wrap {
+  padding-bottom: 60px;
+}
+
+.zdm-single-title {
+  line-height: 1.2;
+  padding: 0 0 10px;
+}
+
+.zdm-single-meta {
+  font-size: 10px;
+  letter-spacing: 1px;
+  color: #999;
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+  padding: 5px 0 30px;
+}
+
+.zdm-single-featured {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 30px;
+  border-radius: 2px;
+  box-shadow: 0 0 3px #ddd;
+}
+
+.zdm-single-content {
+  margin-top: 10px;
+}
+
+.zdm-single-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 20px;
+  border-radius: 2px;
+  box-shadow: 0 0 3px #ddd;
+}
+
+.zdm-post-nav {
+  border-top: 1px solid #ddd;
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.zdm-nav-prev,
+.zdm-nav-next {
+  max-width: 45%;
+}
+
+.zdm-post-nav a {
+  color: #777;
+  text-decoration: none;
+}
+
+.zdm-post-nav a:hover {
+  color: #333;
+}
+
+/* ----- Single Page ----- */
+.zdm-page-wrap {
+  padding-bottom: 60px;
+}
+
+.zdm-page-title {
+  line-height: 1.2;
+  padding: 0 0 10px;
+}
+
+.zdm-page-body {
+  margin-top: 30px;
+}
+
+.zdm-page-body img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 20px;
+}
+
+/* ----- Footer ----- */
+#zdm-footer {
+  border-top: 1px solid #ddd;
+  padding: 30px 0 20px;
+  margin-top: 30px;
+}
+
+.zdm-footer-bottom {
+  font-size: 11px;
+  color: #999;
+  text-align: right;
+}
+
+.zdm-footer-bottom a {
+  color: #999;
+}
+
+/* ----- Responsive ----- */
+@media screen and (max-width: 767px) {
+  .zdm-container {
+    padding: 0 20px;
+  }
+
+  #zdm-header {
+    margin: 30px 0;
+  }
+
+  .zdm-header-inner {
+    display: block;
+  }
+
+  .zdm-logo-cell,
+  .zdm-nav-cell {
+    display: block;
+    width: auto;
+    text-align: left;
+  }
+
+  .zdm-nav-cell {
+    padding-right: 0;
+    margin-top: 15px;
+  }
+
+  .zdm-nav a {
+    padding: 0 20px 0 0;
+    letter-spacing: 1px;
+    font-size: 12px;
+  }
+}

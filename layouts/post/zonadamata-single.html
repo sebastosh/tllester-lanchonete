@@ -1,0 +1,38 @@
+{{ partial "zonadamata/header.html" . }}
+
+<div class="zdm-single-wrap">
+
+  <article>
+
+    <h1 class="zdm-single-title">{{ .Title }}</h1>
+    <div class="zdm-single-meta">
+      <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2 January 2006" }}</time>
+      {{ with .Params.categories }}{{ range . }} &middot; {{ . }}{{ end }}{{ end }}
+    </div>
+
+    {{ if .Params.coverImage }}
+    <img src="/zonadamata/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}" class="zdm-single-featured">
+    {{ end }}
+
+    <div class="zdm-single-content">
+      {{ .Content }}
+    </div>
+
+    <nav class="zdm-post-nav" aria-label="Navegação de posts">
+      {{ with .PrevInSection }}
+      <div class="zdm-nav-prev">
+        <a href="{{ .Permalink }}">&larr; {{ .Title }}</a>
+      </div>
+      {{ end }}
+      {{ with .NextInSection }}
+      <div class="zdm-nav-next">
+        <a href="{{ .Permalink }}">{{ .Title }} &rarr;</a>
+      </div>
+      {{ end }}
+    </nav>
+
+  </article>
+
+</div>
+
+{{ partial "zonadamata/footer.html" . }}

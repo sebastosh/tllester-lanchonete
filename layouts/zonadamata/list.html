@@ -1,0 +1,33 @@
+{{ define "title" }}Zona da Mata — no quintal do Goethe-Institut São Paulo{{ end }}
+
+{{ define "main" }}
+
+{{ $allZdm := where site.RegularPages "Section" "zonadamata" }}
+{{ $posts := sort (where $allZdm "Type" "post") "Date" "desc" }}
+
+{{ if $posts }}
+  {{ range $posts }}
+  <article class="zdm-post">
+    {{ if .Params.coverImage }}
+    <a href="{{ .Permalink }}">
+      <img src="/zonadamata/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}" class="zdm-post-thumbnail">
+    </a>
+    {{ end }}
+    <h2 class="zdm-entry-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <div class="zdm-entry-meta">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+      {{ with .Params.categories }}{{ range . }} &middot; {{ . }}{{ end }}{{ end }}
+    </div>
+    <div class="zdm-entry-content">
+      {{ if .Params.excerpt }}
+      <p>{{ .Params.excerpt }}</p>
+      {{ else }}
+      <p>{{ .Summary | truncate 200 }}</p>
+      {{ end }}
+    </div>
+    <a href="{{ .Permalink }}" class="zdm-read-more">continuar lendo &rarr;</a>
+  </article>
+  {{ end }}
+{{ end }}
+
+{{ end }}

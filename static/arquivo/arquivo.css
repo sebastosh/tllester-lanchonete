@@ -1,0 +1,477 @@
+/* arquivo.css — Lanchonete Archive theme */
+
+/* ===== Custom Fonts ===== */
+
+@font-face {
+  font-family: 'brush';
+  src: url('/arquivo/fonts/brush/BrushScriptStd.woff') format('woff'),
+       url('/arquivo/fonts/brush/BrushScriptStd.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'bauhaus';
+  src: url('/arquivo/fonts/bauhaus/BAUHS93.woff') format('woff'),
+       url('/arquivo/fonts/bauhaus/BAUHS93.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'gotham';
+  src: url('/arquivo/fonts/gotham/GothamBook.woff') format('woff'),
+       url('/arquivo/fonts/gotham/GothamBook.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'gotham';
+  src: url('/arquivo/fonts/gotham-bold/gothambold1.woff') format('woff'),
+       url('/arquivo/fonts/gotham-bold/gothambold1.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* ===== Reset & Base ===== */
+
+body.arquivo {
+  font-family: Helvetica, Arial, "Helvetica Neue", sans-serif;
+  font-size: 14px;
+  color: #292929;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+body.arquivo * {
+  box-sizing: border-box;
+}
+
+body.arquivo a,
+body.arquivo a:hover,
+body.arquivo a:focus,
+body.arquivo a:visited {
+  color: #113C51;
+  text-decoration: none;
+}
+
+body.arquivo a:hover {
+  text-decoration: underline;
+}
+
+body.arquivo p {
+  font-size: 14px;
+  line-height: 1.6;
+  margin: 0 0 1em;
+}
+
+body.arquivo h1,
+body.arquivo h2,
+body.arquivo h3,
+body.arquivo h4,
+body.arquivo h5,
+body.arquivo h6 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: "bauhaus", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* ===== Font utility classes ===== */
+
+body.arquivo .font-brush {
+  font-family: 'brush', "Brush Script MT", "Times New Roman", Times, cursive;
+  font-size: 350%;
+  letter-spacing: -0.03em;
+}
+
+body.arquivo .font-bauhaus {
+  font-family: "bauhaus", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: -0.03em;
+}
+
+body.arquivo .text-red {
+  color: #E12D1E;
+}
+
+body.arquivo .text-olive {
+  color: #113C51;
+}
+
+/* ===== Container ===== */
+
+body.arquivo .arq-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* ===== Navigation ===== */
+
+body.arquivo #arq-navbar {
+  background-color: #372490;
+  color: #fff;
+  padding: 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+body.arquivo .arq-navbar-inner {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  min-height: 70px;
+}
+
+body.arquivo .arq-brand {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px 0;
+  text-decoration: none !important;
+}
+
+body.arquivo .arq-brand:hover {
+  text-decoration: none;
+}
+
+body.arquivo .arq-site-name {
+  font-family: 'gotham', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+  color: #fff;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  line-height: 1;
+  margin: 0;
+}
+
+body.arquivo .arq-back-link {
+  font-family: "bauhaus", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 11px;
+  color: rgba(255,255,255,0.6) !important;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  display: block;
+  margin-top: 3px;
+}
+
+body.arquivo .arq-back-link:hover {
+  color: rgba(255,255,255,0.9) !important;
+  text-decoration: none;
+}
+
+body.arquivo .arq-nav {
+  display: flex;
+  align-items: center;
+}
+
+body.arquivo .arq-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 0;
+}
+
+body.arquivo .arq-nav ul li {
+  margin: 0 15px 0 0;
+}
+
+body.arquivo .arq-nav ul li a {
+  color: #E12D1E !important;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 5px 0;
+  display: block;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+body.arquivo .arq-nav ul li a:hover,
+body.arquivo .arq-nav ul li a:focus {
+  color: #F52F1F !important;
+  text-decoration: none;
+}
+
+/* ===== Section styles ===== */
+
+body.arquivo .arq-section {
+  padding: 40px 0;
+}
+
+body.arquivo .arq-section-orange {
+  background-color: #F59331;
+  padding: 40px 0;
+}
+
+body.arquivo .arq-section-white {
+  background-color: #fff;
+  padding: 40px 0;
+}
+
+/* ===== Intro hero ===== */
+
+body.arquivo #arq-intro {
+  background-color: #292929;
+  padding: 80px 0 60px;
+  text-align: center;
+}
+
+body.arquivo .arq-bom-apetite {
+  color: #E12D1E;
+  font-family: 'brush', "Brush Script MT", "Times New Roman", Times, cursive;
+  font-size: 5rem;
+  letter-spacing: -0.03em;
+  text-shadow: -2px -2px 4px rgba(255,255,255,0.2);
+  transform: rotate(-4deg);
+  display: inline-block;
+  margin: 0;
+}
+
+body.arquivo .arq-section-title {
+  font-family: "bauhaus", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: -0.03em;
+  color: #372490;
+  font-size: 2.2rem;
+  margin-bottom: 20px;
+}
+
+/* ===== Content cards ===== */
+
+body.arquivo .arq-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 24px;
+  margin-top: 24px;
+}
+
+body.arquivo .arq-card {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(50,50,50,0.2);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+body.arquivo .arq-card-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+}
+
+body.arquivo .arq-card-body {
+  padding: 16px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+body.arquivo .arq-card-meta {
+  font-size: 12px;
+  color: #888;
+  margin-bottom: 6px;
+}
+
+body.arquivo .arq-card-title {
+  font-family: "bauhaus", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
+  margin: 0 0 8px;
+}
+
+body.arquivo .arq-card-title a {
+  color: #113C51 !important;
+}
+
+body.arquivo .arq-card-title a:hover {
+  color: #E12D1E !important;
+  text-decoration: none;
+}
+
+body.arquivo .arq-card-excerpt {
+  font-size: 13px;
+  color: #555;
+  flex: 1;
+}
+
+body.arquivo .arq-read-more {
+  font-size: 12px;
+  font-weight: 700;
+  color: #E12D1E !important;
+  text-transform: uppercase;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+body.arquivo .arq-read-more:hover {
+  color: #F52F1F !important;
+  text-decoration: none;
+}
+
+/* ===== Box rounded (replicate WP box-rounded-well) ===== */
+
+body.arquivo .arq-box {
+  border-radius: 12px;
+  border: 8px solid #372490;
+  padding: 20px 30px;
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(50,50,50,0.15);
+  margin-bottom: 30px;
+}
+
+/* ===== Single post / page ===== */
+
+body.arquivo .arq-single-wrap {
+  max-width: 800px;
+  margin: 40px auto;
+}
+
+body.arquivo .arq-single-title {
+  font-family: "bauhaus", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 2rem;
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
+  color: #372490;
+  margin-bottom: 8px;
+}
+
+body.arquivo .arq-single-meta {
+  font-size: 12px;
+  color: #888;
+  margin-bottom: 24px;
+}
+
+body.arquivo .arq-single-cover {
+  width: 100%;
+  max-height: 420px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-bottom: 24px;
+  display: block;
+}
+
+body.arquivo .arq-single-content {
+  font-size: 15px;
+  line-height: 1.75;
+  color: #292929;
+}
+
+body.arquivo .arq-single-content h2,
+body.arquivo .arq-single-content h3 {
+  font-family: "bauhaus", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
+  color: #372490;
+}
+
+body.arquivo .arq-single-content a {
+  color: #E12D1E;
+}
+
+body.arquivo .arq-single-content a:hover {
+  color: #F52F1F;
+}
+
+body.arquivo .arq-post-nav {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 2px solid #372490;
+  display: flex;
+  justify-content: space-between;
+}
+
+body.arquivo .arq-post-nav a {
+  color: #E12D1E !important;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+body.arquivo .arq-post-nav a:hover {
+  color: #F52F1F !important;
+  text-decoration: none;
+}
+
+/* ===== Page / simple content ===== */
+
+body.arquivo .arq-page-wrap {
+  max-width: 900px;
+  margin: 40px auto;
+}
+
+body.arquivo .arq-page-title {
+  font-family: "bauhaus", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 2rem;
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
+  color: #372490;
+  margin-bottom: 24px;
+}
+
+body.arquivo .arq-page-body {
+  font-size: 15px;
+  line-height: 1.75;
+}
+
+body.arquivo .arq-page-body a {
+  color: #E12D1E;
+}
+
+body.arquivo .arq-page-body a:hover {
+  color: #F52F1F;
+}
+
+/* ===== Footer ===== */
+
+body.arquivo #arq-footer {
+  background-color: #372490;
+  color: rgba(255,255,255,0.7);
+  padding: 20px 0;
+  margin-top: 60px;
+  font-size: 13px;
+}
+
+body.arquivo #arq-footer a {
+  color: rgba(255,255,255,0.85) !important;
+}
+
+body.arquivo #arq-footer a:hover {
+  color: #fff !important;
+  text-decoration: none;
+}
+
+/* ===== Responsive ===== */
+
+@media (max-width: 768px) {
+  body.arquivo .arq-navbar-inner {
+    flex-direction: column;
+    padding: 12px 0;
+  }
+
+  body.arquivo .arq-nav ul {
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 10px;
+  }
+
+  body.arquivo .arq-nav ul li a {
+    font-size: 16px;
+  }
+
+  body.arquivo .arq-card-grid {
+    grid-template-columns: 1fr;
+  }
+
+  body.arquivo .arq-bom-apetite {
+    font-size: 3rem;
+  }
+}

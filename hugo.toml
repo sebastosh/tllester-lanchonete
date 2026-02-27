@@ -46,6 +46,11 @@ defaultContentLanguageInSubdir = false
       name = 'Episódio Haiti'
       url = '/episodiohaiti/'
       weight = 60
+    [[languages.pt.menus.main]]
+      identifier = 'zonadamata'
+      name = 'Zona da Mata'
+      url = '/zonadamata/'
+      weight = 70
 
   [languages.en]
     languageCode = 'en-US'
@@ -85,6 +90,11 @@ defaultContentLanguageInSubdir = false
       name = 'Haiti Episode'
       url = '/episodiohaiti/'
       weight = 60
+    [[languages.en.menus.main]]
+      identifier = 'zonadamata'
+      name = 'Zona da Mata'
+      url = '/zonadamata/'
+      weight = 70
 
 [sitemap]
   changefreq = "weekly"
