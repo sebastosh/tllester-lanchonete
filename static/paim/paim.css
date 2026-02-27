@@ -1,0 +1,743 @@
+/* ============================================================
+   A Rua Paim — Zerif Lite Theme Recreation for Hugo
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap');
+
+/* ------------------------------------------------------------
+   Reset / Base
+   ------------------------------------------------------------ */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body.paim {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', Arial, sans-serif;
+  font-weight: 300;
+  color: #808080;
+  background-color: #ffffff;
+  -ms-word-wrap: break-word;
+  word-wrap: break-word;
+}
+
+body.paim img,
+body.paim figure {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+body.paim iframe {
+  display: inline-block;
+  max-width: 100%;
+}
+
+body.paim p {
+  font-size: 16px;
+  line-height: 26px;
+  font-family: 'Roboto', Arial, sans-serif;
+  font-weight: 300;
+}
+
+body.paim a,
+body.paim a:visited {
+  color: #ecd88b;
+  text-decoration: none;
+}
+
+body.paim a:hover,
+body.paim a:active {
+  color: #d4b84a;
+  transition: all 0.3s;
+  text-decoration: none;
+}
+
+body.paim ::selection {
+  background: #ecd88b;
+  color: #222222;
+}
+
+/* Content-area links */
+body.paim .paim-entry-content a,
+body.paim .paim-entry-content a:visited,
+body.paim .paim-page-body a,
+body.paim .paim-page-body a:visited {
+  color: #ecd88b;
+}
+
+body.paim .paim-entry-content a:hover,
+body.paim .paim-page-body a:hover {
+  color: #d4b84a;
+}
+
+/* ------------------------------------------------------------
+   Container
+   ------------------------------------------------------------ */
+
+.paim-container {
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+/* ------------------------------------------------------------
+   Navbar — Bootstrap navbar-inverse style
+   ------------------------------------------------------------ */
+
+#paim-navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  background-color: #222222;
+  border-bottom: 1px solid #111111;
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+
+.paim-navbar-inner {
+  width: 100%;
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 0 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.paim-navbar-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.paim-navbar-brand img {
+  height: 40px;
+  width: auto;
+  display: block;
+}
+
+.paim-navbar-brand a {
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  color: #ecd88b !important;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.paim-navbar-brand a:hover {
+  color: #ffffff !important;
+}
+
+.paim-back-link {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 12px;
+  color: #888888 !important;
+  border: 1px solid #444444;
+  padding: 3px 10px;
+  border-radius: 2px;
+}
+
+.paim-back-link:hover {
+  color: #ecd88b !important;
+  border-color: #ecd88b;
+}
+
+/* Nav links */
+.paim-nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.paim-nav > li > a {
+  display: block;
+  padding: 8px 16px;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  color: #cccccc;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  transition: color 0.2s;
+}
+
+.paim-nav > li > a:hover,
+.paim-nav > li > a:focus {
+  color: #ecd88b;
+}
+
+/* ------------------------------------------------------------
+   Hero Section
+   ------------------------------------------------------------ */
+
+#paim-hero {
+  min-height: 100vh;
+  background-image: url('/paim/images/1I5A0847_ajustar.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+}
+
+#paim-hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+}
+
+.paim-hero-content {
+  position: relative;
+  z-index: 1;
+  color: #ffffff;
+  padding: 0 20px;
+}
+
+.paim-hero-title {
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 300;
+  font-size: 72px;
+  line-height: 1.1;
+  margin: 0 0 20px;
+  color: #ffffff;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.paim-hero-tagline {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-weight: 300;
+  font-size: 24px;
+  color: #ecd88b;
+  margin: 0 0 40px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.paim-hero-btn {
+  display: inline-block;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #222222 !important;
+  background-color: #ecd88b;
+  border: 2px solid #ecd88b;
+  padding: 12px 36px;
+  border-radius: 2px;
+  transition: all 0.3s;
+}
+
+.paim-hero-btn:hover {
+  background-color: transparent;
+  color: #ecd88b !important;
+}
+
+.paim-hero-scroll {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #ffffff;
+  font-size: 28px;
+  animation: paim-bounce 2s infinite;
+}
+
+@keyframes paim-bounce {
+  0%, 100% { transform: translateX(-50%) translateY(0); }
+  50% { transform: translateX(-50%) translateY(8px); }
+}
+
+/* ------------------------------------------------------------
+   Main Content Area (below hero on homepage)
+   ------------------------------------------------------------ */
+
+#paim-content {
+  padding-top: 80px; /* navbar offset for non-hero pages */
+}
+
+.paim-section {
+  padding: 70px 0;
+}
+
+.paim-section-title {
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 300;
+  font-size: 36px;
+  color: #333333;
+  text-align: center;
+  margin: 0 0 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.paim-section-divider {
+  width: 60px;
+  height: 3px;
+  background-color: #ecd88b;
+  margin: 0 auto 50px;
+}
+
+/* ------------------------------------------------------------
+   Post Grid (section homepage)
+   ------------------------------------------------------------ */
+
+.paim-post-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  margin-top: 20px;
+}
+
+.paim-post-card {
+  flex: 0 0 calc(33.333% - 16px);
+  max-width: calc(33.333% - 16px);
+  background: #f9f9f9;
+  border: 1px solid #eeeeee;
+  overflow: hidden;
+  transition: box-shadow 0.2s;
+}
+
+.paim-post-card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+}
+
+.paim-post-card-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+}
+
+.paim-post-card-body {
+  padding: 16px;
+}
+
+.paim-post-card-date {
+  display: block;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-size: 12px;
+  color: #aaaaaa;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 8px;
+}
+
+.paim-post-card-title {
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  color: #333333;
+  margin: 0 0 10px;
+  line-height: 1.3;
+}
+
+.paim-post-card-title a,
+.paim-post-card-title a:visited {
+  color: #333333;
+}
+
+.paim-post-card-title a:hover {
+  color: #ecd88b;
+}
+
+.paim-post-card-excerpt {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 14px;
+  color: #808080;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.paim-readmore {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.paim-readmore-link {
+  display: inline-block;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #ecd88b !important;
+  border: 2px solid #ecd88b;
+  padding: 10px 30px;
+  border-radius: 2px;
+  transition: all 0.3s;
+}
+
+.paim-readmore-link:hover {
+  background-color: #ecd88b;
+  color: #222222 !important;
+}
+
+/* ------------------------------------------------------------
+   Posts Listing
+   ------------------------------------------------------------ */
+
+.paim-posts-wrap {
+  padding: 80px 0 60px;
+}
+
+.paim-post-list {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.paim-post-item {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.paim-post-item:last-child {
+  border-bottom: none;
+}
+
+.paim-post-item-img {
+  flex: 0 0 200px;
+}
+
+.paim-post-item-img img {
+  width: 200px;
+  height: 140px;
+  object-fit: cover;
+  display: block;
+}
+
+.paim-post-item-body {
+  flex: 1;
+}
+
+.paim-post-item-date {
+  display: block;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-size: 12px;
+  color: #aaaaaa;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 8px;
+}
+
+.paim-post-item-title {
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 300;
+  font-size: 22px;
+  color: #333333;
+  margin: 0 0 10px;
+}
+
+.paim-post-item-title a,
+.paim-post-item-title a:visited {
+  color: #333333;
+}
+
+.paim-post-item-title a:hover {
+  color: #ecd88b;
+}
+
+.paim-post-item-excerpt {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 15px;
+  color: #808080;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* ------------------------------------------------------------
+   Single Post
+   ------------------------------------------------------------ */
+
+.paim-single-wrap {
+  padding: 80px 0 60px;
+}
+
+.paim-single-inner {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.paim-single-featured {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 30px;
+}
+
+.paim-single-meta {
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-size: 12px;
+  color: #aaaaaa;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 12px;
+}
+
+.paim-single-title {
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 300;
+  font-size: 36px;
+  color: #333333;
+  margin: 0 0 30px;
+  line-height: 1.2;
+}
+
+.paim-single-content {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 16px;
+  line-height: 28px;
+  color: #808080;
+}
+
+.paim-single-content p {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 16px;
+  line-height: 28px;
+  color: #808080;
+}
+
+.paim-single-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px 0;
+}
+
+.paim-single-content::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+/* Post nav */
+.paim-post-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid #eeeeee;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-size: 13px;
+}
+
+.paim-post-nav a,
+.paim-post-nav a:visited {
+  color: #808080;
+}
+
+.paim-post-nav a:hover {
+  color: #ecd88b;
+}
+
+.paim-nav-next {
+  text-align: right;
+}
+
+/* Tags */
+.paim-tags {
+  margin-top: 24px;
+  padding-top: 16px;
+  border-top: 1px solid #eeeeee;
+}
+
+.paim-tag {
+  display: inline-block;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #aaaaaa;
+  border: 1px solid #dddddd;
+  padding: 3px 8px;
+  margin: 2px;
+}
+
+/* ------------------------------------------------------------
+   Single Page
+   ------------------------------------------------------------ */
+
+.paim-page-wrap {
+  padding: 80px 0 60px;
+}
+
+.paim-page-inner {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.paim-page-title {
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 300;
+  font-size: 36px;
+  color: #333333;
+  margin: 0 0 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.paim-page-divider {
+  width: 60px;
+  height: 3px;
+  background-color: #ecd88b;
+  margin: 0 0 30px;
+}
+
+.paim-page-body {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 16px;
+  line-height: 28px;
+  color: #808080;
+}
+
+.paim-page-body p {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 16px;
+  line-height: 28px;
+  color: #808080;
+}
+
+.paim-page-body img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px 0;
+}
+
+.paim-page-body::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+/* WP image alignment helpers */
+body.paim .alignleft {
+  float: left;
+  margin: 5px 20px 20px 0;
+}
+
+body.paim .alignright {
+  float: right;
+  margin: 5px 0 20px 20px;
+}
+
+body.paim .aligncenter {
+  display: block;
+  margin: 5px auto;
+}
+
+body.paim .wp-caption-text {
+  color: #aaaaaa;
+  font-size: 13px;
+}
+
+/* ------------------------------------------------------------
+   Footer
+   ------------------------------------------------------------ */
+
+#paim-footer {
+  background-color: #1a1a1a;
+  color: #666666;
+  padding: 24px 15px;
+  text-align: center;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+#paim-footer a,
+#paim-footer a:visited {
+  color: #888888;
+}
+
+#paim-footer a:hover {
+  color: #ecd88b;
+}
+
+.paim-footer-info {
+  padding: 6px 0;
+}
+
+/* ------------------------------------------------------------
+   Responsive
+   ------------------------------------------------------------ */
+
+@media (max-width: 900px) {
+  .paim-hero-title {
+    font-size: 48px;
+  }
+
+  .paim-post-card {
+    flex: 0 0 calc(50% - 12px);
+    max-width: calc(50% - 12px);
+  }
+
+  .paim-post-item {
+    flex-direction: column;
+  }
+
+  .paim-post-item-img {
+    flex: none;
+  }
+
+  .paim-post-item-img img {
+    width: 100%;
+    height: 200px;
+  }
+}
+
+@media (max-width: 580px) {
+  .paim-hero-title {
+    font-size: 32px;
+  }
+
+  .paim-hero-tagline {
+    font-size: 16px;
+  }
+
+  .paim-navbar-inner {
+    flex-wrap: wrap;
+    height: auto;
+    padding: 10px 15px;
+  }
+
+  #paim-navbar {
+    height: auto;
+  }
+
+  .paim-nav {
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    gap: 0;
+    padding: 8px 0;
+  }
+
+  .paim-nav > li > a {
+    padding: 6px 0;
+  }
+
+  .paim-post-card {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}

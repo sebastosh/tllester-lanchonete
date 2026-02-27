@@ -1,0 +1,46 @@
+{{ define "title" }}Publicações — A Rua Paim{{ end }}
+
+{{ define "main" }}
+
+{{ $posts := sort (where (where site.RegularPages "Section" "paim") "Type" "post") "Date" "desc" }}
+
+<div class="paim-posts-wrap">
+  <div class="paim-container">
+    <h1 class="paim-section-title">Publicações</h1>
+    <div class="paim-section-divider"></div>
+
+    <div class="paim-post-list">
+      {{ range $posts }}
+      <article class="paim-post-item">
+
+        {{ if .Params.coverImage }}
+        <div class="paim-post-item-img">
+          <a href="{{ .Permalink }}">
+            <img src="/paim/posts/images/{{ .Params.coverImage }}" alt="{{ .Title }}">
+          </a>
+        </div>
+        {{ end }}
+
+        <div class="paim-post-item-body">
+          <span class="paim-post-item-date">{{ .Date.Format "2 January 2006" }}</span>
+          <h2 class="paim-post-item-title">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </h2>
+          {{ if .Params.excerpt }}
+          <p class="paim-post-item-excerpt">{{ .Params.excerpt }}</p>
+          {{ else }}
+          <p class="paim-post-item-excerpt">{{ .Summary }}</p>
+          {{ end }}
+        </div>
+
+      </article>
+      {{ end }}
+
+      {{ if not $posts }}
+      <p>Nenhuma publicação encontrada.</p>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+{{ end }}
