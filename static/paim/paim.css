@@ -741,3 +741,40 @@ body.paim .wp-caption-text {
     max-width: 100%;
   }
 }
+
+/* ===== Language Switcher ===== */
+body.paim .lang-switcher {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 6px;
+}
+
+body.paim .lang-btn {
+  padding: 2px 6px;
+  font-size: 0.75rem;
+  border: 1px solid rgba(236,216,139,0.4);
+  border-radius: 2px;
+  color: #ecd88b;
+  text-decoration: none;
+}
+
+body.paim .lang-btn:hover {
+  background: #ecd88b;
+  color: #222;
+  border-color: transparent;
+}
+
+body.paim .lang-current {
+  background: #ecd88b;
+  color: #222;
+  border-color: transparent;
+  font-weight: 700;
+}
+
+body.paim .lang-disabled {
+  color: #555;
+  border-color: #444;
+  text-decoration: line-through;
+  cursor: default;
+}

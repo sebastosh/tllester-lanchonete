@@ -406,3 +406,40 @@ body.zonadamata blockquote {
     font-size: 12px;
   }
 }
+
+/* ===== Language Switcher ===== */
+body.zonadamata .lang-switcher {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 6px;
+}
+
+body.zonadamata .lang-btn {
+  padding: 2px 6px;
+  font-size: 0.75rem;
+  border: 1px solid rgba(191,219,0,0.4);
+  border-radius: 2px;
+  color: #bfdb00;
+  text-decoration: none;
+}
+
+body.zonadamata .lang-btn:hover {
+  background: #bfdb00;
+  color: #333;
+  border-color: transparent;
+}
+
+body.zonadamata .lang-current {
+  background: #bfdb00;
+  color: #333;
+  border-color: transparent;
+  font-weight: 700;
+}
+
+body.zonadamata .lang-disabled {
+  color: #555;
+  border-color: #444;
+  text-decoration: line-through;
+  cursor: default;
+}

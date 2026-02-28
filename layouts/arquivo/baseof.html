@@ -13,18 +13,21 @@
 <div id="arq-outer">
 
   <nav id="arq-navbar">
-    <div class="arq-container">
+    <div class="arq-container arq-nav-items">
       <div class="arq-navbar-inner">
         <div class="arq-brand">
-          <span class="arq-site-name">Arquivo</span>
+          <img src="/lanchonete.png">
           <a href="/" class="arq-back-link" aria-label="Voltar para Lanchonete">&larr; Lanchonete</a>
         </div>
         <nav class="arq-nav" role="navigation" aria-label="Navegação principal">
           <ul>
+
+            <li><a href="/arquivo/">Arquivo</a></li>
             <li><a href="/arquivo/pages/people/">Participantes</a></li>
             <li><a href="/arquivo/posts/">Temas</a></li>
           </ul>
         </nav>
+        {{ partial "lang-switcher.html" . }}
       </div>
     </div>
   </nav>

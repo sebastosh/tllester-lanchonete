@@ -696,3 +696,39 @@ body.cidadequeer .wp-caption-text {
     max-width: 100%;
   }
 }
+
+/* ===== Language Switcher ===== */
+body.cidadequeer .lang-switcher {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 8px;
+}
+
+body.cidadequeer .lang-btn {
+  padding: 2px 6px;
+  font-size: 0.75rem;
+  border: 1px solid rgba(255,255,255,0.3);
+  border-radius: 2px;
+  color: #fff;
+  text-decoration: none;
+}
+
+body.cidadequeer .lang-btn:hover {
+  background: #dd3333;
+  border-color: transparent;
+}
+
+body.cidadequeer .lang-current {
+  background: #dd3333;
+  color: #fff;
+  border-color: transparent;
+  font-weight: 700;
+}
+
+body.cidadequeer .lang-disabled {
+  color: #666;
+  border-color: #444;
+  text-decoration: line-through;
+  cursor: default;
+}

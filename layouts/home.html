@@ -3,6 +3,22 @@
 {{ $posts := where .Site.Pages "Section" "posts" }}
 {{ $posts = where $posts "Kind" "page" }}
 
+{{- /* Collect posts from other language sites that have no translation in current language */ -}}
+{{- $currentLang := .Site.Language.Lang -}}
+{{- $otherOnlyPages := slice -}}
+{{- range site.Sites -}}
+  {{- if ne .Language.Lang $currentLang -}}
+    {{- $section := .GetPage "/posts" -}}
+    {{- if $section -}}
+      {{- range $section.RegularPages -}}
+        {{- if and (not .Params.private) (not .Translations) -}}
+          {{- $otherOnlyPages = $otherOnlyPages | append . -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
 <div class="posts-grid">
   {{ range first 6 (sort $posts "Date" "desc") }}
   <article class="entry">
@@ -16,6 +32,30 @@
     <div class="entry-header">
       <div class="entry-meta">
         <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+      </div>
+      <h2 class="entry-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    </div>
+    <div class="entry-summary">
+      {{ .Summary | plainify | truncate 140 }}
+      <br>
+      <a href="{{ .Permalink }}" class="more-link">{{ i18n "readMore" | default "Ler mais" }} &rarr;</a>
+    </div>
+  </article>
+  {{ end }}
+
+  {{ range sort $otherOnlyPages "Date" "desc" }}
+  <article class="entry entry-other-lang">
+    {{ if .Params.coverImage }}
+    <div class="entry-media">
+      <a href="{{ .Permalink }}">
+        <img src="/lanchonete/images/{{ .Params.coverImage }}" alt="{{ .Title }}">
+      </a>
+    </div>
+    {{ end }}
+    <div class="entry-header">
+      <div class="entry-meta">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+        <span class="lang-only-badge">{{ .Language.LanguageName }}</span>
       </div>
       <h2 class="entry-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     </div>

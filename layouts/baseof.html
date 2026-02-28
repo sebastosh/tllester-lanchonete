@@ -21,13 +21,6 @@
       </div>
 
       <div class="main-navigation-container">
-        {{ if .Translations }}
-        <div class="lang-switcher">
-          {{ range .Translations }}
-          <a href="{{ .Permalink }}" hreflang="{{ .Lang }}">{{ .Language.LanguageName }}</a>
-          {{ end }}
-        </div>
-        {{ end }}
         <nav class="main-navigation" role="navigation" aria-label="Navegação principal">
           <ul>
             {{ range .Site.Menus.main }}
@@ -35,6 +28,7 @@
             {{ end }}
           </ul>
         </nav>
+        {{ partial "lang-switcher.html" . }}
       </div>
 
     </div>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="{{ .Site.Language.LanguageCode | default "pt-BR" }}">
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -29,5 +29,6 @@
         </ul>
       </nav>
     </div>
+    {{ partial "lang-switcher.html" . }}
   </div>
 </header>
