@@ -17,9 +17,9 @@ The future of Lanchonete.org is to be [left open](https://lanchonete.org/en/201
 
 * * *
 
-Below are the names and respective years of involvement of the participants of Lanchonete.org’s projects. The Lanchonete history (2013-2016) can also be [viewed as a chronogram](https://f780f80c-7d0f-4a1b-8fba-aec2bb15f6d1.filesusr.com/ugd/dfd8e8_7a24335b4841466f9a2e51b58f290e14.pdf), and the project's [Archive can be viewed here](https://arquivo.lanchonete.org/?lang=en).
+Below are the names and respective years of involvement of the participants of Lanchonete.org’s projects. The Lanchonete history (2013-2016) can also be [viewed as a chronogram](/lanchonete/pdfs/dfd8e8_7a24335b4841466f9a2e51b58f290e14.pdf), and the project's [Archive can be viewed here](https://arquivo.lanchonete.org/?lang=en).
 
-[Click here](http://lanchonete.org/wp-content/uploads/2019/01/Lanchonete.org-Participants-2012-2018.pd) to download a file with all participants' information.
+[Click here](/lanchonete/pdfs/Lanchonete.org-Participants-2012-2018.pdf) to download a file with all participants' information.
 
  
 

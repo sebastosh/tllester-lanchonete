@@ -10,7 +10,7 @@ title: "Explode! Residency: Residentes"
 type: "post"
 ---
 
-Entre os dias 23 de agosto e 2 de setembro acontecerá a [Explode! Residency](https://cidadequeer.local//projetos-projects/explode/). Conheça abaixo os artistas, performers, educadorxs, dançarinxs e agentes culturais que integrarão a residência.
+Entre os dias 23 de agosto e 2 de setembro acontecerá a [Explode! Residency](/cidadequeer/pages/explode/). Conheça abaixo os artistas, performers, educadorxs, dançarinxs e agentes culturais que integrarão a residência.
 
 Between August 23rd and September 2nd will happen the Explode! Residency will take place. See below the artists, performers, educators, dancers and culture makers who will be part of the residency.
 

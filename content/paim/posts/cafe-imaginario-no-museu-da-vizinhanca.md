@@ -24,7 +24,7 @@ type: "post"
 
 fotos ©Leandro Moraes
 
-Dentro do contexto da programação pública do Museu da Vizinhança, recebemos nossos parceiros do Centro Cultural [Ocupação São João - MSTRU](https://www.facebook.com/Ocupação-São-João-MSTRU-490900594319238/) organizando junto uma nova versão do [Café Imaginário](https://paim.local//category/evento/cafe-imaginario/).
+Dentro do contexto da programação pública do Museu da Vizinhança, recebemos nossos parceiros do Centro Cultural [Ocupação São João - MSTRU](https://www.facebook.com/Ocupação-São-João-MSTRU-490900594319238/) organizando junto uma nova versão do Café Imaginário.
 
 Com o intuito de tornar visível a luta por moradia, informar e compartilhar saberes sobre coletividade, a ideia foi de conversar sobre a vizinhança, conectando as realidades da ocupação e da Paim, por meio de um evento que sempre aconteceu dentro da Ocupação São João que dessa vez foi transposto ao Demozelle.
 

@@ -25,7 +25,7 @@ title: "Mini-Conferência Comida e a Cidade"
 type: "post"
 ---
 
-Como primeiro evento parte da programação do [Museu da Vizinhança](https://paim.local//), tivemos uma conversa ao redor do tema comida e a cidade com artistas, cozinheirxs, ativistas e pensadores locais e internacionais.
+Como primeiro evento parte da programação do Museu da Vizinhança, tivemos uma conversa ao redor do tema comida e a cidade com artistas, cozinheirxs, ativistas e pensadores locais e internacionais.
 
 \[portfolio\_slideshow size=full\]
 

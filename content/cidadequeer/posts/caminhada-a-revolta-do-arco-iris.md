@@ -19,7 +19,7 @@ Como parte da oficina “A Revolta do Arco-íris”2, liderada pelo grupo sul-af
 
  
 
-[![18237741_619716118222207_8439935077212620596_o](images/18237741_619716118222207_8439935077212620596_o-650x433.jpg)](https://cidadequeer.local//wp-content/uploads/2017/05/18237741_619716118222207_8439935077212620596_o.jpg)
+![18237741_619716118222207_8439935077212620596_o](images/18237741_619716118222207_8439935077212620596_o-650x433.jpg)
 
 Se nas últimas décadas, Andréa lutou para que as populações LGBTQ+ tivessem seus direitos garantidos, assim como o direito de não terem seus corpos violados, é notória a necessidade de continuidade dessa luta – haja vista a estranheza e os comentários agressivos ouvidos por esse grupo durante o trajeto.
 
@@ -29,9 +29,9 @@ Essas pessoas, maquiadas, travestidas, estranhas, afeminadas, masculinizadas, n�
 
 Umzabalazo!
 
-[![18278796_619715621555590_1801289152736517618_o](images/18278796_619715621555590_1801289152736517618_o-650x433.jpg)](https://cidadequeer.local//wp-content/uploads/2017/05/18278796_619715621555590_1801289152736517618_o.jpg)
+![18278796_619715621555590_1801289152736517618_o](images/18278796_619715621555590_1801289152736517618_o-650x433.jpg)
 
-[![18358881_619714658222353_4080108582847865825_o](images/18358881_619714658222353_4080108582847865825_o-650x428.jpg)](https://cidadequeer.local//wp-content/uploads/2017/05/18358881_619714658222353_4080108582847865825_o.jpg)
+![18358881_619714658222353_4080108582847865825_o](images/18358881_619714658222353_4080108582847865825_o-650x428.jpg)
 
  
 

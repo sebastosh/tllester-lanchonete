@@ -16,9 +16,9 @@ O futuro da Lanchonete.org é para ser deixado em [aberto](http://lanchonete.org
 
 * * *
 
-Abaixo estão os nomes dos participantes e os respectivos anos em que se envolveram nos projetos do Lanchonete.org. A história do Lanchonete (2013-2016) também pode ser [vista como um cronograma](https://f780f80c-7d0f-4a1b-8fba-aec2bb15f6d1.filesusr.com/ugd/dfd8e8_7a24335b4841466f9a2e51b58f290e14.pdf), e o [arquivo do projeto pode ser visto aqui](https://arquivo.lanchonete.org/?lang=en).
+Abaixo estão os nomes dos participantes e os respectivos anos em que se envolveram nos projetos do Lanchonete.org. A história do Lanchonete (2013-2016) também pode ser [vista como um cronograma](/lanchonete/pdfs/dfd8e8_7a24335b4841466f9a2e51b58f290e14.pdf), e o [arquivo do projeto pode ser visto aqui](https://arquivo.lanchonete.org/?lang=en).
 
-[Clique aqui](http://lanchonete.org/wp-content/uploads/2019/01/Participantes-Lanchonete.org-2012-2018.pdf) para fazer o download da ficha técnica dos participantes.
+[Clique aqui](/lanchonete/pdfs/Participantes-Lanchonete.org-2012-2018.pdf) para fazer o download da ficha técnica dos participantes.
 
  
 

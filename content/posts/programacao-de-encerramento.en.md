@@ -9,10 +9,10 @@ title: "Post-Planning Cycle"
 type: "post"
 ---
 
-[video width="1280" height="720" mp4="http://www.teste.lanchonete.org/wp-content/uploads/2018/09/redes-sociais.mp4"\][/video]
+<video width="1280" height="720" controls><source src="/lanchonete/video/redes-sociais.mp4" type="video/mp4"></video>
 Vídeo: Coletivo Coletores
 
-By the time Lanchonete.org reached its five-year mark, we had a momentum that could not easily stop on December 31, 2017. Indeed at this point we had some activities--the Neighborhood Museum, Monday Lunches, an [open course on Local Power with Escola da Cidade](http://lanchonete.org/wp-content/uploads/2018/09/aulas-Poder-Local-1.pdf) and a community space to redesign with partners inside and outside the community–that deserved completion. There were also some additional artists and makers who we wanted to host while also 'disassembling' the platform. Basically we had a few more things we wanted to do as a group. One might even argue that the 'post-planning cycle' was an important time to have a final cohort of residents in as much our guests--international and local--helped us to compound ideas and avoid groupthink on consistent basis over the duration of the project.
+By the time Lanchonete.org reached its five-year mark, we had a momentum that could not easily stop on December 31, 2017. Indeed at this point we had some activities--the Neighborhood Museum, Monday Lunches, an [open course on Local Power with Escola da Cidade](/lanchonete/pdfs/aulas-Poder-Local-1.pdf) and a community space to redesign with partners inside and outside the community–that deserved completion. There were also some additional artists and makers who we wanted to host while also 'disassembling' the platform. Basically we had a few more things we wanted to do as a group. One might even argue that the 'post-planning cycle' was an important time to have a final cohort of residents in as much our guests--international and local--helped us to compound ideas and avoid groupthink on consistent basis over the duration of the project.
 
 Early in 2018 we hosted Berlin-based photographer, Akinbode Akinbiyi. His work began at a small Nigerian spiritual shop in the Center near the Copan Building where Akinbode resided. This corresponded with the second visit of the KTH Royal Institute of Technology in Stockholm whose architecture students worked with their local peers at the Escola da Cidade to start the beginning of an incremental charrette process with the residents of Conjunto Santos Dumont, the modernist compound where the lunch counter is located in its 14 Bis Building. We closed our primary residency unit at the Copan shortly after Akinbode's stay. However the apartment at Conjunto Santos Dumont, in the adjacent Demoizelle Building, opened for the [Amber Art & Design (Philadelphia) residency and the staging of the Neighborhood Museum](https://www.paim.lanchonete.org/2017/10/05/abertura-museu-da-vizinhanca/) was still functioning to host the open course and Monday lunches in the period after Carnival and until the end of June, 2018. During this period, artists Mickael Marchand (France), Chico Togni (Brasil), Kadija de Paula (Brasil), Jade Tang (Paris) all lived in the apartment at Rua Paim for short periods. Photographer and one of the primary documentarians of the Lanchonete.org project (2016-18), Leandro Moraes stayed there as well to support the open course and Monday Lunches that other members were planning and hosting. Throughout the first half of 2018 the activities in the Demoizelle apartment-cum-Neighborhood Museum generated more public events at Tarcisio's Bar downstairs at 14 Bis Building and in the general public space of Conjunto Santos Dumont. During this time, the retiling of the Demoizelle building was completed, and the internal roadway was paved privately, paid for by the three buildings of Conjunto Santos Dumont and its residents. This seems to have changed the usage patterns of the internal roadway.
 
@@ -35,7 +35,7 @@ Early in 2018 we hosted Berlin-based photographer, Akinbode Akinbiyi. His work b
 
 ![](/lanchonete/images/image4-375x500.jpg) (photo: Linda Fernandez)
 
-Presentation by Raphael Daibert and Paula Van Erven (Lanchonete.org), and Keir Johnston (Amber Art & Design), about the [Neighborhood Museum project](https://www.paim.lanchonete.org/2017/10/05/abertura-museu-da-vizinhanca/), at the [Open Engagement Conference](https://static1.squarespace.com/static/53e6d7e8e4b09a55555c6869/t/5e692623b0cc6e4fc612a8de/1583949349660/OE2018_Catalogue.pdf) about socially engaged art. New York, May/2018.
+Presentation by Raphael Daibert and Paula Van Erven (Lanchonete.org), and Keir Johnston (Amber Art & Design), about the [Neighborhood Museum project](https://www.paim.lanchonete.org/2017/10/05/abertura-museu-da-vizinhanca/), at the [Open Engagement Conference](/lanchonete/pdfs/OE2018_Catalogue.pdf) about socially engaged art. New York, May/2018.
 
 * * *
 
@@ -46,7 +46,7 @@ Presentation by Raphael Daibert and Paula Van Erven (Lanchonete.org), and Keir J
 [portfolio\_slideshow size=full include="955,956,957,958"]
 In partnership with the Escola da Cidade and architects from Habita-Cidade, Lanchonete.org developed the open course: “Local power -- strategies for the community: developing collective projects with and for communities.” The course presented and debated strategies on how to work in partnership with a community e how to facilitate community dynamics. It took place in the [Neighborhood Museum](https://www.paim.lanchonete.org/2017/10/05/abertura-museu-da-vizinhanca/), in the Santos Dumont Complex. The classes had a different partner of Lanchonete.org come to speak at each session, and ended with the traditional Monday Lunches.
 
-\*See course syllabus [here](https://lanchonete.org/wp-content/uploads/2018/09/aulas-Poder-Local-1.pdf)
+\*See course syllabus [here](/lanchonete/pdfs/aulas-Poder-Local-1.pdf)
 
 * * *
 
@@ -66,13 +66,13 @@ UA series of lunches prepared by Lanchonete.org member Abdoulaye Guibila, at tim
 
 Lanchonete.org and Coletivos Coletores began working together in 2016 during [Zona da Mata](http://zdm2016.lanchonete.org). For the 2018 Dak'Art (Dakar, Senegal) Biennial, Lanchonete.org was invited to produce a videomapping intervention with Coletivo Coletores that included their book launch of 'Insurgências: Arte, Tecnologia e Território' at the adjacent African Art Book Fair (AABF).
 
-[Hacking Dakar PDF](http://lanchonete.org/wp-content/uploads/2018/09/Coletores-Lanchonete-hacking-Dakar-curva-1.pdf)
+[Hacking Dakar PDF](/lanchonete/pdfs/Coletores-Lanchonete-hacking-Dakar-curva-1.pdf)
 
 * * *
 
 **Cartographic Bodies —** **Co-curated by Coletivo Coletores & Lanchonete.org**
 
-[![](/lanchonete/images/folder-final-curva-flavio-camargo-web-2-500x350.jpg)](http://lanchonete.org/wp-content/uploads/2018/09/folder-final-curva-flavio-camargo-web-2.jpg)
+![](/lanchonete/images/folder-final-curva-flavio-camargo-web-2-500x350.jpg)
 
 Joining forces after years and several partnerships, Coletivo Coletores and Lanchonete.org co-curated and produced 'Corporal Cartographies', a public programme offered during the opening week of the 2018 São Paulo Biennial considering community histories, memory, the city and all of its contradictions, thereby acknowledging the relationship between São Paulo's Centro and São Mateus in its East Zone, often called the 'periphery'.
 
@@ -92,15 +92,15 @@ The author Homi K. Bhabha draws us to realize that in these spaces, people and t
 
  
 
-[![](/lanchonete/images/image11-500x327.png)](http://lanchonete.org/wp-content/uploads/2018/09/image11.png)
+![](/lanchonete/images/image11-500x327.png)
 
-[![](/lanchonete/images/image14-500x359.png)](http://lanchonete.org/wp-content/uploads/2018/09/image14.png) photos: [www.instagram.com/kaaysa\_artresidency](https://www.instagram.com/kaaysa_artresidency/)
+![](/lanchonete/images/image14-500x359.png) photos: [www.instagram.com/kaaysa\_artresidency](https://www.instagram.com/kaaysa_artresidency/)
 
 * * *
 
 **Textão at the Museum of Sexual Diversity/strong>**
 
-[![](/lanchonete/images/image7-500x334.png)](http://lanchonete.org/wp-content/uploads/2018/09/image7.png)
+![](/lanchonete/images/image7-500x334.png)
 
 Having worked with [Lastro](https://www.instagram.com/lastro.art/?hl=en) to co-host visiting Guatemalteca artist Edgar Calel and [EXPLODE!](http://www.explode.life/) for the [Cidade Queer cycle](https://www.cidadequeer.lanchonete.org/) both in 2016, Lanchonete.org, Lastro & EXPLODE! came together again to make Textão in 2018. A The word textão – long text, in English – is an expression commonly used by the black, feminist and LGBTQIA+ communities in Brazil. Textão as a device is usually triggered when people from these communities suffer some kind of aggression. At this moment we feel the need to take position regarding a certain social factor that generates oppression. This speech or text is usually addressed to cisgender people, majorly white heterosexual wealthy men, to remind them of their own privileges and the specific position they occupy within the violent colonial system, based on class, race, gender and sexuality markings.
 
@@ -114,7 +114,7 @@ _\*See Textão [description](http://www.mds.org.br/events/textao/) and [review](
 
 **'Terroir na Paim' Intervention by Thiago Correia Gonçalves (w/ Coletivo Coletores)**
 
-[![](/lanchonete/images/terroir_EN-500x353.jpg)](http://lanchonete.org/wp-content/uploads/2018/09/Paim-2018-HResEng.pdf)
+[![](/lanchonete/images/terroir_EN-500x353.jpg)](/lanchonete/pdfs/Paim-2018-HResEng.pdf)
 
 In late November 2018 he conceived ‘Terroir da Paim’, a meat-drying (and eating) intervention in the internal roadway of Conjunto Santos Dumont, helping Lanchonete.org reimagine the urban planning concept of ‘charrette’ (or community consultation) and the culminating step in a series of social design encounters over the previous two years. The next step is the construction of a leisure area (including garden and lighting) for the three-building, 499 apartment Modernist structure.
 

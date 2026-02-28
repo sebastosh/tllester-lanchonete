@@ -14,21 +14,21 @@ Final event of Andrew O'Connor's collaborative residency between Lanchonete.org 
 
  
 
-[![](/lanchonete/images/WhatsApp-Image-2019-10-14-at-1.45.02-PM-1-500x375.jpeg)](http://lanchonete.org/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-14-at-1.45.02-PM-1.jpeg)
+![](/lanchonete/images/WhatsApp-Image-2019-10-14-at-1.45.02-PM-1-500x375.jpeg)
 
-[![](/lanchonete/images/WhatsApp-Image-2019-10-14-at-1.45.03-PM-1-500x375.jpeg)](http://lanchonete.org/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-14-at-1.45.03-PM-1.jpeg)
+![](/lanchonete/images/WhatsApp-Image-2019-10-14-at-1.45.03-PM-1-500x375.jpeg)
 
-[![](/lanchonete/images/WhatsApp-Image-2019-10-14-at-1.45.04-PM-1-500x375.jpeg)](http://lanchonete.org/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-14-at-1.45.04-PM-1.jpeg)
+![](/lanchonete/images/WhatsApp-Image-2019-10-14-at-1.45.04-PM-1-500x375.jpeg)
 
-[![](/lanchonete/images/WhatsApp-Image-2019-10-14-at-1.45.07-PM-1-500x375.jpeg)](http://lanchonete.org/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-14-at-1.45.07-PM-1.jpeg)
+![](/lanchonete/images/WhatsApp-Image-2019-10-14-at-1.45.07-PM-1-500x375.jpeg)
 
-[![](/lanchonete/images/WhatsApp-Image-2019-10-14-at-1.45.09-PM-1-500x375.jpeg)](http://lanchonete.org/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-14-at-1.45.09-PM-1.jpeg)
+![](/lanchonete/images/WhatsApp-Image-2019-10-14-at-1.45.09-PM-1-500x375.jpeg)
 
-[![](/lanchonete/images/WhatsApp-Image-2019-10-14-at-1.45.10-PM-1-500x375.jpeg)](http://lanchonete.org/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-14-at-1.45.10-PM-1.jpeg)
+![](/lanchonete/images/WhatsApp-Image-2019-10-14-at-1.45.10-PM-1-500x375.jpeg)
 
 photos by Verónica Daniela Cerotta
 
-[audio mp3="http://lanchonete.org/wp-content/uploads/2019/11/Lancho-Gabbriel-Bruno-imrov.mp3"\][/audio]
-[audio mp3="http://lanchonete.org/wp-content/uploads/2019/11/Lancho-TarsisioJam.mp3"\][/audio]
-[audio mp3="http://lanchonete.org/wp-content/uploads/2019/11/Lancho-Tawilliam.mp3"\][/audio]
+<audio controls><source src="/lanchonete/audio/Lancho-Gabbriel-Bruno-imrov.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="/lanchonete/audio/Lancho-TarsisioJam.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="/lanchonete/audio/Lancho-Tawilliam.mp3" type="audio/mpeg"></audio>
 audio by Andrew O'Connor

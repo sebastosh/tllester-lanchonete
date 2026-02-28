@@ -22,9 +22,9 @@ type: "post"
 
 fotos ©Leandro Moraes
 
-Os projetos [Vila Itororó Canteiro Aberto](http://vilaitororo.org.br/) e [Lanchonete.org](http://lanchonete.org/) promoveram a oficina "Deriva Fotográfica", que propôs uma caminhada pelo [Bixiga](https://paim.local//tag/bixiga/), em que os participantes tiveram acesso a câmeras analógicas para explorarem o bairro. A oficina foi guiada pelo fotógrafo Leandro Moraes e aconteceu nos dias 23 e 30 de novembro.
+Os projetos [Vila Itororó Canteiro Aberto](http://vilaitororo.org.br/) e [Lanchonete.org](http://lanchonete.org/) promoveram a oficina "Deriva Fotográfica", que propôs uma caminhada pelo Bixiga, em que os participantes tiveram acesso a câmeras analógicas para explorarem o bairro. A oficina foi guiada pelo fotógrafo Leandro Moraes e aconteceu nos dias 23 e 30 de novembro.
 
-Na quinta-feira, 23, o grupo saiu do galpão da Vila Itororó em direção ao [Conjunto Santos Dumont](https://paim.local//tag/conjunto-santos-dumont/), ao [Museu da Vizinhança](https://paim.local//). A ideia foi, por meio da fotografia, de acentuar características do [Bixiga](https://paim.local//tag/bixiga/) seguindo três temas: elementos arquitetônicos de memória, plantas espontâneas e árvores frutíferas e a presença cultural [nordestina](https://paim.local//tag/Nordeste/).
+Na quinta-feira, 23, o grupo saiu do galpão da Vila Itororó em direção ao Conjunto Santos Dumont, ao Museu da Vizinhança. A ideia foi, por meio da fotografia, de acentuar características do Bixiga seguindo três temas: elementos arquitetônicos de memória, plantas espontâneas e árvores frutíferas e a presença cultural nordestina.
 
 Na chegada ao Museu da Vizinhança houve um lanche de encerramento da atividade com um bate-papo com os participantes.
 

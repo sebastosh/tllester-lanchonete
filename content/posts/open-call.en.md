@@ -22,4 +22,4 @@ Near the ‘official’ end date of Lanchonete.org, we solicited ideas from past
 
  
 
-[![](/lanchonete/images/CSD-departure-gif-3-500x304.gif)](http://lanchonete.org/wp-content/uploads/2018/09/CSD-departure-gif-3.gif)
+![](/lanchonete/images/CSD-departure-gif-3-500x304.gif)

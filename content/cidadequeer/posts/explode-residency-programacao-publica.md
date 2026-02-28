@@ -12,7 +12,7 @@ type: "post"
 
 ### Programação pública / Public Program
 
-Entre os dias 23 de agosto e 02 de setembro, a [Explode! Residency](https://cidadequeer.local//projetos-projects/explode/) realizará, além dos encontros fechados entre os [residentes](https://cidadequeer.local//2016/08/03/explode-residency-residentes/), uma série de atividades abertas. Confira a agenda, programe-se e esteja conosco!
+Entre os dias 23 de agosto e 02 de setembro, a [Explode! Residency](/cidadequeer/pages/explode/) realizará, além dos encontros fechados entre os [residentes](/cidadequeer/posts/explode-residency-residentes/), uma série de atividades abertas. Confira a agenda, programe-se e esteja conosco!
 
 Todos os eventos são gratuitos e acontecerão na casa da residência, localizado na Rua Itamar Torino, 73, Vila Alzira (conhecida como Vila Nova York).
 
@@ -96,7 +96,7 @@ Um pente de ferro na boca do fogão e um pouco de vaselina. Era essa a receita p
 
 27 de agosto
 
-a partir das 13h, [almoJANTA #7](https://cidadequeer.local//projetos-projects/janta/) – comida queer, cidade queer
+a partir das 13h, almoJANTA #7 – comida queer, cidade queer
 
 ![logo_janta](images/logo_janta-650x406.jpg)
 
@@ -130,17 +130,17 @@ a partir das 15h, Conversa sobre a cultura ball norte americana com Michael Rob
 
 28 de agosto, a partir das 15h, Batalha Explode! de vogue com o Legendary Pony Zion Garcom, Felix Pimenta, Danna Lisboa, Projeto Diana (Danila Bustamante, Flávio Franzosi e Tiago Guiness) e demais convidados. No som: Tiago Guiness. Essa programação estará aberta a todxs que queiram participar das batalhas! Esteja preparadx! (Evento gratuito. Vagas limitadas para o workshop e as batalhas. Confirme sua presenção no email: exploderesidency@gmail.com)
 
-[Pony Zion](https://cidadequeer.local//2016/08/03/explode-residency-residentes/)![4af4d696f965e57809b174b3b0b3b5a4](images/4af4d696f965e57809b174b3b0b3b5a4-300x300.jpeg)
+[Pony Zion](/cidadequeer/posts/explode-residency-residentes/)![4af4d696f965e57809b174b3b0b3b5a4](images/4af4d696f965e57809b174b3b0b3b5a4-300x300.jpeg)
 
  
 
-![Foto: Cello Lopes](images/IMG_5800-650x466.jpg) [Felix Pimenta](https://cidadequeer.local//2016/08/03/explode-residency-residentes/)
+![Foto: Cello Lopes](images/IMG_5800-650x466.jpg) [Felix Pimenta](/cidadequeer/posts/explode-residency-residentes/)
 
-![Danna Lisboa](images/13549612_1653440768315311_333898371_n-300x300.jpg) [Danna Lisboa](https://cidadequeer.local//2016/08/03/explode-residency-residentes/)
+![Danna Lisboa](images/13549612_1653440768315311_333898371_n-300x300.jpg) [Danna Lisboa](/cidadequeer/posts/explode-residency-residentes/)
 
  
 
-[Tiago Guimarães](https://cidadequeer.local//2016/08/03/explode-residency-residentes/)
+[Tiago Guimarães](/cidadequeer/posts/explode-residency-residentes/)
 
 ![Tiago Guiness](images/eu-300x300.jpg)
 
@@ -154,7 +154,7 @@ a partir das 15h, Conversa sobre a cultura ball norte americana com Michael Rob
 
  
 
-![michael_315799_290390740988360_1578890530_n](images/michael_315799_290390740988360_1578890530_n.jpg) [Michael Roberson](https://cidadequeer.local//2016/08/03/explode-residency-residentes/)
+![michael_315799_290390740988360_1578890530_n](images/michael_315799_290390740988360_1578890530_n.jpg) [Michael Roberson](/cidadequeer/posts/explode-residency-residentes/)
 
  
 

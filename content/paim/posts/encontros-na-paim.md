@@ -29,7 +29,7 @@ type: "post"
 
 Durante o ano, muitas vezes tivemos visitas que passaram rapidamente pela Paim, gerando uma série de "Encontros na Paim." Os encontros foram momentos informais de se sentar junto e discutir o passado e futuro do projeto, com o compartilhamento da experiência e projetos/pesquisas de diferentes visitantes de fora que estavam de passagem pela cidade.
 
-**UMLILO & STASH CREW + EXPLODE!** - abril de 2017 [![](images/DSCF2422-1-1024x683.jpg)](https://paim.local//wp-content/uploads/2017/05/DSCF2422-1.jpg)
+**UMLILO & STASH CREW + EXPLODE!** - abril de 2017 ![](images/DSCF2422-1-1024x683.jpg)
 
 foto: Explode!/ ©Carol Godefroid
 

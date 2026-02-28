@@ -17,11 +17,11 @@ Uma mistura da cobertura de imprensa sobre o Lanchonete.org, assim como textos d
 
 [“São Paulo, um mosaico visto a partir da Rua Paim” – Arq.Urb #23](https://revistaarqurb.com.br/arqurb/article/view/43)
 
-[São Paulo, um mosaico visto a partir da Rua Paim (PT)](http://lanchonete.org/wp-content/uploads/2020/09/43-Texto-do-artigo-73-1-10-20191206-1.pdf)
+[São Paulo, um mosaico visto a partir da Rua Paim (PT)](/lanchonete/pdfs/43-Texto-do-artigo-73-1-10-20191206-1.pdf)
 
-[São Paulo, a mosaic as viewed from Paim Street (ING)](http://lanchonete.org/wp-content/uploads/2020/09/43-Texto-do-artigo-74-1-10-20191206-2.pdf)
+[São Paulo, a mosaic as viewed from Paim Street (ING)](/lanchonete/pdfs/43-Texto-do-artigo-74-1-10-20191206-2.pdf)
 
-[Occupation Cultural Centers & Cultural Agents in São Paulo](https://f780f80c-7d0f-4a1b-8fba-aec2bb15f6d1.filesusr.com/ugd/dfd8e8_40a7d5d819a340bebdb397a848b60019.pdf) (Texto completo do _Guia dos lugares difíceis de São Paulo_)
+[Occupation Cultural Centers & Cultural Agents in São Paulo](/lanchonete/pdfs/dfd8e8_40a7d5d819a340bebdb397a848b60019.pdf) (Texto completo do _Guia dos lugares difíceis de São Paulo_)
 
 * * *
 
@@ -35,7 +35,7 @@ Uma mistura da cobertura de imprensa sobre o Lanchonete.org, assim como textos d
 
 ## 2017
 
-[Using Art Terms to Refer to Community Organizing](https://f780f80c-7d0f-4a1b-8fba-aec2bb15f6d1.filesusr.com/ugd/dfd8e8_eb98cf59e0544a6f9fa823f92ac7dce9.pdf) (texto de fala realizada no KTH Royal Institute of Technology in Stockholm)
+[Using Art Terms to Refer to Community Organizing](/lanchonete/pdfs/dfd8e8_eb98cf59e0544a6f9fa823f92ac7dce9.pdf) (texto de fala realizada no KTH Royal Institute of Technology in Stockholm)
 
 [Soul Food, Essen in globalen Zeiten](https://artnews.lt/globalus-meno-rytai-istrige-tarp-globaliu-pietu-ir-siaures-tarp-brazilijos-ir-kinijos-ispudziai-po-kelioniu-po-meno-dziungles-49618) 
 
@@ -81,7 +81,7 @@ Profile: [Abdoulaye – The Accidental Paulistano](http://artseverywhere.ca/2017
 
 ## 2015
 
-[Anatomy of a Durational Project: Lanchonete, 2013-2017, by Todd Lester](https://f780f80c-7d0f-4a1b-8fba-aec2bb15f6d1.filesusr.com/ugd/dfd8e8_726ffc4f6a1b431b8e0195bba54b3f05.pdf)
+[Anatomy of a Durational Project: Lanchonete, 2013-2017, by Todd Lester](/lanchonete/pdfs/dfd8e8_726ffc4f6a1b431b8e0195bba54b3f05.pdf)
 
 [Isabel Gandía y una ciudad posible en Brasil](http://dialogoupr.com/isabel-gandia-y-una-ciudad-posible-en-brasil/)
 
@@ -111,14 +111,14 @@ Lanchonete.org response to The Nature of Cities roundtable, [How can art (in all
 
 [Todd Lester discusses Lanchonete.org and the status of contemporary artist residencies (BOMB interview by Lorena Vicini)](https://bombmagazine.org/articles/todd-lester/)
 
-[Lanchonete.org in SARAI Reader #9, Projections](http://archive.sarai.net/files/original/742cb52dcb9d9b6061a6ae8ac85f3810.pdf) (related [review / interview with Raqs Media Collective](https://www.on-curating.org/issue-19-reader/interview-with-raqs-media-collective-on-the-exhibition-sarai-reader-09.html#.YI66hH1Kj_S))
+[Lanchonete.org in SARAI Reader #9, Projections](/lanchonete/pdfs/742cb52dcb9d9b6061a6ae8ac85f3810.pdf) (related [review / interview with Raqs Media Collective](https://www.on-curating.org/issue-19-reader/interview-with-raqs-media-collective-on-the-exhibition-sarai-reader-09.html#.YI66hH1Kj_S))
 
-[Lanchonete.org launch zine for Tijuana Book Fair (Sao Paulo, 2013)](https://artfuladministrator.files.wordpress.com/2014/08/final_menu_zine_no1.pdf)
+[Lanchonete.org launch zine for Tijuana Book Fair (Sao Paulo, 2013)](/lanchonete/pdfs/final_menu_zine_no1.pdf)
 
-[Lanchonete.org @ São Paulo X Bienal de Arquitetura (2013)](https://artfuladministrator.files.wordpress.com/2013/11/pdf_lanchonete_preview_20131108_a.pdf)
+[Lanchonete.org @ São Paulo X Bienal de Arquitetura (2013)](/lanchonete/pdfs/pdf_lanchonete_preview_20131108_a.pdf)
 
 * * *
 
 Lanchonete.org participou no [Cosmopolis #1 Collective Intelligence](https://c1.cosmopolis.woo.cat/en/) (2017) em Paris no Centre Pompidou e no [10th Bamako Encounters, African Biennale of Photography: Telling Time](https://lanchonete.org/en/2015/10/lanchonete-org-the-10th-bamako-encounters-african-biennale-of-photography-telling-time/) (2015), assim como na 10a e [11a Bienal de Arquitetura de São Paulo](https://www.paim.lanchonete.org/2017/12/01/vidas-corpos-com-hiv/).
 
-Lanchonete.org é um exemplo de caso na plataforma da Universidade de Coimbra, [Culturizing Sustainable Cities.](https://www.ces.uc.pt/projectos/culturizing/?id=10659&pag=13854) Em fevereiro de 2018, o Cidade Queer foi incluído na Revista Elle (Brasil), após episódios em [Cuiabá](http://cuiaba.lanchonete.org/), Quito e o original em São Paulo. Um [filme homónino](https://www.cidadequeer.lanchonete.org/projetos-projects/ataque/) e [_cidade queer, uma leitora_](http://www.edicoesaurora.com/cidade-queer-uma-leitora/) (do Publication Studio) são subprodutos do inquérito de mais longa duração do Lanchonete.org. [Um treinamento de jardinagem em espaços irregulares,](https://mapeamentojardinagemterritorialidade.wordpress.com/hortas-livres-lanchonete-org/) conduzido pelo Cidades Sem Fome e o arquiteto polonês Jakub Szczęsny, resultou em um [Guia de Jardinagem](https://mapeamentojardinagemterritorialidade.files.wordpress.com/2016/05/hortas_livres_a4.pdf) “do-it-yourself”, feito com o movimento de moradia e o Edições Aurora. A Ocupação São João e o Lanchonete.org aparecem no WITNESS Blog,  [Mapping Our Materials: The Forced Evictions Advocacy Toolkit Goes Global](https://blog.witness.org/2014/05/mapping-materials-forced-evictions-toolkit/). O catálogo da exposição [The Modes of Democracy (DOX/Prague)](https://f780f80c-7d0f-4a1b-8fba-aec2bb15f6d1.filesusr.com/ugd/dfd8e8_64bdf2da6f724b39831d6053ca9ac21f.pdf); a peça na [_InterArtive_](https://interartive.org/2015/02/lanchonete-org) [Platform for Contemporary Art & Thought](https://interartive.org/2015/02/lanchonete-org); e o livro Routledge, [Contemporary Perspectives on Art and International Development](https://www.routledge.com/Contemporary-Perspectives-on-Art-and-International-Development/Stupples-Teaiwa/p/book/9781138024700) todos contêm a “planta” original do Lanchonete.org … mesmo se muito acabou mudando durante sua duração de cinco anos.
+Lanchonete.org é um exemplo de caso na plataforma da Universidade de Coimbra, [Culturizing Sustainable Cities.](https://www.ces.uc.pt/projectos/culturizing/?id=10659&pag=13854) Em fevereiro de 2018, o Cidade Queer foi incluído na Revista Elle (Brasil), após episódios em [Cuiabá](http://cuiaba.lanchonete.org/), Quito e o original em São Paulo. Um [filme homónino](https://www.cidadequeer.lanchonete.org/projetos-projects/ataque/) e [_cidade queer, uma leitora_](http://www.edicoesaurora.com/cidade-queer-uma-leitora/) (do Publication Studio) são subprodutos do inquérito de mais longa duração do Lanchonete.org. [Um treinamento de jardinagem em espaços irregulares,](https://mapeamentojardinagemterritorialidade.wordpress.com/hortas-livres-lanchonete-org/) conduzido pelo Cidades Sem Fome e o arquiteto polonês Jakub Szczęsny, resultou em um [Guia de Jardinagem](https://mapeamentojardinagemterritorialidade.files.wordpress.com/2016/05/hortas_livres_a4.pdf) “do-it-yourself”, feito com o movimento de moradia e o Edições Aurora. A Ocupação São João e o Lanchonete.org aparecem no WITNESS Blog,  [Mapping Our Materials: The Forced Evictions Advocacy Toolkit Goes Global](https://blog.witness.org/2014/05/mapping-materials-forced-evictions-toolkit/). O catálogo da exposição [The Modes of Democracy (DOX/Prague)](/lanchonete/pdfs/dfd8e8_64bdf2da6f724b39831d6053ca9ac21f.pdf); a peça na [_InterArtive_](https://interartive.org/2015/02/lanchonete-org) [Platform for Contemporary Art & Thought](https://interartive.org/2015/02/lanchonete-org); e o livro Routledge, [Contemporary Perspectives on Art and International Development](https://www.routledge.com/Contemporary-Perspectives-on-Art-and-International-Development/Stupples-Teaiwa/p/book/9781138024700) todos contêm a “planta” original do Lanchonete.org … mesmo se muito acabou mudando durante sua duração de cinco anos.

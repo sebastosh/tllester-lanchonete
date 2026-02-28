@@ -21,7 +21,7 @@ title: "Paim em FESTA ~ Lanchonete.org"
 type: "post"
 ---
 
-Neste fim de semana foi celebrado o fechamento de um ciclo na Paim! O [Museu da Vizinhança](https://paim.local//) do [Conjunto Santos Dumont](https://paim.local//tag/conjunto-santos-dumont/) foi um espaço de encontro, trabalho, exposição e eventos, que durante o segundo semestre do ano de 2017, no [apartamento 1023](https://paim.local//category/evento/ap-1023-edificio-demozelle/) no edifício Demozelle, celebrou histórias, movimentos e a realidade destes prédios tão icônicos da Bela Vista.
+Neste fim de semana foi celebrado o fechamento de um ciclo na Paim! O Museu da Vizinhança do Conjunto Santos Dumont foi um espaço de encontro, trabalho, exposição e eventos, que durante o segundo semestre do ano de 2017, no apartamento 1023 no edifício Demozelle, celebrou histórias, movimentos e a realidade destes prédios tão icônicos da Bela Vista.
 
 [Lanchonete.org](http://lanchonete.org) junto com a vizinhança e diversas parcerias realizou oficinas de arte e fotografia, projeções, refeições periódicas (como os almoços de segunda), conversas sobre temas contemporâneos urgentes como comida e a cidade, engajamento comunitário, questões raciais, questões de saúde pública e HIV/AIDS, gênero, direito à cidade, entre outros encontros espontâneos neste espaço aberto.
 

@@ -9,7 +9,7 @@ type: "arquivo"
 
 _\*Whilst Lanchonete.org was originally a five-year process, we continue hosting artists and urbanists on site at the lunch counter and its environs up until now, such as [Lavi Kasongo](https://lanchonete.org/en/2021/01/lavi-kasongo/), [Abdoulaye Guibila](https://lanchonete.org/en/2020/10/abdoulaye-guibila/), [Fernando Pereira dos Santos](https://lanchonete.org/en/2020/10/fernando-pereira-dos-santos/), [Margem](https://lanchonete.org/en/2020/09/margem/), [Edgar Calel](https://lanchonete.org/en/2020/09/edgar-calel/), [Thiago Correia Gonçalves](https://lanchonete.org/en/2020/09/thiago-goncalves/), [Andrew O'Connor](https://lanchonete.org/en/2019/09/andrew-oconnor-em-residencia-com-lanchonete-org-e-residencia-sao-joao/), [Vertical Studio](https://lanchonete.org/en/2019/07/evento-final-de-trabalho-de-estudantes-do-estudio-vertical-escola-da-cidade-no-conjunto-santos-dumont/), [Anat Litwin](https://lanchonete.org/en/2019/05/anat-litwin-participa-de-seminario-internacional-da-escola-da-cidade/), [Adler Murada](https://lanchonete.org/en/2017/06/adler-murada-em-residencia-na-paim-cultura-e-comida-uma-experiencia-sobre-o-entendimento-da-migracao-habitacao-e-trabalho-2/) (review of one participant by another, Carina Paoletti), [Passeio Urbano](https://lanchonete.org/en/2017/06/passeio-urbano-bela-vista-2/), and [Umlilo & Stash Crew.](https://lanchonete.org/en/2017/04/conversa-com-umlilo-stash-crew/) 2018 was originally conceived as a public programme or [Post-Planning Cycle](https://lanchonete.org/en/2018/09/programacao-de-encerramento/) after the initial five-year project._
 
-All guests and participants since the beginning of 2019 can be seen on the [homepage blog](https://lanchonete.org/en/). Biographies for long-term participants not featured in the archive, such as Thiago de Paula Souza, Thiago Carrapatoso, Abdoulaye Guibila, Joel Borges and Paula Querido Van Erven are on the [People page](https://lanchonete.org/en/sobre/). The Lanchonete history (2013-2016) can also be [viewed as a chronogram](https://f780f80c-7d0f-4a1b-8fba-aec2bb15f6d1.filesusr.com/ugd/dfd8e8_7a24335b4841466f9a2e51b58f290e14.pdf), and some artist/urbanist interactions, such as Publication Studio, FICA and HabitaCidade are best explained in the archive's THEMES section.
+All guests and participants since the beginning of 2019 can be seen on the [homepage blog](https://lanchonete.org/en/). Biographies for long-term participants not featured in the archive, such as Thiago de Paula Souza, Thiago Carrapatoso, Abdoulaye Guibila, Joel Borges and Paula Querido Van Erven are on the [People page](https://lanchonete.org/en/sobre/). The Lanchonete history (2013-2016) can also be [viewed as a chronogram](/lanchonete/pdfs/dfd8e8_7a24335b4841466f9a2e51b58f290e14.pdf), and some artist/urbanist interactions, such as Publication Studio, FICA and HabitaCidade are best explained in the archive's THEMES section.
 
   
   
@@ -51,9 +51,9 @@ Thiago Correia Gonçalves (\*1983, Brazil) lives and works in São Paulo and New
 
 See [Post-Project](https://lanchonete.org/en/2018/09/programacao-de-encerramento/) Cycle.
 
-See [Lanchonete.org Brochure](https://lanchonete.org/wp-content/uploads/2018/09/Paim-2018-HResEng.pdf) featuring Thiago's work.
+See [Lanchonete.org Brochure](/lanchonete/pdfs/Paim-2018-HResEng.pdf) featuring Thiago's work.
 
-See the [Lanchonete.org launch zine](https://artfuladministrator.files.wordpress.com/2014/08/final_menu_zine_no1.pdf) Thiago designed for Tijuana Book Fair (São Paulo, 2013).
+See the [Lanchonete.org launch zine](/lanchonete/pdfs/final_menu_zine_no1.pdf) Thiago designed for Tijuana Book Fair (São Paulo, 2013).
 
 [cargocollective.com/thiagocg](http://cargocollective.com/thiagocg)  
   
@@ -159,7 +159,7 @@ Coletivo Amem was a guest of the [Neighborhood Museum](http://www.paim.lanchonet
 
 Jaroslav Anděl is a conceptual artist, photographer, art historian, curator, and pedagogue. He studied photography at FAMU (1967–72) and art history at Charles University in Prague (1969–73). Received his PhD from Charles University in Prague in 1982. Former director of the National Gallery in Prague's Museum of Modern Art, the author of Avant-Garde Page Design, Alexandr Hackenschmied, editor of Art Into Life: Russian Constructivism 1914-1932, Czech Modernism 1900-1945 and other books on 20th century art. In 2001 he initiated Excavating the Future symposium in Prague. From 2008 to 2014 he was Artistic Director of DOX, Centre for Contemporary Art, Prague. From 2004-2008, he was Acting Artistic Director at DOX. He lives in New York and Prague. Jaroslav Anděl teaches interdisciplinary seminars for Visual Art Studies and Humanities as an Adjunct Distinguished Senior Lecturer.
 
-Andel included Lanchonete.org in [Modes of Democracy](https://f780f80c-7d0f-4a1b-8fba-aec2bb15f6d1.filesusr.com/ugd/dfd8e8_64bdf2da6f724b39831d6053ca9ac21f.pdf) before visiting. His 2017 research trip was a preparatory visit to consider Sao Paulo for a new traveling show entitled Radical Pedagogies.
+Andel included Lanchonete.org in [Modes of Democracy](/lanchonete/pdfs/dfd8e8_64bdf2da6f724b39831d6053ca9ac21f.pdf) before visiting. His 2017 research trip was a preparatory visit to consider Sao Paulo for a new traveling show entitled Radical Pedagogies.
 
   
   
@@ -223,7 +223,7 @@ He had the original idea for Lanchonete.org.
 
 Adler was born in Teresina, Piauí, Brazil (1986). He lives and works between São Paulo and Teresina. Adler is a visual artist—publication, drawing, installation and a range of collaborations—and independent editor/publisher. He sees his hybrid working style as a proposition for a contemporary artistic practice comprised of objects as well as cultural and social actions. Adler was one of the first long-term residents at Conjunto Santos Dumont, and coincided with Amber Art Collective and the [Neighborhood Museum](http://www.paim.lanchonete.org/museu-da-vizinhanca/) project.
 
-[Receitas da Paim cordel](https://lanchonete.org/wp-content/uploads/2017/06/Receitas-da-Paim_Adler-Murada.pdf) was produced during his residency at the Conjunto Santos Dumont. Murada also represented Lanchonete.org for its participation in [Cosmopolis #1 Collective Intelligence (2017)](https://c1.cosmopolis.woo.cat/en/) in Paris at Centre Pompidou.
+[Receitas da Paim cordel](/lanchonete/pdfs/Receitas-da-Paim_Adler-Murada.pdf) was produced during his residency at the Conjunto Santos Dumont. Murada also represented Lanchonete.org for its participation in [Cosmopolis #1 Collective Intelligence (2017)](https://c1.cosmopolis.woo.cat/en/) in Paris at Centre Pompidou.
 
 [cargocollective.com/adlermurad/ADLER-MURAD](http://cargocollective.com/adlermurad/ADLER-MURAD)  
   
@@ -441,7 +441,7 @@ Lorena Vicini comes from São Paulo, works as publisher and cultural management 
 
 [Vicini interviewed Todd Lester for BOMB Magazine](https://bombmagazine.org/articles/todd-lester/) at the launch of Lanchonete.org and joined the project thereafter, leading on projects with Cidades Sem Fome and Occupation São João.
 
-See the [Lanchonete.org brochure](https://artfuladministrator.files.wordpress.com/2013/11/pdf_lanchonete_preview_20131108_a.pdf) Lorena designed for the Sao Paulo X Bienal de Arquitetura.
+See the [Lanchonete.org brochure](/lanchonete/pdfs/pdf_lanchonete_preview_20131108_a.pdf) Lorena designed for the Sao Paulo X Bienal de Arquitetura.
 
   
   
@@ -626,7 +626,7 @@ Jakub Szczęsny is a co-founder of Centrala, a design platform from Warsaw, Pola
 
 #### **Adham Bakry**
 
-Adham Bakry is a graphic designer, illustrator and photographer with his BA in architecture. He illustrated the Lanchonete.org process for a book chapter, [Anatomy of a Durational Project](https://f780f80c-7d0f-4a1b-8fba-aec2bb15f6d1.filesusr.com/ugd/dfd8e8_726ffc4f6a1b431b8e0195bba54b3f05.pdf), Lanchonete.org (2013-2017)  
+Adham Bakry is a graphic designer, illustrator and photographer with his BA in architecture. He illustrated the Lanchonete.org process for a book chapter, [Anatomy of a Durational Project](/lanchonete/pdfs/dfd8e8_726ffc4f6a1b431b8e0195bba54b3f05.pdf), Lanchonete.org (2013-2017)  
   
 
 ![image13](/arquivo/images/image13.jpg)

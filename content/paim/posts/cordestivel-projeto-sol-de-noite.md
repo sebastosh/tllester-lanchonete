@@ -27,7 +27,7 @@ fotos ©Leandro Moraes
 
 Cordestível + projeto Sol de Noite (Laboratório Itinerante de Cozinha Criativa) foi um encontro promovido por Lanchonete.org que aconteceu em colaboração entre o artista residente Adler Murada com a artista Ingrid Cuestas (Colômbia) e o cozinheiro Abdoulaye Guibila (Burkina Faso).
 
-A proposta consistiu em uma atividade que compartilhou operações da cozinha popular com a linguagem do cordel, onde os participantes puderam criar imagens comestíveis com ingredientes utilizados no preparo da tapioca. A ação fez parte do projeto [Receitas da Paim](https://paim.local//tag/receitas-da-paim/), elaborado por Adler e Lanchonete.org, com um resgate das receitas e histórias da migração nordestina, servido em refeições públicas durante sua residência.
+A proposta consistiu em uma atividade que compartilhou operações da cozinha popular com a linguagem do cordel, onde os participantes puderam criar imagens comestíveis com ingredientes utilizados no preparo da tapioca. A ação fez parte do projeto Receitas da Paim, elaborado por Adler e Lanchonete.org, com um resgate das receitas e histórias da migração nordestina, servido em refeições públicas durante sua residência.
 
 \[portfolio\_slideshow exclude="199,200,201,202,203,204,205,206,207"\]
 

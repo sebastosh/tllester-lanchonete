@@ -7,21 +7,21 @@ title: "referências / archive"
 type: "page"
 ---
 
-**O pensamento Hetero**— Wittig, Monique [pdf download](https://cidadequeer.local//wp-content/uploads/2016/06/Wittig-Monique-O-pensamento-Hetero_pdf.pdf)
+**O pensamento Hetero**— Wittig, Monique [pdf download](/cidadequeer/pdfs/Wittig-Monique-O-pensamento-Hetero_pdf.pdf)
 
  
 
-**Interpretações imundas de como a Teoria Queer coloniza nosso contexto sudaca1, pobre de aspirações e terceiro-mundista, perturbando com novas construções de gênero aos humanos encantados com a heteronorma** — **Hija de Perra** [pdf download](https://cidadequeer.local//wp-content/uploads/2016/06/12896-38990-1-PB.pdf)
+**Interpretações imundas de como a Teoria Queer coloniza nosso contexto sudaca1, pobre de aspirações e terceiro-mundista, perturbando com novas construções de gênero aos humanos encantados com a heteronorma** — **Hija de Perra** [pdf download](/cidadequeer/pdfs/12896-38990-1-PB.pdf)
 
 "Un circuito que (nos) implica y (nos) provoca, que está en la universidad,que es un espacio donde queremos -y más aún- debemos tensionar. Existe una apuesta política que como disidentes sexuales hacemos con el feminismo, con sus imbricadas formas, con un feminismo polisémico, amplio, un feminismo quimérico, donde encontrar nuestros espacios, siempre locales, abiertos a nuevas prácticas y manifestaciones de lo político de nuestros cuerpos, de nuestras interrupciones, que –como este circuito– nos posibilitó en rebeldía y compromiso. La publicación de estos textos, sin duda establecen una mirada, una parcialidad crítica que como Coordinadora Universitaria por la Disidencia Sexual (CUDS) hemos luchado por conseguir, porque los debates nunca son sólo únicos, siempre existe la posibilidad del reverso en las formas que se manejan nuestros cuerpos y subjetividades, siempre existe ese pensamiento disidente, pues entendemos la teoría como práctica y entonces es ahí donde queremos posicionarnos,donde hemos querido estar. Y así entonces volvemos a ese primer fragmento que nos posibilitó y nos hizo recrear este circuito que en su desarrollo tensionó y buscó descifrar identidades únicas y modélicas que se resisten a la posibilidad de un quiebre en la forma en que vemos y representamos la realidad. “En otras palabras, caemos en un feminismo sin mujeres; donde la posición “mujer” (un emplazamiento en el discurso) es sólo (como vimos) el sitio de oposición política y resignificación. Este desplazamiento no parece beneficiar los objetivos específicos de las mujeres reales”[1\]. Nosotros no estamos tan seguro de aquello."
 
  
 
-**POR UN FEMINISMO SIN MUJERES — Fragmentos del Segundo Circuito Disidencia Sexual** [pdf download](https://cidadequeer.local//wp-content/uploads/2016/06/DE1055.pdf)
+**POR UN FEMINISMO SIN MUJERES — Fragmentos del Segundo Circuito Disidencia Sexual** [pdf download](/cidadequeer/pdfs/DE1055.pdf)
 
  
 
-**Queer Ecology**: [pdf download](https://cidadequeer.local//wp-content/uploads/2016/06/queer-ecology.pdf) "In this paper I want to explore some possible lines of intersection between the ecological and sexual signifi cance of marginal urban spaces in order to develop the conceptual terrain of ʻqueer ecology’. I begin with an exploration of the connections between the queering of space and the formation of urban heterotopias. We then consider possible ways in which urban ecology, and in particular urban political ecology, might be enriched through a ʻqueering’ of its analytical frameworks. Finally, we examine the prospects for ‘heterotopic alliances’ emerging from specifi c cultural and scientifi c responses to urban nature that challenge the implicit utilitarianism and ‘new morality’ of urban public space. For the architectural historian Aaron Betsky (1995, page 201) ‘queer space’ is “a space of difference”, an arena of doubt, self-criticism, and “the possibility of liberation”."
+**Queer Ecology**: [pdf download](/cidadequeer/pdfs/queer-ecology.pdf) "In this paper I want to explore some possible lines of intersection between the ecological and sexual signifi cance of marginal urban spaces in order to develop the conceptual terrain of ʻqueer ecology’. I begin with an exploration of the connections between the queering of space and the formation of urban heterotopias. We then consider possible ways in which urban ecology, and in particular urban political ecology, might be enriched through a ʻqueering’ of its analytical frameworks. Finally, we examine the prospects for ‘heterotopic alliances’ emerging from specifi c cultural and scientifi c responses to urban nature that challenge the implicit utilitarianism and ‘new morality’ of urban public space. For the architectural historian Aaron Betsky (1995, page 201) ‘queer space’ is “a space of difference”, an arena of doubt, self-criticism, and “the possibility of liberation”."
 
  
 
@@ -29,7 +29,7 @@ type: "page"
 
  
 
-**DESMONTAR LA LENGUA DEL MANDATO, CRIAR LA LENGUA DEL DESACATO —** Edición del Colectivo Utópico de Disidencia Sexual (CUDS) [pdf download](https://cidadequeer.local//wp-content/uploads/2016/06/c0aea5_4a339ec2fc2d4ad8ad8be60b440f988e.pdf)
+**DESMONTAR LA LENGUA DEL MANDATO, CRIAR LA LENGUA DEL DESACATO —** Edición del Colectivo Utópico de Disidencia Sexual (CUDS) [pdf download](/cidadequeer/pdfs/c0aea5_4a339ec2fc2d4ad8ad8be60b440f988e.pdf)
 
  
 

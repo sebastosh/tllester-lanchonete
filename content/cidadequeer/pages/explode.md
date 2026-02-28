@@ -22,15 +22,15 @@ Acreditamos nessa imersão e nesse modo de aprendizagem baseado na escuta, como 
 
  
 
-[![explode_residentes](images/explode_residentes-650x433.jpg)](https://cidadequeer.local//2016/08/03/explode-residency-residentes/)
+![explode_residentes](images/explode_residentes-650x433.jpg)
 
-[Conheça a lista de residentes](https://cidadequeer.local//2016/08/03/explode-residency-residentes/)
+[Conheça a lista de residentes](/cidadequeer/posts/explode-residency-residentes/)
 
  
 
-[![explode_convites_programacaopublica](images/explode_convites_programacaopublica-650x433.jpg)](https://cidadequeer.local//2016/08/05/explode-residency-programacao-publica/)
+![explode_convites_programacaopublica](images/explode_convites_programacaopublica-650x433.jpg)
 
-[Confira a programação pública da residência](https://cidadequeer.local//2016/08/05/explode-residency-programacao-publica/)
+[Confira a programação pública da residência](/cidadequeer/posts/explode-residency-programacao-publica/)
 
  
 
@@ -64,7 +64,7 @@ _We believe that this immersion and this way of learning based on listening, int
 
  
 
-[Find here the residents of the house](https://cidadequeer.local//2016/08/03/explode-residency-residentes/)!
+[Find here the residents of the house](/cidadequeer/posts/explode-residency-residentes/)!
 
  
 

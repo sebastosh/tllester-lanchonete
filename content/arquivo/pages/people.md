@@ -9,7 +9,7 @@ type: "arquivo"
 
 _\*Embora o Lanchonete.org tenha sido originalmente um processo de cinco anos, nós continuamos a receber artistas e urbanistas no local da lanchonete e seus arredores até hoje, como [Lavi Kasongo](https://lanchonete.org/en/2021/01/lavi-kasongo/), [Abdoulaye Guibila](https://lanchonete.org/en/2020/10/abdoulaye-guibila/), [Fernando Pereira dos Santos](https://lanchonete.org/en/2020/10/fernando-pereira-dos-santos/), [Margem](https://lanchonete.org/en/2020/09/margem/), [Edgar Calel](https://lanchonete.org/en/2020/09/edgar-calel/), [Thiago Correia Gonçalves](https://lanchonete.org/en/2020/09/thiago-goncalves/), [Andrew O'Connor](https://lanchonete.org/en/2019/09/andrew-oconnor-em-residencia-com-lanchonete-org-e-residencia-sao-joao/), [Estúdio Vertical](https://lanchonete.org/en/2019/07/evento-final-de-trabalho-de-estudantes-do-estudio-vertical-escola-da-cidade-no-conjunto-santos-dumont/), [Anat Litwin](https://lanchonete.org/en/2019/05/anat-litwin-participa-de-seminario-internacional-da-escola-da-cidade/), [Adler Murada](https://lanchonete.org/en/2017/06/adler-murada-em-residencia-na-paim-cultura-e-comida-uma-experiencia-sobre-o-entendimento-da-migracao-habitacao-e-trabalho-2/) (relatório de uma participante, Carina Paoletti, sobre outro participante), [Passeio Urbano](https://lanchonete.org/en/2017/06/passeio-urbano-bela-vista-2/) e [Umlilo & Stash Crew.](https://lanchonete.org/en/2017/04/conversa-com-umlilo-stash-crew/) 2018 foi originalmente concebido como uma programação pública, ou [Ciclo de Pós-Planejamento](https://lanchonete.org/2018/09/programacao-de-encerramento/), depois dos primeiros cinco anos do projeto._
 
-Todos os convidados e participantes desde o início de 2019 podem ser encontrados no blog da [página principal](https://lanchonete.org/en/). Biografias de participantes de longo prazo que não constam no arquivo, como Thiago de Paula Souza, Thiago Carrapatoso, Abdoulaye Guibila, Joel Borges e Paula Querido Van Erven estão na página [Pessoas](https://lanchonete.org/sobre/). A história do Lanchonete (2013-2016) também pode ser [vista como um cronograma](https://f780f80c-7d0f-4a1b-8fba-aec2bb15f6d1.filesusr.com/ugd/dfd8e8_7a24335b4841466f9a2e51b58f290e14.pdf), e algumas interações com artistas/urbanistas, como o Publication Studio, FICA e HabitaCidade são melhor explicadas na seção TEMAS.
+Todos os convidados e participantes desde o início de 2019 podem ser encontrados no blog da [página principal](https://lanchonete.org/en/). Biografias de participantes de longo prazo que não constam no arquivo, como Thiago de Paula Souza, Thiago Carrapatoso, Abdoulaye Guibila, Joel Borges e Paula Querido Van Erven estão na página [Pessoas](https://lanchonete.org/sobre/). A história do Lanchonete (2013-2016) também pode ser [vista como um cronograma](/lanchonete/pdfs/dfd8e8_7a24335b4841466f9a2e51b58f290e14.pdf), e algumas interações com artistas/urbanistas, como o Publication Studio, FICA e HabitaCidade são melhor explicadas na seção TEMAS.
 
   
   
@@ -53,9 +53,9 @@ Thiago Correia Gonçalves vive e trabalha em São Paulo e em Nova York. Estudou 
 
 Veja o [Ciclo Pós-Projeto](https://lanchonete.org/en/2018/09/programacao-de-encerramento/)
 
-Veja o [folheto do Lanchonete.org](https://lanchonete.org/wp-content/uploads/2018/09/Paim-2018-HResEng.pdf) com o trabalho de Thiago.
+Veja o [folheto do Lanchonete.org](/lanchonete/pdfs/Paim-2018-HResEng.pdf) com o trabalho de Thiago.
 
-Veja a zine de [lançamento do Lanchonete.org](https://artfuladministrator.files.wordpress.com/2014/08/final_menu_zine_no1.pdf), com o design de Thiago, feita para a Feira Tijuana (São Paulo, 2013).
+Veja a zine de [lançamento do Lanchonete.org](/lanchonete/pdfs/final_menu_zine_no1.pdf), com o design de Thiago, feita para a Feira Tijuana (São Paulo, 2013).
 
 [cargocollective.com/thiagocg](http://cargocollective.com/thiagocg)  
   
@@ -157,7 +157,7 @@ O Coletivo Amem foi um convidado do projeto do [Museu da Vizinhança](http://www
 
 Jaroslav Anděl é um artista conceitual, fotógrafo, histórico da arte, curador, e pedagogo. Ele estudou fotografia na FAMU (1967-72) e história da arte na Charles University na Praga (1969-73). Recebeu seu doutorado da Charles University em Praga em 1982. Foi diretor da Galeria Nacional no Museu de Arte Moderna de Praga, autor do Avant-Garde Page Design, Alexandr Hackenschmied, editor do Art Into Life: Russian Constructivism 1914-1932, Czech Modernism 1900-1945 e outros livros sobre arte do século 20. Em 2001 iniciou o simpósio Excavating the Future, em Praga. De 2008 a 2014 foi Diretor Artístico do DOX, Centre for Contemporary Art, Praga. De 2004-2008, foi Diretor Artístico de Atuação no DOX. Vive em Nova York e Praga. Jaroslav Anděl ensina seminários interdisciplinários para Estudos de Arte Visual e Humanidades, como Palestrante Senior Distinto Adjunto.
 
-Andel incluiu o Lanchonete.org no [Modes of Democracy](https://f780f80c-7d0f-4a1b-8fba-aec2bb15f6d1.filesusr.com/ugd/dfd8e8_64bdf2da6f724b39831d6053ca9ac21f.pdf) antes de visitar. Sua viagem de pesquisa em 2017 foi uma visita preparatória para considerar São Paulo para uma exposição itinerária chamada Radical Pedagogies.
+Andel incluiu o Lanchonete.org no [Modes of Democracy](/lanchonete/pdfs/dfd8e8_64bdf2da6f724b39831d6053ca9ac21f.pdf) antes de visitar. Sua viagem de pesquisa em 2017 foi uma visita preparatória para considerar São Paulo para uma exposição itinerária chamada Radical Pedagogies.
 
   
   
@@ -219,7 +219,7 @@ Ele teve a ideia original do Lanchonete.org
 
 Adler foi um dos primeiros residentes de longa duração no Conjunto Santos Dumont, e coincidiu com o projeto do Amber Art Collective e o [Museu da Vizinhança](http://www.paim.lanchonete.org/museu-da-vizinhanca/).
 
-[O cordel Receitas da Paim](https://lanchonete.org/wp-content/uploads/2017/06/Receitas-da-Paim_Adler-Murada.pdf) foi produzido durante sua residência no Conjunto Santos Dumont. Murada também representou o Lanchonete.org em sua participação no [Cosmopolis #1 Collective Intelligence (2017)](https://c1.cosmopolis.woo.cat/en/) em Paris, no Centro Pompidou.
+[O cordel Receitas da Paim](/lanchonete/pdfs/Receitas-da-Paim_Adler-Murada.pdf) foi produzido durante sua residência no Conjunto Santos Dumont. Murada também representou o Lanchonete.org em sua participação no [Cosmopolis #1 Collective Intelligence (2017)](https://c1.cosmopolis.woo.cat/en/) em Paris, no Centro Pompidou.
 
 [cargocollective.com/adlermurad/ADLER-MURAD](http://cargocollective.com/adlermurad/ADLER-MURAD)  
   
@@ -443,7 +443,7 @@ Lorena Vicini vem de São Paulo, trabalha como editora e gestora cultural, e atu
 
 [Vicini entrevistou Todd Lester para a BOMB Magazine](https://bombmagazine.org/articles/todd-lester/) no lançamento do Lanchonete.org e se juntou ao projeto em seguida, conduzindo projetos com o Cidades Sem Fome e a Ocupação São João.
 
-Veja o [folheto do Lanchonete.org](https://artfuladministrator.files.wordpress.com/2013/11/pdf_lanchonete_preview_20131108_a.pdf), feito por Lorena para a 10a Bienal de Arquitetura de São Paulo.
+Veja o [folheto do Lanchonete.org](/lanchonete/pdfs/pdf_lanchonete_preview_20131108_a.pdf), feito por Lorena para a 10a Bienal de Arquitetura de São Paulo.
 
   
   
@@ -630,7 +630,7 @@ Jakub Szczęsny é co-fundador da Centrala, uma plataforma de design de Varsóvi
 
 #### **Adham Bakry**
 
-Adham Bakry é designer gráfico, ilustrador e fotógrafo, e possui um BA em arquitetura. Ilustrou o processo do Lanchonete.org para o capítulo [“Anatomia de um Pojeto Duracional (“Anatomy of a Durational Project”)](https://f780f80c-7d0f-4a1b-8fba-aec2bb15f6d1.filesusr.com/ugd/dfd8e8_726ffc4f6a1b431b8e0195bba54b3f05.pdf), Lanchonete.org. (2013-2017)  
+Adham Bakry é designer gráfico, ilustrador e fotógrafo, e possui um BA em arquitetura. Ilustrou o processo do Lanchonete.org para o capítulo [“Anatomia de um Pojeto Duracional (“Anatomy of a Durational Project”)](/lanchonete/pdfs/dfd8e8_726ffc4f6a1b431b8e0195bba54b3f05.pdf), Lanchonete.org. (2013-2017)  
   
 
 ![image13](/arquivo/images/image13.jpg)

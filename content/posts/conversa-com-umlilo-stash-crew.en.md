@@ -9,7 +9,7 @@ title: "Conversa com: Umlilo & Stash Crew"
 type: "post"
 ---
 
-[![](/lanchonete/images/18058164_10210813181940095_6668108190539177929_n.jpg)](http://www.paim.lanchonete.org/wp-content/uploads/2017/04/18058164_10210813181940095_6668108190539177929_n.jpg)
+![](/lanchonete/images/18058164_10210813181940095_6668108190539177929_n.jpg)
 
 No contexto da vinda de [Umlilo & Stash Crew](https://www.facebook.com/groups/130556420814386/) (África do Sul) para o Sesc-SP, o programa [Cidade Queer](http://cidadequeer.lanchonete.org) promoveu uma conversa sobre performatividade queer/kuir e ativismo LGBTQ+.
 

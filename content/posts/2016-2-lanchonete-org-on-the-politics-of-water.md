@@ -28,7 +28,7 @@ Although the plant originates in India, Malaysia, Java, and Sumatra, the Ficus e
 
 When I first saw the Ficus beautifully standing in Ibirapuera Park in São Paulo, I was entranced by its power and the construction of its “trunks.” I could not believe that the complex brush in front of me was only one tree! Incredibly, the organism senses the scope of ground needed for its purveyance, and this is one of the greatest lessons nature can teach us about sustainable and responsible resource management.
 
-[![](/lanchonete/images/mapa-do-abastecimento.jpg)](http://www.worldpolicy.org/sites/default/files/uploaded/image/mapa-do-abastecimento.jpg)
+![](/lanchonete/images/mapa-do-abastecimento.jpg)
 
 _São Paulo’s convoluted reservior systems (click to view the map in full size_)
 

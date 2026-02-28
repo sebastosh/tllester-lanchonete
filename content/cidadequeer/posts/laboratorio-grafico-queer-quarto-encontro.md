@@ -21,6 +21,6 @@ Além dessas questões, o problema da normatividade na cidade foi  levantado 
 
  
 
-[![IMG_6019](images/IMG_6019-650x488.jpg)](https://cidadequeer.local//wp-content/uploads/2016/06/IMG_6019.jpg)
+![IMG_6019](images/IMG_6019-650x488.jpg)
 
-![IMG_6020](images/IMG_6020-525x700.jpg)[![IMG_6021](images/IMG_6021-300x225.jpg)](https://cidadequeer.local//wp-content/uploads/2016/06/IMG_6021.jpg)
+![IMG_6020](images/IMG_6020-525x700.jpg)![IMG_6021](images/IMG_6021-300x225.jpg)

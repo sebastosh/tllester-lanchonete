@@ -20,7 +20,7 @@ type: "post"
 
 ### Cineclube .Aurora + Cidade Queer
 
-O espaço .[Aurora](http://www.pontoaurora.com/) e o programa [Cidade Queer](https://cidadequeer.local//), desenvolvido por Lanchonete.org com o apoio de [Musagetes](http://musagetes.ca), tem o prazer de receber o projeto [CABINE](http://www.pontoaurora.com/cineclube-cidade-queer-apresentam-cabine/) dos artistas Bruno Mendonça e Natalia Coutinho.
+O espaço .[Aurora](http://www.pontoaurora.com/) e o programa Cidade Queer, desenvolvido por Lanchonete.org com o apoio de [Musagetes](http://musagetes.ca), tem o prazer de receber o projeto [CABINE](http://www.pontoaurora.com/cineclube-cidade-queer-apresentam-cabine/) dos artistas Bruno Mendonça e Natalia Coutinho.
 
 O projeto [CABINE](http://www.pontoaurora.com/cineclube-cidade-queer-apresentam-cabine/) surgiu de um intenso processo de interlocução nos últimos anos entre os artistas e para eles consiste em uma publicação espacializada através de materiais audiovisuais e impressos: uma espécie de zona discursiva e dialógica onde os artistas expandem esse processo e exibem parte do cruzamento de suas pesquisas.
 

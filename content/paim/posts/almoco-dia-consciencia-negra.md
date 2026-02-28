@@ -27,6 +27,6 @@ fotos ©Leandro Moraes
   
 —
 
-[![](images/1I5A5088-copy-1024x683.jpg)](https://paim.local//wp-content/uploads/2017/11/1I5A5088-copy.jpg) O artista Dig Ferreira esteve em residência conosco durante o período de setembro-dezembro de 2017.
+![](images/1I5A5088-copy-1024x683.jpg) O artista Dig Ferreira esteve em residência conosco durante o período de setembro-dezembro de 2017.
 
 foto ©Leandro Moraes

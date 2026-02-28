@@ -18,4 +18,4 @@ Ao pesquisar o direito à cidade, o Lanchonete.org tem trabalhada por toda a cid
 
 Ao se aproximar da data “oficial” do fim do Lanchonete.org, nós solicitamos ideias de participantes anteriores e de moradores do Conjunto Santos Dumont, dado que o aparato da plataforma ainda existe, e que o nosso desejo que o trabalho--e relacionamentos-- no Conjunto Santos Dumont possam continuar de diferentes formas.  Existem várias ideias que ainda estão sendo discutidas no Bar do Tarcísio, e uma delas é um enorme Toque Final concebido pelo artista Thiago Gonçalves, na forma de uma instalação LED representando os aviões do Santos Dumont no prédio 14 Bis, no lado voltado à Av. Paulista. Antecipamos um anúncio deste trabalho durante o Centenário da 'Semana de Arte Moderna' em 2022.
 
-[![](/lanchonete/images/CSD-departure-gif-3-500x304.gif)](http://lanchonete.org/wp-content/uploads/2018/09/CSD-departure-gif-3.gif)
+![](/lanchonete/images/CSD-departure-gif-3-500x304.gif)
